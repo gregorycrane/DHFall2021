@@ -1,10 +1,17 @@
 # Introduction to the Digital Humanities: understanding sources about people and groups in time and space
 
 
-[Random links to be integrated later: https://news.harvard.edu/gazette/story/2021/06/harvard-library-offers-new-way-to-see-colonial-north-america/ ]
+[Random links to be integrated later: https://news.harvard.edu/gazette/story/2021/06/harvard-library-offers-new-way-to-see-colonial-north-america/
 
+http://www.cs.cmu.edu/~ark/SEMAFOR/
 
-The fall 2021 Introduction to Digital Humanities at Tufts University will focus on how we can use computational methods to understand sources that talk about people, individually and as groups, as they move through time and space. The class will focus as a group on one particular source: Edward Gibbon's monumental Decline and Fall fo the Roman Empire. There are several reasons behind this choice.
+https://stanfordnlp.github.io/CoreNLP/openie.html
+
+ ]
+
+The Introduction to Digital Humanities at Tufs can be taken as either CS 52 or as Classics 91. While the default course number indicates that the class is open to undergraduates, graduate students are encouraged to take this class as well by covering more work (primarily readings in secondary sources) and should talk to the instructor.   
+
+The fall 2021 Introduction to Digital Humanities at Tufts University will focus on how we can use computational methods to understand sources that talk about people, individually and as groups, as they move through time and space. While we will focus on historical sources, the methods that we use can be applied to any sources that describe people in time and place. The class will focus as a group on one particular source: Edward Gibbon's monumental Decline and Fall fo the Roman Empire. There are several reasons behind this choice.
 
 1. The Decline and Fall, originally published in six volumes, is sufficiently large that few will be able to read it in its entirety and fewer still will be able to subject the whole text to traditional close reading. 
 2. For statistical analysis, however, bigger is better.  The version of the Decline and Fall available from Project Gutenberg contains 1,594,885 space delimited tokens -- not a large corpus by computational standards but probably large enough to yield interesting results when analyzed quantatively and compared with other sources.
