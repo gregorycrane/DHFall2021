@@ -16,9 +16,10 @@ The fall 2021 Introduction to Digital Humanities at Tufts University will focus 
 Learning outcomes include:
 
 <ol>
+<li>Initial exposure to the Digital Humanities as a field of study in its own right. We will treat the Digital Humanities as a space where ideas from the computational sciences and from the many subjects and disciplinary approaches of the Humanities interact. We view the term Digital Humanities as a helpful but transitional term. In fact, we live in a society in which ideas primarily circulate via digital media. The real topic of discussion is how the Humanities can, and should, evolve within a digital age.
 <li>Hands-on experience with a range of methods by which members of the class can use Python to explore sources from the human record. While we will focus primarily upon materials in English, we will also explore methods by which to work with sources in languages that we do not know.
 <li>Crtical assessment of what consitutes research in (one particular area within) the humanities will include questions such as: (1) What questions have traditionl scholars posed and how hav they published them? (2) How can we answer those questions with new digital methods? (3) What new questions might we ask beyond traditional research? (4) What new audiences can we reach and how would those audiences change the questions that we pose and the ideas that we publish?
-<li>Initial exposure to the Digital Humanities as a field of study in its own right.
+
 </ol>
 
 While we will develop a common vocabulary, members of the class will focus in their course projects on different topics. Ideally, class projects will be produced by teams of two or more students with complementary skills. 
@@ -26,11 +27,11 @@ While we will develop a common vocabulary, members of the class will focus in th
 <ol>
 <li>September 8: Introduction to the course
 
-<li>September 13:
+<li>September 13: Micah Saxton -- text analysis exploration: the goal is to give students a hands-on example where a few lines of code generate visualizations that immediately illustrate differences between two texts. Default would be a comparison of Gibbon's Decline and Fall with Adam Smith's Wealth of Nations. We could simply use volume 1 of Gibbon, since volume 1 and Weath of Nations were both published in the same year, or we could just include all six volumes of Gibbon. Alternately, we could use an English translation of one of Gibbon's sources (such as Ammaianus Marecellinus). Then we would  probably want to select the sections of Gibbon that overlap with Ammianus. The differences would probably not be as dramatic and we would have the issue of the English translation (produced decades after Gibbon had died).
 
-<li>September 15:
+<li>September 15: Close reading of passages from Gibbon and Smith/Ammianus in light of the results. The point here is for students to see how they need the close reading to complement the exploratory data analysis (and to contextualize this with practices such as "ground truth" vs. remote sensing).
 
-<li>September 20:
+<li>September 20:  Micah Saxton -- Github intro
 
 <li>September 22:
 
