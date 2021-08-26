@@ -11,7 +11,76 @@ https://stanfordnlp.github.io/CoreNLP/openie.html
 
 The Introduction to Digital Humanities at Tufs can be taken as either CS 52 or as Classics 91. While the default course number indicates that the class is open to undergraduates, graduate students are encouraged to take this class as well by covering more work (primarily readings in secondary sources) and should talk to the instructor.   
 
-The fall 2021 Introduction to Digital Humanities at Tufts University will focus on how we can use computational methods to understand sources that talk about people, individually and as groups, as they move through time and space. While we will focus on historical sources, the methods that we use can be applied to any sources that describe people in time and place. The class will focus as a group on one particular source: Edward Gibbon's monumental Decline and Fall fo the Roman Empire. There are several reasons behind this choice.
+The fall 2021 Introduction to Digital Humanities at Tufts University will focus on how we can use computational methods to understand sources that talk about people, individually and as groups, as they move through time and space. While we will focus on historical sources, the methods that we use can be applied to any sources that describe people in time and place. 
+
+Learning outcomes include:
+
+<ol>
+<li>Hands-on experience with a range of methods by which members of the class can use Python to explore sources from the human record. While we will focus primarily upon materials in English, we will also explore methods by which to work with sources in languages that we do not know.
+<li>Crtical assessment of what consitutes research in (one particular area within) the humanities will include questions such as: (1) What questions have traditionl scholars posed and how hav they published them? (2) How can we answer those questions with new digital methods? (3) What new questions might we ask beyond traditional research? (4) What new audiences can we reach and how would those audiences change the questions that we pose and the ideas that we publish?
+<li>Initial exposure to the Digital Humanities as a field of study in its own right.
+</ol>
+
+While we will develop a common vocabulary, members of the class will focus in their course projects on different topics. Ideally, class projects will be produced by teams of two or more students with complementary skills. 
+
+<ol>
+<li>September 8: Introduction to the course
+
+<li>September 13:
+
+<li>September 15:
+
+<li>September 20:
+
+<li>September 22:
+
+<li>September 27:
+
+<li>September 29:
+
+<li>October 4:
+
+<li>October 6:
+
+<li>October 11: HOLIDAY
+
+<li>October 13:
+
+<li>October 18:
+
+<li>October 20:
+
+<li>October 25:
+
+<li>October 27:
+
+<li>November 1:
+
+<li>November 3:
+<li>November 8:
+
+<li>November 10:
+
+<li>November 15:
+
+<li>November 17:
+
+<li>November 22:
+
+<li>November 24: NO CLASS
+
+<li>November 29: 
+
+<li>December 1:
+
+<li>December 6:
+
+<li>December 8:
+
+<li>December 13:
+</ol>
+
+The class will focus as a group on one particular source: Edward Gibbon's monumental Decline and Fall fo the Roman Empire. There are several reasons behind this choice.
 
 1. The Decline and Fall, originally published in six volumes, is sufficiently large that few will be able to read it in its entirety and fewer still will be able to subject the whole text to traditional close reading. 
 2. For statistical analysis, however, bigger is better.  The version of the Decline and Fall available from Project Gutenberg contains 1,594,885 space delimited tokens -- not a large corpus by computational standards but probably large enough to yield interesting results when analyzed quantatively and compared with other sources.
