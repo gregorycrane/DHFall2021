@@ -24,30 +24,46 @@ Learning outcomes include:
 
 While we will develop a common vocabulary, members of the class will focus in their course projects on different topics. Ideally, class projects will be produced by teams of two or more students with complementary skills. 
 
+Requirements:
+<ol>
+<li>Weekly blog posts on your Github pages sites. These would be typically one to two pages (c. 250-500 words). These will comment on what you learned from the classes and from the readings (although we may assign different topics during the semester).
+</ol>
+
 <ol>
 <li>September 8: Introduction to the course
 
-<li>September 13: Micah Saxton -- text analysis exploration: the goal is to give students a hands-on example where a few lines of code generate visualizations that immediately illustrate differences between two texts. Default would be a comparison of Gibbon's Decline and Fall with Adam Smith's Wealth of Nations. We could simply use volume 1 of Gibbon, since volume 1 and Weath of Nations were both published in the same year, or we could just include all six volumes of Gibbon. Alternately, we could use an English translation of one of Gibbon's sources (such as Ammaianus Marecellinus). Then we would  probably want to select the sections of Gibbon that overlap with Ammianus. The differences would probably not be as dramatic and we would have the issue of the English translation (produced decades after Gibbon had died).
+Week 1 -- Introductory topics
 
-<li>September 15: Close reading of passages from Gibbon and Smith/Ammianus in light of the results. The point here is for students to see how they need the close reading to complement the exploratory data analysis (and to contextualize this with practices such as "ground truth" vs. remote sensing).
+<li>September 13: Dual track: (1) Python basics; (2) for those comfortable with Python, we work on converting XML and HTML to a suitable plain text format. This can involve discussion of markup (ie., what are we throwing out when we "clean" the text?)
 
-<li>September 20:  Micah Saxton -- Github intro
+<li>September 15:   Micah Saxton -- Github intro
 
-<li>September 22:
 
-<li>September 27:
+Week 2 -- Distant and close reading (remote sensing vs. ground truth)
 
-<li>September 29:
+<li>September 20: Micah Saxton -- text analysis exploration: the goal is to give students a hands-on example where a few lines of code generate visualizations that immediately illustrate differences between two texts. Default would be a comparison of Gibbon's Decline and Fall with Adam Smith's Wealth of Nations. We could simply use volume 1 of Gibbon, since volume 1 and Weath of Nations were both published in the same year, or we could just include all six volumes of Gibbon. Alternately, we could use an English translation of one of Gibbon's sources (such as Ammaianus Marcellinus). Then we would  probably want to select the sections of Gibbon that overlap with Ammianus. The differences would probably not be as dramatic and we would have the issue of the English translation (produced decades after Gibbon had died).
 
-<li>October 4:
+<li>September 22: Close reading of passages from Gibbon and Smith/Ammianus in light of the results. The point here is for students to see how they need the close reading to complement the exploratory data analysis (and to contextualize this with practices such as "ground truth" vs. remote sensing).
 
-<li>October 6:
+Week 3-5: Named Entities Classification 
+
+<li>September 27: Use Python and Regular Expressions to identify named entities. Demonstrate the limnitations of SpaCy and systems trained on different corpora. How do we bootstrap named entities for a new genre/topic? Different strategies: find the named entities and then classify them. Do you also want to "identify" them? what is the difference? Strategies: (1) start with the most common and work down; (2) pick a particular chunk and do it thoroughly.
+
+<li>September 29: Evaluating your results: precision, recall, F-measure, limitations of evaluation (there is not always a known answer!). Evaluation in NLP vs. the Humanities. Journalistic prose vs. historical documents. Word sense disiambiguaion (experts disagree).  Assginment is to generate training data for SpaCy.
+
+<li>October 4: Results on cleaned subsets of Gibbon,  we assign chapters and/or (sort of) random subsets (eg., every 100th page)
+
+<li>October 6: Use the results of our work to train SpaCy and improve automated results.
+
+
 
 <li>October 11: HOLIDAY
 
-<li>October 13:
+<li>October 13: Geotagging and mapping
 
-<li>October 18:
+Weeks 6-8: Linguistic and Stylistic Analysis
+
+<li>October 18:  Introduction to morpho-syntactic analysis with Stanza
 
 <li>October 20:
 
@@ -55,9 +71,13 @@ While we will develop a common vocabulary, members of the class will focus in th
 
 <li>October 27:
 
-<li>November 1:
+
+<li>November 1: Language Models and Stylistic Analysis
 
 <li>November 3:
+
+Weeks 9-10: Text Alignment and Text Reuse Detection
+
 <li>November 8:
 
 <li>November 10:
@@ -65,6 +85,8 @@ While we will develop a common vocabulary, members of the class will focus in th
 <li>November 15:
 
 <li>November 17:
+
+Week 11
 
 <li>November 22:
 
@@ -74,11 +96,11 @@ While we will develop a common vocabulary, members of the class will focus in th
 
 <li>December 1:
 
-<li>December 6:
+<li>December 6: Class Projects
 
-<li>December 8:
+<li>December 8: Class Projects
 
-<li>December 13:
+<li>December 13: Class Projects
 </ol>
 
 The class will focus as a group on one particular source: Edward Gibbon's monumental Decline and Fall fo the Roman Empire. There are several reasons behind this choice.
