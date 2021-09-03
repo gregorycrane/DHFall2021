@@ -61,15 +61,27 @@ Week 3-5: Named Entities Classification
 
 <li>October 13: Geotagging and mapping
 
-Weeks 6-8: Linguistic and Stylistic Analysis
+* The world that Gibbon describes:
 
-<li>October 18:  Introduction to morpho-syntactic analysis with Stanza
+* The Europe in which Gibbon lived: https://upload.wikimedia.org/wikipedia/commons/6/6a/Central_europe_1786.jpg
+
+Week 6: Dates and timelines
+
+
+
+<li>October 18: 
 
 <li>October 20:
 
-<li>October 25:
+Weeks 7-8: Linguistic and Stylistic Analysis
 
-<li>October 27:
+How do we measure the differences in style between Gibbon and contemporaries (such as Adam Smith) on the one hand and between Gibbon and contemporary corpora (e.g., recent newswires)? How well can we identify the source of a passage? How well can we identify distinctive features of Gibbon to people as they read the text?
+
+To what extent can we automatically identify and explain features of Gibbon's language that may be confusing to those accustomed to 21st century English? This is a very general problem that anyone encounters if they try to apply the version of a language that they learn in a classroom to authentic sources from that culture.
+
+<li>October 25:  Introduction to morpho-syntactic analysis with Stanza
+
+<li>October 27:  Dependency grammar and reading texts in unknown languages
 
 
 <li>November 1: Language Models and Stylistic Analysis
@@ -78,23 +90,24 @@ Weeks 6-8: Linguistic and Stylistic Analysis
 
 Weeks 9-10: Text Alignment and Text Reuse Detection
 
-<li>November 8:
+<li>November 8: Aligning two versions of a text (e.g., Gutenberg vs. Library of Liberty versions of Gibbon) 
 
-<li>November 10:
+<li>November 10: Finding quotations of one text in another
 
-<li>November 15:
+<li>November 15: Aligning source text and translation
+[http://paralela.logrusglobal.com/]
 
-<li>November 17:
+<li>November 17: Translation alignment and the tranformation of language
 
 Week 11
 
-<li>November 22:
+<li>November 22: Class Project Proposals
 
 <li>November 24: NO CLASS
 
-<li>November 29: 
+<li>November 29: Anna Kijas, DH and Music History
 
-<li>December 1:
+<li>December 1: TBA
 
 <li>December 6: Class Projects
 
