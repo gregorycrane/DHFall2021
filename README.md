@@ -9,7 +9,7 @@ https://stanfordnlp.github.io/CoreNLP/openie.html
 
  ]
 
-The Introduction to Digital Humanities at Tufs can be taken as either CS 52 or as Classics 91. While the default course number indicates that the class is open to undergraduates, graduate students are encouraged to take this class as well by covering more work (primarily readings in secondary sources) and should talk to the instructor.   
+The Introduction to Digital Humanities at Tufts can be taken as either CS 52 or as Classics 91. While the default course number indicates that the class is open to undergraduates, graduate students are encouraged to take this class as well by covering more work (primarily readings in secondary sources) and should talk to the instructor.   
 
 The fall 2021 Introduction to Digital Humanities at Tufts University will focus on how we can use computational methods to understand sources that talk about people, individually and as groups, as they move through time and space. While we will focus on historical sources, the methods that we use can be applied to any sources that describe people in time and place. 
 
@@ -26,7 +26,8 @@ While we will develop a common vocabulary, members of the class will focus in th
 
 Requirements:
 <ol>
-<li>Weekly blog posts on your Github pages sites. These would be typically one to two pages (c. 250-500 words). These will comment on what you learned from the classes and from the readings (although we may assign different topics during the semester).
+<li>Weekly blog posts (these will be on Github pages that we help you set up). These would be typically one to two pages (c. 250-500 words). These will comment on what you learned from the classes and from the readings (although we may assign different topics during the semester).
+<li>Those students who take the course as Classics 191 (or possibly CS 150) will be expected to read and summarize for the class publications on the state of the art.
 </ol>
 
 <ol>
