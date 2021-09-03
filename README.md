@@ -30,6 +30,7 @@ Requirements:
 <li>Those students who take the course as Classics 191 (or possibly CS 150) will be expected to read and summarize for the class publications on the state of the art.
 </ol>
 
+## Course Schedule
 <ol>
 <li>September 8: Introduction to the course
 
