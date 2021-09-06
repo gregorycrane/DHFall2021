@@ -33,7 +33,7 @@ Your work during the course will be created as a porfolio that you will create o
 <ol>
 <li>Weekly blog posts. The first post will be on a Discussion site on Canvas but we will use Github for the others. These would be typically one to two pages (c. 250-500 words). These will comment on what you learned from the classes, from the readings (although we may assign different topics during the semester) and from the assignments. These are due by Midnight each Sunday.
 <li>Those students who take the course as Classics 191 (or possibly CS 150) will be expected to read, and summarize for the class, publications from Computer Science and the Humanities.
-<li>Five exercises assigned during the semester. In the weeks when you have an exercise, your class blogs will focus on what you have learned from the exercise.
+<li>Six exercises assigned during the semester. In the weeks when you have an exercise, your class blogs will focus on what you have learned from the exercise.
 <li>A final project of your that includes (1) code of some kind, (2) information that other people will find useful about Gibbon (or whatever topic you choose), and (3) an explanation of what you did, why you did it and what you learned.
 </ol>
 
@@ -93,11 +93,12 @@ Your work during the course will be created as a porfolio that you will create o
 <li>October 6: Evaluating your results: precision, recall, F-measure, limitations of evaluation (there is not always a known answer!). Evaluation in NLP vs. the Humanities. Journalistic prose vs. historical documents. Word sense disiambiguaion (experts disagree).  Assginment is to generate training data for SpaCy.
 
 
-
+<li>October 12: Blog #4 due.
 <li>October 11: HOLIDAY
 
-<li>October 13: Exercise #2 and blog #4 due. Results on cleaned subsets of Gibbon,  we assign chapters and/or (sort of) random subsets (eg., every 100th page) Use the results of our work to train SpaCy and improve automated results. 
+<li>October 13: Results on cleaned subsets of Gibbon,  we assign chapters and/or (sort of) random subsets (eg., every 100th page) Use the results of our work to train SpaCy and improve automated results. 
 
+<li>October 17: Exercise #2 and blog #5 due. 
 </ul>
 
 
@@ -105,17 +106,17 @@ Your work during the course will be created as a porfolio that you will create o
 
 
 <ul>
-<li>October 16: Blog due
+
 
 <li>October 18: 
 
 <li>October 20:
-
+<li>October 24: Exercise #3 and blog #6 due.
 </ul>
 
 
 
-Linguistic and Stylistic Analysis
+### Linguistic and Stylistic Analysis
 
 <ul>
 
@@ -124,30 +125,37 @@ Linguistic and Stylistic Analysis
 
 <li>October 27:  Dependency grammar and reading texts in unknown languages
 
-
+<li>October 31: Blog #7 due.
 <li>November 1: Language Models and Stylistic Analysis
 
-<li>November 3: Exercise #3 due.
+<li>November 7: Exercise #4 and blog #8 due.
 </ul>
 
-Text Alignment and Text Reuse Detection
+### Text Alignment and Text Reuse Detection
 
 <ul>
 <li>November 8: Aligning two versions of a text (e.g., Gutenberg vs. Library of Liberty versions of Gibbon) 
 
-<li>November 10: Finding quotations of one text in another
+<li>November 10: Finding quotations of one text in another; Aligning source text and translation
 
-<li>November 15: Exercise #4 due. Aligning source text and translation
+<li>November 14: Exercise #5 and blog #9 due. 
 </ul>
 
 ### Network Analysis
 
 <ul>
-<li>November 17: 
+<li>November 15: 
 
-<li>November 22: Exercise #5 due.
+<li>November 17:
+
+
+<li>Blog #10 due
+
+<li>November 22:
 
 <li>November 24: NO CLASS
+
+<li>November 28: Exercise #6 and blog #11 due.
 </ul>
 
 ### Music History
