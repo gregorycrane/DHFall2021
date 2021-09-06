@@ -1,4 +1,4 @@
-# Introduction to the Digital Humanities: understanding sources about people and groups in time and space
+# Introduction to the Digital Humanities: Understanding the Human Record
 
 ## Instructors: Gregory Crane, Peter Nadel, Jake Perl
 
