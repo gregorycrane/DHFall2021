@@ -1,85 +1,124 @@
 # Introduction to the Digital Humanities: understanding sources about people and groups in time and space
 
+## Instructors: Gregory Crane, Peter Nadel, Jake Perl
 
-[Random links to be integrated later: https://news.harvard.edu/gazette/story/2021/06/harvard-library-offers-new-way-to-see-colonial-north-america/
 
-http://www.cs.cmu.edu/~ark/SEMAFOR/
 
-https://stanfordnlp.github.io/CoreNLP/openie.html
-
- ]
-
-The Introduction to Digital Humanities at Tufts can be taken as either CS 52 or as Classics 91. While the default course number indicates that the class is open to undergraduates, graduate students are encouraged to take this class as well by covering more work (primarily readings in secondary sources) and should talk to the instructor.   
+The Introduction to Digital Humanities at Tufts can be taken as either CS 52 or as Classics 91. While the default course number indicates that the class is open to undergraduates, graduate students are encouraged to take this class as well by covering more work (primarily readings in secondary sources) and should talk to the instructors.   
 
 The fall 2021 Introduction to Digital Humanities at Tufts University will focus on how we can use computational methods to understand sources that talk about people, individually and as groups, as they move through time and space. While we will focus on historical sources, the methods that we use can be applied to any sources that describe people in time and place. 
 
 Learning outcomes include:
 
 <ol>
-<li>Initial exposure to the Digital Humanities as a field of study in its own right. We will treat the Digital Humanities as a space where ideas from the computational sciences and from the many subjects and disciplinary approaches of the Humanities interact. We view the term Digital Humanities as a helpful but transitional term. In fact, we live in a society in which ideas primarily circulate via digital media. The real topic of discussion is how the Humanities can, and should, evolve within a digital age.
 <li>Hands-on experience with a range of methods by which members of the class can use Python to explore sources from the human record. While we will focus primarily upon materials in English, we will also explore methods by which to work with sources in languages that we do not know.
-<li>Crtical assessment of what consitutes research in (one particular area within) the humanities will include questions such as: (1) What questions have traditionl scholars posed and how hav they published them? (2) How can we answer those questions with new digital methods? (3) What new questions might we ask beyond traditional research? (4) What new audiences can we reach and how would those audiences change the questions that we pose and the ideas that we publish?
-
+<li>Critical assessment of what consitutes research in (one particular area within) the humanities. This assessment will include questions such as: (1) What questions have traditionl scholars posed and how hav they published them? (2) How can we answer those questions with new digital methods? (3) What new questions might we ask beyond traditional research? (4) What new audiences can we reach and how would those audiences change the questions that we pose and the ideas that we publish?
+<li>A new understanding of how the human record can contribute to the intellectual life of humanity. We view the term Digital Humanities as a helpful but transitional term. In fact, we live in a society in which ideas primarily circulate via digital media. The real topic of discussion is how the Humanities can, and should, evolve within a digital age and how we can reimagine the 
 </ol>
 
-While we will develop a common vocabulary, members of the class will focus in their course projects on different topics. Ideally, class projects will be produced by teams of two or more students with complementary skills. 
+The class will focus as a group on one particular source: Edward Gibbon's monumental Decline and Fall fo the Roman Empire. There are several reasons behind this choice.
 
-Requirements:
 <ol>
-<li>Weekly blog posts (these will be on Github pages that we help you set up). These would be typically one to two pages (c. 250-500 words). These will comment on what you learned from the classes and from the readings (although we may assign different topics during the semester).
-<li>Those students who take the course as Classics 191 (or possibly CS 150) will be expected to read and summarize for the class publications on the state of the art.
+<li>The Decline and Fall, originally published in six volumes (published between 1776 and 1788), is sufficiently large that few will be able to read it in its entirety and fewer still will be able to subject the whole text to traditional close reading. 
+<li>For statistical analysis, however, bigger is better.  The version of the Decline and Fall available from Project Gutenberg contains 1,594,885 space delimited tokens -- not a large corpus by computational standards but probably large enough to yield interesting results when analyzed quantatively and compared with other sources.
+<li>The Decline and Fall captures a critical moment in time. The first volume was published in 1776 and is contemporaneous with the Declaration of Independence as well as with the publication by Adam Smith of the Wealth of Nations. The distance in time makes it much easier for us to sense that Gibbon is looking at the past from a present that is very different from the world in which we live and the world that we may wish to fashion. 
+<li>While the Decline and Fall is written in English, it draws upon, and often quotes, sources in languages such as French, Latin, and Ancient Greek. This gives us an opportunity to explore methods by which we can use new digital methods work with sources in languages that we do not know.
 </ol>
 
-## Course Schedule
-<ol>
-<li>September 8: Introduction to the course
+While we will develop a common vocabulary and shared set of skills, members of the class will focus in their course projects on different topics. Ideally, class projects will be produced by teams of two or more students with complementary skills.
 
-Week 1 -- Introductory topics
+Your work during the course will be created as a porfolio that you will create on GitHub (which we will introduce in week 2 for those who are not familiar with it).
+
+## Requirements
+<ol>
+<li>Weekly blog posts. The first post will be on a Discussion site on Canvas but we will use Github for the others. These would be typically one to two pages (c. 250-500 words). These will comment on what you learned from the classes, from the readings (although we may assign different topics during the semester) and from the assignments. These are due by Midnight each Sunday.
+<li>Those students who take the course as Classics 191 (or possibly CS 150) will be expected to read, and summarize for the class, publications from Computer Science and the Humanities.
+<li>Five exercises assigned during the semester. In the weeks when you have an exercise, your class blogs will focus on what you have learned from the exercise.
+<li>A final project of your that includes (1) code of some kind, (2) information that other people will find useful about Gibbon (or whatever topic you choose), and (3) an explanation of what you did, why you did it and what you learned.
+</ol>
+
+## Initial Course Schedule
+<ul>
+<li>September 8: The human record in a digital age
+</ul>
+
+### Introductory topics
+#### Required work: 
+<ul>
+<li>https://www.udemy.com/course/git-expert-4-hours/
+<li>Read 
+<ol>
+<li>Vannevar Bush. (1945) "As We May Think" The Atlantic. https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/ (also on Canvas)  
+<li>Crane, Gregory. (2019). Beyond Translation: Language Hacking and Philology. Harvard Data Science Review, 1(2). https://doi.org/10.1162/99608f92.282ad764
+</ol>
+</ul>
+
+<ul>
+<li>September 12: blog post #1 due (on Canvas): what are your goals from the class?
 
 <li>September 13: Dual track: (1) Python basics; (2) for those comfortable with Python, we work on converting XML and HTML to a suitable plain text format. This can involve discussion of markup (ie., what are we throwing out when we "clean" the text?)
 
+
+
 <li>September 15:   Micah Saxton -- Github intro
+</ul>
 
+### Distant and close reading (remote sensing vs. ground truth)
 
-Week 2 -- Distant and close reading (remote sensing vs. ground truth)
+<ul>
+<li>September 20: Micah Saxton -- text analysis exploration.
 
-<li>September 20: Micah Saxton -- text analysis exploration: the goal is to give students a hands-on example where a few lines of code generate visualizations that immediately illustrate differences between two texts. Default would be a comparison of Gibbon's Decline and Fall with Adam Smith's Wealth of Nations. We could simply use volume 1 of Gibbon, since volume 1 and Weath of Nations were both published in the same year, or we could just include all six volumes of Gibbon. Alternately, we could use an English translation of one of Gibbon's sources (such as Ammaianus Marcellinus). Then we would  probably want to select the sections of Gibbon that overlap with Ammianus. The differences would probably not be as dramatic and we would have the issue of the English translation (produced decades after Gibbon had died).
+<li>September 22: Close reading of passages from Gibbon and one or more of Gibbon's sources.
 
-<li>September 22: Close reading of passages from Gibbon and Smith/Ammianus in light of the results. The point here is for students to see how they need the close reading to complement the exploratory data analysis (and to contextualize this with practices such as "ground truth" vs. remote sensing).
+<li>September 26: Blog #2 due (on Github from now on).
+</ul>
 
-Week 3-5: Named Entities Classification 
+### Topic Modelling -- Peter Nadel and Jake Perl
 
-<li>September 27: Use Python and Regular Expressions to identify named entities. Demonstrate the limnitations of SpaCy and systems trained on different corpora. How do we bootstrap named entities for a new genre/topic? Different strategies: find the named entities and then classify them. Do you also want to "identify" them? what is the difference? Strategies: (1) start with the most common and work down; (2) pick a particular chunk and do it thoroughly.
+<ul>
+<li>September 27:
 
-<li>September 29: Evaluating your results: precision, recall, F-measure, limitations of evaluation (there is not always a known answer!). Evaluation in NLP vs. the Humanities. Journalistic prose vs. historical documents. Word sense disiambiguaion (experts disagree).  Assginment is to generate training data for SpaCy.
+<li>September 29:  
 
-<li>October 4: Results on cleaned subsets of Gibbon,  we assign chapters and/or (sort of) random subsets (eg., every 100th page)
+<li>October 3: Exercise #1 due (with blog #3)
 
-<li>October 6: Use the results of our work to train SpaCy and improve automated results.
+</ul>
+
+### Named Entities Classification and Linking
+
+<ul>
+
+<li>October 4: Use Python and Regular Expressions to identify named entities. Demonstrate the limnitations of SpaCy and systems trained on different corpora. How do we bootstrap named entities for a new genre/topic? Different strategies: find the named entities and then classify them. Do you also want to "identify" them? what is the difference? Strategies: (1) start with the most common and work down; (2) pick a particular chunk and do it thoroughly.
+
+<li>October 6: Evaluating your results: precision, recall, F-measure, limitations of evaluation (there is not always a known answer!). Evaluation in NLP vs. the Humanities. Journalistic prose vs. historical documents. Word sense disiambiguaion (experts disagree).  Assginment is to generate training data for SpaCy.
 
 
 
 <li>October 11: HOLIDAY
 
-<li>October 13: Geotagging and mapping
+<li>October 13: Exercise #2 and blog #4 due. Results on cleaned subsets of Gibbon,  we assign chapters and/or (sort of) random subsets (eg., every 100th page) Use the results of our work to train SpaCy and improve automated results. 
 
-* The world that Gibbon describes:
-
-* The Europe in which Gibbon lived: https://upload.wikimedia.org/wikipedia/commons/6/6a/Central_europe_1786.jpg
-
-Week 6: Dates and timelines
+</ul>
 
 
+### Maps and Timelines
+
+
+<ul>
+<li>October 16: Blog due
 
 <li>October 18: 
 
 <li>October 20:
 
-Weeks 7-8: Linguistic and Stylistic Analysis
+</ul>
 
-How do we measure the differences in style between Gibbon and contemporaries (such as Adam Smith) on the one hand and between Gibbon and contemporary corpora (e.g., recent newswires)? How well can we identify the source of a passage? How well can we identify distinctive features of Gibbon to people as they read the text?
 
-To what extent can we automatically identify and explain features of Gibbon's language that may be confusing to those accustomed to 21st century English? This is a very general problem that anyone encounters if they try to apply the version of a language that they learn in a classroom to authentic sources from that culture.
+
+Linguistic and Stylistic Analysis
+
+<ul>
+
 
 <li>October 25:  Introduction to morpho-syntactic analysis with Stanza
 
@@ -88,91 +127,51 @@ To what extent can we automatically identify and explain features of Gibbon's la
 
 <li>November 1: Language Models and Stylistic Analysis
 
-<li>November 3:
+<li>November 3: Exercise #3 due.
+</ul>
 
-Weeks 9-10: Text Alignment and Text Reuse Detection
+Text Alignment and Text Reuse Detection
 
+<ul>
 <li>November 8: Aligning two versions of a text (e.g., Gutenberg vs. Library of Liberty versions of Gibbon) 
 
 <li>November 10: Finding quotations of one text in another
 
-<li>November 15: Aligning source text and translation
-[http://paralela.logrusglobal.com/]
+<li>November 15: Exercise #4 due. Aligning source text and translation
+</ul>
 
-<li>November 17: Translation alignment and the tranformation of language
+### Network Analysis
 
-Week 11
+<ul>
+<li>November 17: 
 
-<li>November 22: Class Project Proposals
+<li>November 22: Exercise #5 due.
 
 <li>November 24: NO CLASS
+</ul>
+
+### Music History
+<ul>
 
 <li>November 29: Anna Kijas, DH and Music History
+</ul>
 
-<li>December 1: TBA
+### Class Projects
+<ul>
+<li>December 1: 
 
-<li>December 6: Class Projects
+<li>December 6: 
 
-<li>December 8: Class Projects
+<li>December 8: 
 
-<li>December 13: Class Projects
-</ol>
+<li>December 13:
+</ul>
 
-The class will focus as a group on one particular source: Edward Gibbon's monumental Decline and Fall fo the Roman Empire. There are several reasons behind this choice.
+###  Final Project
 
-1. The Decline and Fall, originally published in six volumes, is sufficiently large that few will be able to read it in its entirety and fewer still will be able to subject the whole text to traditional close reading. 
-2. For statistical analysis, however, bigger is better.  The version of the Decline and Fall available from Project Gutenberg contains 1,594,885 space delimited tokens -- not a large corpus by computational standards but probably large enough to yield interesting results when analyzed quantatively and compared with other sources.
-
-Sources for comparison include:
-
-* Adam Smith, the Wealth of Nations (1776 -- the same year as volume of the Decline and Fall): this provides a comparison of genre but it also allows us to see if we can detect the places and periods that Smith mentions and compare them with those in Gibbon.
-
-* English translations of the 19th century historical novels by Felix Dahn, which portray, from a German nationalist perspective, conflicts between Rome and group such as Goths, Vandals, and Huns. Can we detect differences in how different groups and historical figures are treated in Gibbon vs. Dahn? We could also explore issues of translation.
+<ul>
+<li>December 16: Final Projects Due
+</ul>
 
 
 
-Here are some questions that we will pose.
-<ol>
-<li>What are the most common words in the Decline and Fall as a whole?  
-<ol>
-<li>Technical Questions
-<ol>
-<li>Stopwords -- do we want to view all words (including "the", "and" etc.) or do we want to create list of words that we ignore for the present (stopwords)
-<li>Proper nouns will tell us a lot about content. What happens when we separate proper nouns from common nouns? How do we do so? How might the problem of excluding proper nouns differ in other languages?
-</ol>
-<li>Intellectual Questions
-<ol>
-<li>What do we learn from comparing the most frequent words in Decline and Fall with those of the reference corpus.
-<li>What do we learn from comparing the most commmon words as we move from volume to volume and from chapter to chapter in Decline and Fall?
-<li>What do we learn if we view frequencies in tabular form vs. word clouds? What might the impact of these varying formats be on more general audiences?
-</ol>
-</ol>
-<li>Topic Models are <a href="https://en.wikipedia.org/wiki/Topic_model">a type of statistical model for discovering the abstract "topics" that occur in a collection of documents</a>. We address Topic Models now because we can implement them in a relatively straighforward way with existing libraries. 
-<ol>
-<li>Technical Questions
-<ol>
-<li>What different options do we have to implement Topic Models?
-<li>Ideally, the class splits into different groups, each of which implements a different Topic Model library, evaluating ease of implementation, the speed of the service and any other issues that occur.
-</ol>
-<li>Intellectual Questions
-<ol>
-<li>Compare what we learn from topic models to what we learned from simple vocabulary analysis. This includes analysis of Decline and Fall as a whole, exploration of differing topics as we move through the text, and comparison of topics with those in the reference corpus.
-<li>How do we manage proper names if we want to compare topics with and without proper names?
-</ol>
-</ol>
-<li>Named Entity Recognition (NER) -- rule based approaches. Named Entity Recognition is a subtask of information extraction that recognizes and classifies names entities: e.g., does "Alexandria" in a particular context designate a place or a personal name? We will look at machine-learning based methods to perform this task but first we will look at rule based approaches. The reason for this is that existing NER systems are trained on recent documents (often newspaper collections) and the results can be quite noisy. If you are going to do serious work with sources that do not look like the default training set, you are going to have create a new training set to augment or replace that default training data that the ML-based system uses.
-<ol>
-<li>Look for key phrases that can identify particular classes of named entities, e.g., "<em>the River</em> Phasis" or "<em>the emperor</em> Hadrian." 
-<ol>Evaluate how effective such phrases prove to be.
-<li>Learn how to measure precision and recall.
-<li>Consider both how many types of entity that
-</ol>
-<li>Identify the most frequent proper nouns and then manually classify the most important. 
-<ol>
-<li>How do you distinguish words in English that are capitalized because they show up at the start of a sentence from true proper names?
-<li>How many names woud you need to classify before you have 50% of all the names in your corpus? 80%? 95%?
-<li>What kind of visualizations could you use create if you only classified the most common N names in your corpus?
-</ol>
-</ol>
-
-</ol>
