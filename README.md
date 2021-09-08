@@ -21,10 +21,11 @@ The class will focus as a group on one particular source: Edward Gibbon's monume
 
 <ol>
 <li>The Decline and Fall, originally published in six volumes (published between 1776 and 1788), is sufficiently large that few will be able to read it in its entirety and fewer still will be able to subject the whole text to traditional close reading. 
+<li>The Decline and Fall exists already in multiple digital forms, none of which has, however, been systematically analyzed with digital methods. This includes full scans of the earlier editions (such as <a href="http://access.bl.uk/item/viewer/ark:/81055/vdc_100045279307.0x000001#?c=0&m=0&s=0&cv=5&xywh=-123%2C0%2C3291%2C2459">the 1792 edition at the British Library</a>) along with a first pass at <a href="https://github.com/gregorycrane/DHFall2021/blob/master/texts/K065082.001.xml">transcription and markup</a> that can be freely enhanced.
 <li>For statistical analysis, however, bigger is better.  The version of the Decline and Fall available from Project Gutenberg contains 1,594,885 space delimited tokens -- not a large corpus by computational standards but probably large enough to yield interesting results when analyzed quantatively and compared with other sources.
 <li>The Decline and Fall captures a critical moment in time. The first volume was published in 1776 and is contemporaneous with the Declaration of Independence as well as with the publication by Adam Smith of the Wealth of Nations. The distance in time makes it much easier for us to sense that Gibbon is looking at the past from a present that is very different from the world in which we live and the world that we may wish to fashion. 
 <li>While the Decline and Fall is written in English, it draws upon, and often quotes, sources in languages such as French, Latin, and Ancient Greek. This gives us an opportunity to explore methods by which we can use new digital methods work with sources in languages that we do not know.
-<li>The citations to primary and secondary sources in Gibbon are already, for the most part, those of modern scholarship. Learning how to analyze Gibbon's references teaches us how to learn how to analyze references is contemporary scholarship.
+<li><a href="http://access.bl.uk/item/viewer/ark:/81055/vdc_100045279307.0x000001#?c=0&m=0&s=0&cv=49&xywh=-154%2C-1%2C3315%2C2478">The citations to primary and secondary sources in Gibbon's footnotes</a> are already, for the most part, those of modern scholarship. Learning how to analyze Gibbon's references teaches us how to learn how to analyze references is contemporary scholarship.
 <li>The work of this class can lead to the publication of some, or even all, of the Decline and Fall of the Roman Empire in <a href="https://beyond-translation.perseus.org/">the new version of the Perseus Digital Library</a>.
 </ol>
 
@@ -57,7 +58,7 @@ Your work during the course will be created as a porfolio that you will create o
 </ul>
 
 <ul>
-<li>September 12: blog post #1 due (on Canvas): what are your goals from the class?
+<li>September 12: blog post #1 due (on Canvas): what are your goals from the class? And you can also talk about what experiences you have, whether in programming, studying the humanities or any other area, that you think would be helpful in this class. 
 <br/>
 <li>September 13: https://colab.research.google.com/ and Python basics 
 The first exercise will be very easy for those with experience programming. For those who have little or no such experience, this will require more work. Course staff members will work with those who are just getting started. The goal is that everyone has a working Python Script in Google Colab that we can discuss and modify in class.
