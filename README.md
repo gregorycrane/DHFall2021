@@ -16,13 +16,15 @@ Learning outcomes include:
 <li>Critical assessment of what consitutes research in (one particular area within) the humanities. This assessment will include questions such as: (1) What questions have traditionl scholars posed and how hav they published them? (2) How can we answer those questions with new digital methods? (3) What new questions might we ask beyond traditional research? (4) What new audiences can we reach and how would those audiences change the questions that we pose and the ideas that we publish?
 </ol>
 
-The class will focus as a group on one particular source: Edward Gibbon's monumental Decline and Fall fo the Roman Empire. There are several reasons behind this choice.
+The class will focus as a group on one particular source: Edward Gibbon's monumental <a href="">Decline and Fall fo the Roman Empire</a>, published from 1776 through 1788 (roughly during the American War of Independence, 1776-1781, and just before the French Revolution, 1789-1799). There are several reasons behind this choice.
 
 <ol>
 <li>The Decline and Fall, originally published in six volumes (published between 1776 and 1788), is sufficiently large that few will be able to read it in its entirety and fewer still will be able to subject the whole text to traditional close reading. 
 <li>For statistical analysis, however, bigger is better.  The version of the Decline and Fall available from Project Gutenberg contains 1,594,885 space delimited tokens -- not a large corpus by computational standards but probably large enough to yield interesting results when analyzed quantatively and compared with other sources.
 <li>The Decline and Fall captures a critical moment in time. The first volume was published in 1776 and is contemporaneous with the Declaration of Independence as well as with the publication by Adam Smith of the Wealth of Nations. The distance in time makes it much easier for us to sense that Gibbon is looking at the past from a present that is very different from the world in which we live and the world that we may wish to fashion. 
 <li>While the Decline and Fall is written in English, it draws upon, and often quotes, sources in languages such as French, Latin, and Ancient Greek. This gives us an opportunity to explore methods by which we can use new digital methods work with sources in languages that we do not know.
+<li>The citations to primary and secondary sources in Gibbon are already, for the most part, those of modern scholarship. Learning how to analyze Gibbon's references teaches us how to learn how to analyze references is contemporary scholarship.
+<li>The work of this class can lead to the publication of some, or even all, of the Decline and Fall of the Roman Empire in <a href="https://beyond-translation.perseus.org/">the new version of the Perseus Digital Library</a>.
 </ol>
 
 While we will develop a common vocabulary and shared set of skills, members of the class will focus in their course projects on different topics. Ideally, class projects will be produced by teams of two or more students with complementary skills.
@@ -60,7 +62,7 @@ Your work during the course will be created as a porfolio that you will create o
 The first exercise will be very easy for those with experience programming. For those who have little or no such experience, this will require more work. Course staff members will work with those who are just getting started. The goal is that everyone has a working Python Script in Google Colab that we can discuss and modify in class.
 <ol>
 
-<li>Write a Python script to count and then sort from most common to least common all words in Gibbon's [Decline and Fall of the Roman Empire] and in Adam Smith's [Wealth of Nations](https://en.wikipedia.org/wiki/The_Wealth_of_Nations). What do we learn when we compare the two lists about the content of the two works?
+<li>Write a Python script to count and then sort from most common to least common all words in Gibbon's <a href="https://en.wikipedia.org/wiki/The_History_of_the_Decline_and_Fall_of_the_Roman_Empire">Decline and Fall of the Roman Empire</a> and in Adam Smith's <a href="https://en.wikipedia.org/wiki/The_Wealth_of_Nations">Wealth of Nations</a>. What do we learn when we compare the two lists about the content of the two works?
 <ul>
 <li>https://raw.githubusercontent.com/gregorycrane/DHFall2021/master/texts/declineandfall-gut.txt
 <li>https://github.com/gregorycrane/DHFall2021/blob/master/texts/wealthofnations-gut.txt
