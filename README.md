@@ -1,6 +1,7 @@
 # Introduction to the Digital Humanities: Understanding the Human Record
 
-## Instructors: Gregory Crane, Peter Nadel, Jake Perl
+## Instructors: Gregory Crane, Bella Hwang, Peter Nadel, Jake Perl
+## Thanks also to Anna Kijas, Patrick Florance, Micah Saxton 
 
 
 
@@ -13,7 +14,6 @@ Learning outcomes include:
 <ol>
 <li>Hands-on experience with a range of methods by which members of the class can use Python to explore sources from the human record. While we will focus primarily upon materials in English, we will also explore methods by which to work with sources in languages that we do not know.
 <li>Critical assessment of what consitutes research in (one particular area within) the humanities. This assessment will include questions such as: (1) What questions have traditionl scholars posed and how hav they published them? (2) How can we answer those questions with new digital methods? (3) What new questions might we ask beyond traditional research? (4) What new audiences can we reach and how would those audiences change the questions that we pose and the ideas that we publish?
-<li>A new understanding of how the human record can contribute to the intellectual life of humanity. We view the term Digital Humanities as a helpful but transitional term. In fact, we live in a society in which ideas primarily circulate via digital media. The real topic of discussion is how the Humanities can, and should, evolve within a digital age and how we can reimagine the 
 </ol>
 
 The class will focus as a group on one particular source: Edward Gibbon's monumental Decline and Fall fo the Roman Empire. There are several reasons behind this choice.
@@ -44,9 +44,9 @@ Your work during the course will be created as a porfolio that you will create o
 
 ### Introductory topics
 #### Required work: 
-<ul>
-<li>https://www.udemy.com/course/git-expert-4-hours/
-<li>Read 
+
+
+
 <ol>
 <li>Vannevar Bush. (1945) "As We May Think" The Atlantic. https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/ (also on Canvas)  
 <li>Crane, Gregory. (2019). Beyond Translation: Language Hacking and Philology. Harvard Data Science Review, 1(2). https://doi.org/10.1162/99608f92.282ad764
@@ -55,12 +55,26 @@ Your work during the course will be created as a porfolio that you will create o
 
 <ul>
 <li>September 12: blog post #1 due (on Canvas): what are your goals from the class?
+<br/>
+<li>September 13: https://colab.research.google.com/ and Python basics 
+The first exercise will be extremey easy for those with experience programming. For those who have little or no such experience, this will require more work. Course staff members will work with those who are just getting started.
+<ol>
 
-<li>September 13: Dual track: (1) Python basics; (2) for those comfortable with Python, we work on converting XML and HTML to a suitable plain text format. This can involve discussion of markup (ie., what are we throwing out when we "clean" the text?)
+<li>Write a Python script to count and then sort from most common to least common all words in Gibbon's Decline and Fall of the Roman Empire and in Adam Smith's Wealth of Nations. What do we learn when we compare the two lists about the content of the two works?
+<ul>
+<li>https://raw.githubusercontent.com/gregorycrane/DHFall2021/master/texts/declineandfall-gut.txt
+<li>https://github.com/gregorycrane/DHFall2021/blob/master/texts/wealthofnations-gut.txt
+</ul>
+<li>Now produce sorted lists of <strong>upper-case</strong> words. What do we learn from these lists about the content of the two works?
+</ol>
+
 
 
 
 <li>September 15:   Micah Saxton -- Github intro
+<ul>
+<li>Before class: work through the content in https://www.udemy.com/course/git-expert-4-hours/
+</ul>
 </ul>
 
 ### Distant and close reading (remote sensing vs. ground truth)
