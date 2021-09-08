@@ -17,7 +17,7 @@ Learning outcomes include:
 <li>Critical assessment of what consitutes research in (one particular area within) the humanities. This assessment will include questions such as: (1) What questions have traditionl scholars posed and how hav they published them? (2) How can we answer those questions with new digital methods? (3) What new questions might we ask beyond traditional research? (4) What new audiences can we reach and how would those audiences change the questions that we pose and the ideas that we publish?
 </ol>
 
-The class will focus as a group on one particular source: Edward Gibbon's monumental <a href="">Decline and Fall fo the Roman Empire</a>, published from 1776 through 1788 (roughly during the American War of Independence, 1776-1781, and just before the French Revolution, 1789-1799). There are several reasons behind this choice.
+The class will focus as a group on one particular source: Edward Gibbon's monumental <a href="https://en.wikipedia.org/wiki/The_History_of_the_Decline_and_Fall_of_the_Roman_Empire">Decline and Fall fo the Roman Empire</a>, published from 1776 through 1788 (roughly during the American War of Independence, 1776-1781, and just before the French Revolution, 1789-1799). There are several reasons behind this choice.
 
 <ol>
 <li>The Decline and Fall, originally published in six volumes (published between 1776 and 1788), is sufficiently large that few will be able to read it in its entirety and fewer still will be able to subject the whole text to traditional close reading. 
