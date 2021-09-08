@@ -3,6 +3,7 @@
 ## Instructors: Gregory Crane, Bella Hwang, Peter Nadel, Jake Perl
 ## Thanks also to Anna Kijas, Patrick Florance, Micah Saxton 
 
+Format: this is a hybrid class that will be taught, at least initially, in face-to-fae format. We will, however, make regular use of Zoom even when meeting in person. The Zoom link is available on Canvas under the Syllabus section.
 
 
 The Introduction to Digital Humanities at Tufts can be taken as either CS 52 or as Classics 91. While the default course number indicates that the class is open to undergraduates, graduate students are encouraged to take this class as well by covering more work (primarily readings in secondary sources) and should talk to the instructors.   
