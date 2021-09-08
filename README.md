@@ -57,10 +57,10 @@ Your work during the course will be created as a porfolio that you will create o
 <li>September 12: blog post #1 due (on Canvas): what are your goals from the class?
 <br/>
 <li>September 13: https://colab.research.google.com/ and Python basics 
-The first exercise will be extremey easy for those with experience programming. For those who have little or no such experience, this will require more work. Course staff members will work with those who are just getting started.
+The first exercise will be very easy for those with experience programming. For those who have little or no such experience, this will require more work. Course staff members will work with those who are just getting started. The goal is that everyone has a working Python Script in Google Colab that we can discuss and modify in class.
 <ol>
 
-<li>Write a Python script to count and then sort from most common to least common all words in Gibbon's Decline and Fall of the Roman Empire and in Adam Smith's Wealth of Nations. What do we learn when we compare the two lists about the content of the two works?
+<li>Write a Python script to count and then sort from most common to least common all words in Gibbon's [Decline and Fall of the Roman Empire] and in Adam Smith's [Wealth of Nations](https://en.wikipedia.org/wiki/The_Wealth_of_Nations). What do we learn when we compare the two lists about the content of the two works?
 <ul>
 <li>https://raw.githubusercontent.com/gregorycrane/DHFall2021/master/texts/declineandfall-gut.txt
 <li>https://github.com/gregorycrane/DHFall2021/blob/master/texts/wealthofnations-gut.txt
