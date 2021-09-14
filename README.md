@@ -99,24 +99,18 @@ We will be going through this in class together, so just read through to make yo
 
 </ul>
 
-### Distant and close reading (remote sensing vs. ground truth)
+
 
 <ul>
-<li>September 20: Micah Saxton -- text analysis exploration.
+<li>September 19: post the Python script that you prepared for September 13 on your Github site.
 
-<li>September 22: Close reading of passages from Gibbon and one or more of Gibbon's sources.
-
-<li>September 26: Blog #2 due (on Github from now on).
 </ul>
 
-### Topic Modelling -- Peter Nadel and Jake Perl
+### Distant reading (remote sensing vs. ground truth)
 
-<ul>
-<li>September 27:
+</ul>
 
-<li>September 29:  
-
-<li>October 3: Exercise #1 due (with blog #3)
+<li>September 20: Micah Saxton -- text analysis exploration.
 
 </ul>
 
@@ -124,21 +118,45 @@ We will be going through this in class together, so just read through to make yo
 
 <ul>
 
-<li>October 4: Use Python and Regular Expressions to identify named entities. Demonstrate the limnitations of SpaCy and systems trained on different corpora. How do we bootstrap named entities for a new genre/topic? Different strategies: find the named entities and then classify them. Do you also want to "identify" them? what is the difference? Strategies: (1) start with the most common and work down; (2) pick a particular chunk and do it thoroughly.
+<li>September 22: Use Python and Regular Expressions to identify named entities. Demonstrate the limnitations of SpaCy and systems trained on different corpora. How do we bootstrap named entities for a new genre/topic? Different strategies: find the named entities and then classify them. Do you also want to "identify" them? what is the difference? Strategies: (1) start with the most common and work down; (2) pick a particular chunk and do it thoroughly.
 
-<li>October 6: Evaluating your results: precision, recall, F-measure, limitations of evaluation (there is not always a known answer!). Evaluation in NLP vs. the Humanities. Journalistic prose vs. historical documents. Word sense disiambiguaion (experts disagree).  Assginment is to generate training data for SpaCy.
+<li>September 26: Blog #2 due (on Github from now on).
 
 
-<li>October 12: Blog #4 due.
+
+
+<li>September 27: Evaluating your results: precision, recall, F-measure, limitations of evaluation (there is not always a known answer!). Evaluation in NLP vs. the Humanities. Journalistic prose vs. historical documents. Word sense disiambiguaion (experts disagree).  Assginment is to generate training data for SpaCy.
+
+<li>September 29: Results on cleaned subsets of Gibbon,  we assign chapters and/or (sort of) random subsets (eg., every 100th page) Use the results of our work to train SpaCy and improve automated results.
+
+<li>October 3: Exercise #1 due (with blog #3)
+
+</ul>
+
+### Topics from the professional humanists
+
+<ul>
+
+
+<li>October 4:  What questions do Gibbon scholars ask? Can we pose them in a more systematic way using digital methods? Can we represent the topics more effectively in a digital medium than with print (or print surrogates)? What other questions might we ask that the professional scholars have not asked?
+</ul>
+
+### Topic Modelling -- Peter Nadel and Jake Perl
+
+<ul>
+<li>October 6: 
+
+
+
 <li>October 11: HOLIDAY
 
-<li>October 13: Results on cleaned subsets of Gibbon,  we assign chapters and/or (sort of) random subsets (eg., every 100th page) Use the results of our work to train SpaCy and improve automated results. 
+<li>October 13:  
 
-<li>October 17: Exercise #2 and blog #5 due. 
+<li>October 17: Exercise #2 and blog #4 due. 
 </ul>
 
 
-### Maps and Timelines
+###  Timelines, mapping and textual visualizations
 
 
 <ul>
@@ -147,7 +165,7 @@ We will be going through this in class together, so just read through to make yo
 <li>October 18: 
 
 <li>October 20:
-<li>October 24: Exercise #3 and blog #6 due.
+<li>October 24: Exercise #3 and blog #5 due.
 </ul>
 
 
