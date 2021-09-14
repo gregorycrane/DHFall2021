@@ -78,16 +78,16 @@ The first exercise will be very easy for those with experience programming. For 
 
 <li>September 15:   Micah Saxton -- Github intro
 <ul>
-<li>Required (if possible):
+<li>Required (if possible do this before class):
 <ul>
 Set up a <a href="https://github.com/">github</a> account if they don't already have one. 
 Pro tip:  choose a "professional" sounding username as it will appear in public urls you share with others.
-<li>Download a basic text editor (not a word processor). 
-<a href="https://code.visualstudio.com/">Visual Studio Code</a> highly recommended
-<li>Windows Users: 
+<li>Download a basic text editor (not a word processor). We highly recommend
+<a href="https://code.visualstudio.com/">Visual Studio Code</a>.
+<li><strong>Windows Users</strong>: 
 Download and install <a href="https://git-scm.com/downloads">git</a>  (Follow installation prompts with all default options)
 </ul>
-<li>Recommended (Read and/or follow along)
+<li>Recommended (Read and/or follow along to prepare)
 <ul>
 <li><a href="https://guides.github.com/activities/hello-world/">Basic introduction to GitHub</a>
 <li><a href="https://pages.github.com/">Basic introduction to GitHub Pages</a>
