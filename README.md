@@ -80,7 +80,7 @@ The first exercise will be very easy for those with experience programming. For 
 <ul>
 <li>Required (if possible):
 <ul>
-Set up a github account if they don't already have one. https://github.com/
+Set up a <a href="https://github.com/">github</a> account if they don't already have one. 
 Pro tip:  choose a "professional" sounding username as it will appear in public urls you share with others.
 <li>Download a basic text editor (not a word processor). 
 <a href="https://code.visualstudio.com/">Visual Studio Code</a> highly recommended
@@ -92,7 +92,7 @@ Download and install <a href="https://git-scm.com/downloads">git</a>  (Follow in
 <li><a href="https://guides.github.com/activities/hello-world/">Basic introduction to GitHub</a>
 <li><a href="https://pages.github.com/">Basic introduction to GitHub Pages</a>
 <li><a href="http://literaturegeek.com/2015/12/08/WhyJekyllGitHub">Introducing Static Sites for Digital Humanities Projects (why & what are Jekyll, GitHub, etc.?)</a>
-<li><a href="">Building a static website with Jekyll and GitHub Pages</a>
+<li><a href="https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages">Building a static website with Jekyll and GitHub Pages</a>
 </ul>
 </ul>
 We will be going through this in class together, so just read through to make yourself familiar.  It's okay if you don't understand much from this. NOTE: We will not be using the Github Desktop App. We will use the command line instead.
