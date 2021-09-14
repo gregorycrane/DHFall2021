@@ -179,10 +179,10 @@ We will be going through this in class together, so just read through to make yo
 
 <li>October 27:  Dependency grammar and reading texts in unknown languages
 
-<li>October 31: Blog #7 due.
+<li>October 31: Blog #6 due.
 <li>November 1: Language Models and Stylistic Analysis
 
-<li>November 7: Exercise #4 and blog #8 due.
+<li>November 7: Exercise #4 and blog #7 due.
 </ul>
 
 ### Text Alignment and Text Reuse Detection
@@ -192,7 +192,7 @@ We will be going through this in class together, so just read through to make yo
 
 <li>November 10: Finding quotations of one text in another; Aligning source text and translation
 
-<li>November 14: Exercise #5 and blog #9 due. 
+<li>November 14: Exercise #5 and blog #8 due. 
 </ul>
 
 ### Network Analysis
@@ -203,13 +203,13 @@ We will be going through this in class together, so just read through to make yo
 <li>November 17:
 
 
-<li>Blog #10 due
+<li>Blog #9 due
 
 <li>November 22:
 
 <li>November 24: NO CLASS
 
-<li>November 28: Exercise #6 and blog #11 due.
+<li>November 28: Exercise #6 and blog #10 due.
 </ul>
 
 ### Music History
