@@ -56,6 +56,7 @@ Your work during the course will be created as a porfolio that you will create o
 <li>Crane, Gregory. (2019). Beyond Translation: Language Hacking and Philology. Harvard Data Science Review, 1(2). https://doi.org/10.1162/99608f92.282ad764
 </ol>
 </ul>
+</ul>
 
 <ul>
 <li>September 12: blog post #1 due (on Canvas): what are your goals from the class? And you can also talk about what experiences you have, whether in programming, studying the humanities or any other area, that you think would be helpful in this class. 
@@ -77,8 +78,25 @@ The first exercise will be very easy for those with experience programming. For 
 
 <li>September 15:   Micah Saxton -- Github intro
 <ul>
-<li>Before class: work through the content in https://www.udemy.com/course/git-expert-4-hours/
+<li>Required (if possible):
+<ul>
+Set up a github account if they don't already have one. https://github.com/
+Pro tip:  choose a "professional" sounding username as it will appear in public urls you share with others.
+<li>Download a basic text editor (not a word processor). 
+<a href="https://code.visualstudio.com/">Visual Studio Code</a> highly recommended
+<li>Windows Users: 
+Download and install <a href="https://git-scm.com/downloads">git</a>  (Follow installation prompts with all default options)
 </ul>
+<li>Recommended (Read and/or follow along)
+<ul>
+<li><a href="https://guides.github.com/activities/hello-world/">Basic introduction to GitHub</a>
+<li><a href="https://pages.github.com/">Basic introduction to GitHub Pages</a>
+<li><a href="http://literaturegeek.com/2015/12/08/WhyJekyllGitHub">Introducing Static Sites for Digital Humanities Projects (why & what are Jekyll, GitHub, etc.?)</a>
+<li><a href="">Building a static website with Jekyll and GitHub Pages</a>
+</ul>
+</ul>
+We will be going through this in class together, so just read through to make yourself familiar.  It's okay if you don't understand much from this. NOTE: We will not be using the Github Desktop App. We will use the command line instead.
+
 </ul>
 
 ### Distant and close reading (remote sensing vs. ground truth)
