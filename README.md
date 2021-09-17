@@ -104,7 +104,7 @@ We will be going through this in class together, so just read through to make yo
 
 Before class on September 22 [don't wait until Tuesday!]: As we finish work on the Jekyll blogs, add comments to the Canvas discussion list.
 
-Read and comment on a chapter of Gibbon. [The version of the Decline an Fall at the Online Library of Liberty is nicely presented for reading but feel free to use any version you choose: https://oll.libertyfund.org/title/lecky-the-history-of-the-decline-and-fall-of-the-roman-empire-12-vols]. 
+Read and comment on a chapter of Gibbon. [The version of the Decline and Fall at the Online Library of Liberty is nicely presented for reading but feel free to use any version you choose: https://oll.libertyfund.org/title/lecky-the-history-of-the-decline-and-fall-of-the-roman-empire-12-vols]. 
 
 You can pick any chapter that catches your eye -- there are 71 to choose from and you can see summaries of their contents at the beginning of each volume. Chapters XV and XVI are famous because of their attack on Christianity. Chapter XXXI describes the invasion of Italy and the first sack of Rome by a figure named Alaric. Chapter LI goes beyond Europe and describes the Arabic conquest. There are many choices!
 
