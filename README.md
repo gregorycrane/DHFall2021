@@ -1,6 +1,6 @@
 # Introduction to the Digital Humanities: Understanding the Human Record
 
-## Instructors: Gregory Crane, Bella Hwang, Peter Nadel, Jake Perl
+## Instructors: Gregory Crane (Gregory.Crane@tufts.edu), Bella Hwang (mailto:Boyoung.Hwang@tufts.edu), Peter Nadel (Peter.Nadel@tufts.edu), Jake Perl (Jake.Perl@tufts.edu)
 ## Thanks also to Anna Kijas, Patrick Florance, Micah Saxton 
 
 Format: this is a hybrid class that will be taught, at least initially, in face-to-fae format. We will, however, make regular use of Zoom even when meeting in person. The Zoom link is available on Canvas under the Syllabus section.
@@ -101,10 +101,20 @@ We will be going through this in class together, so just read through to make yo
 
 
 
-<ul>
-<li>September 19: post the Python script that you prepared for September 13 on your Github site.
 
-</ul>
+Before class on September 22 [don't wait until Tuesday!]: As we finish work on the Jekyll blogs, add comments to the Canvas discussion list.
+
+Read and comment on a chapter of Gibbon. [The version of the Decline an Fall at the Online Library of Liberty is nicely presented for reading but feel free to use any version you choose: https://oll.libertyfund.org/title/lecky-the-history-of-the-decline-and-fall-of-the-roman-empire-12-vols]. 
+
+You can pick any chapter that catches your eye -- there are 71 to choose from and you can see summaries of their contents at the beginning of each volume. Chapters XV and XVI are famous because of their attack on Christianity. Chapter XXXI describes the invasion of Italy and the first sack of Rome by a figure named Alaric. Chapter LI goes beyond Europe and describes the Arabic conquest. There are many choices!
+
+You don't need to labor over every word. Read through the chapter quickly, get a sense of what is in it, looking to to do the following.
+
+<ol>
+<li>Pick one story that stands out to you that you found particularly impressive.
+<li>Summarize the main story and consider how you might be able to use maps, timelines, or other visualizations to tell that story in a way that makes it easier to follow.
+<li>Identify two or more sentences where the language of Gibbon struck you as different from 21st century academic prose. You might focus on the complex sentence structure, vocabulary that seems odd to you or any other feature. We will talk about how to identify and explan such features automatically going forward.
+</ol>
 
 ### Distant reading (remote sensing vs. ground truth)
 
@@ -112,14 +122,19 @@ We will be going through this in class together, so just read through to make yo
 
 <li>September 20: Micah Saxton -- text analysis exploration.
 
+<li>September 19: post the Python script that you prepared for September 13 on your Github site.
+
 </ul>
 
 ### Named Entities Classification and Linking
 
 <ul>
 
-<li>September 22: Use Python and Regular Expressions to identify named entities. Demonstrate the limnitations of SpaCy and systems trained on different corpora. How do we bootstrap named entities for a new genre/topic? Different strategies: find the named entities and then classify them. Do you also want to "identify" them? what is the difference? Strategies: (1) start with the most common and work down; (2) pick a particular chunk and do it thoroughly.
-
+<li>September 22: 
+<ol>
+<li>We will go over what you found when you analyzed the most frequent words in Gibbon and Smith.
+<li>Use Python and Regular Expressions to identify named entities. Demonstrate the limnitations of SpaCy and systems trained on different corpora. How do we bootstrap named entities for a new genre/topic? Different strategies: find the named entities and then classify them. Do you also want to "identify" them? what is the difference? Strategies: (1) start with the most common and work down; (2) pick a particular chunk and do it thoroughly.
+</ol>
 <li>September 26: Blog #2 due (on Github from now on).
 
 
