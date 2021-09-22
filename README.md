@@ -122,7 +122,7 @@ You don't need to labor over every word. Read through the chapter quickly, get a
 
 <li>September 20: Micah Saxton -- text analysis exploration.
 
-<li>September 19: post the Python script that you prepared for September 13 on your Github site.
+<li>September 19: post the Python script that you prepared for September 13 on your Github site. 
 
 </ul>
 
@@ -130,7 +130,8 @@ You don't need to labor over every word. Read through the chapter quickly, get a
 
 <ul>
 
-<li>September 22: 
+<li>September 22: <emph>NB: Bring a charged laptop to class -- we will use Zoom to share screens so that you show members of the class your work. I will also use the Zoom chat to ask questions to which you can individually reply during class.</emph>
+<p></p>
 <ol>
 <li>We will go over what you found when you analyzed the most frequent words in Gibbon and Smith.
 <li>Use Python and Regular Expressions to identify named entities. Demonstrate the limnitations of SpaCy and systems trained on different corpora. How do we bootstrap named entities for a new genre/topic? Different strategies: find the named entities and then classify them. Do you also want to "identify" them? what is the difference? Strategies: (1) start with the most common and work down; (2) pick a particular chunk and do it thoroughly.
