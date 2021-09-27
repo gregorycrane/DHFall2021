@@ -136,7 +136,7 @@ You don't need to labor over every word. Read through the chapter quickly, get a
 <li>We will go over what you found when you analyzed the most frequent words in Gibbon and Smith.
 <li>Use Python and Regular Expressions to identify named entities. Demonstrate the limnitations of SpaCy and systems trained on different corpora. How do we bootstrap named entities for a new genre/topic? Different strategies: find the named entities and then classify them. Do you also want to "identify" them? what is the difference? Strategies: (1) start with the most common and work down; (2) pick a particular chunk and do it thoroughly.
 </ol>
-<li>September 26: Blog #2 due (on Github from now on).
+<li>September 26: See details on Canvas: https://canvas.tufts.edu/courses/30895/assignments/200582.
 
 
 
