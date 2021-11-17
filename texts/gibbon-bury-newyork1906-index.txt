@@ -4077,7 +4077,7 @@ Corruptibles and Incorruptibles, heresy of, viii., 202.
 
 Corsi, Roman family of, xii., 116, 205.
 
-Corsica, i., 33; bishops banished to, vi., 191; state of, ib. and note.
+<geogName type="island">Corsica</geogName>, i., 33; bishops banished to, vi., 191; state of, ib. and note.
 
 Cortes, iv., 145 note.
 
