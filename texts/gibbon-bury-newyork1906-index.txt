@@ -331,13 +331,15 @@ Aetius, hostage in camp of Alaric, v., 197; general of Placidia, 340 and note; s
 
 Aetius, surnamed the Atheist, iii., 351 and note; favoured by Gallus, 370.
 
-Aetolia, recovered by John Cantacuzene, xi., 105. Afghanistan, Ghorid dynasty of, xi., 137 note.
+Aetolia, recovered by John Cantacuzene, xi., 105. 
+
+Afghanistan, Ghorid dynasty of, xi., 137 note.
 
 Afrasiab, Emperor of Touran, x., 157 note; "towers of," xii., 152.
 
 Afrasiabs, iv., 273.
 
-Africa, province of, i., 32, and 33; tribute, 204, 205; revolts from Maximin, 223; from Diocletian, ii., 160, 161; Christianity in, 338 and note,persecution of the <rs type="religious">Christians</rs> in, by Maximin, iii., 75; religious discord in, 405 sqq.; Count Romanus in, iv., 231 sqq.; rebellion of Firmus in, 233 sqq.; Theodosius in, 234 sq.; Africa described, 237 sq. and notes ; Gildo’s revolt in, v., 126 sqq.; revolt of Boniface in, 342 sqq.; Vandal invasion of, 344; Donatist persecution in, 346 and notes; desolated by Vandals, 349 and 350; Vandal persecution in, vi., 190 sqq. ; reduced by Belisarius, vii., 97 sqq.; date of conquest of, 88 note; Catholic Church re-established in, 109; taxed by Justinian, 235; revolt of Stoza in, 238 sq.; rebellion of the Moors in, 240 sqq.; desolation of, 242; Saracen invasion of, ix., 191 sqq.; final reduction of, 204 sq.; Christianity extinct in, 230 sq.; revolts from the Caliph, ix., 301; Norman conquests in, x., 130 sq.
+Africa, province of, i., 32, and 33; tribute, 204, 205; revolts from Maximin, 223; from Diocletian, ii., 160, 161; Christianity in, 338 and note; persecution of the <rs type="religious">Christians</rs> in, by Maximin, iii., 75; religious discord in, 405 sqq.; Count Romanus in, iv., 231 sqq.; rebellion of Firmus in, 233 sqq.; Theodosius in, 234 sq.; Africa described, 237 sq. and notes ; Gildo’s revolt in, v., 126 sqq.; revolt of Boniface in, 342 sqq.; Vandal invasion of, 344; Donatist persecution in, 346 and notes; desolated by Vandals, 349 and 350; Vandal persecution in, vi., 190 sqq. ; reduced by Belisarius, vii., 97 sqq.; date of conquest of, 88 note; Catholic Church re-established in, 109; taxed by Justinian, 235; revolt of Stoza in, 238 sq.; rebellion of the Moors in, 240 sqq.; desolation of, 242; Saracen invasion of, ix., 191 sqq.; final reduction of, 204 sq.; Christianity extinct in, 230 sq.; revolts from the Caliph, ix., 301; Norman conquests in, x., 130 sq.
 
 Agapae, ii., 323.
 
@@ -587,7 +589,7 @@ Algiers, aristocracy of, i., 245: and note; Christianity revives at, ix., 232.
 
 Al-Hurr, invades Gaul, A.D. 718, ix., 252 note.
 
-Ali, son of Abu Taleb, sixty-nine sentences of, ix., 19-20, 54, 55; aids Mahomet to escape, 58; valour of, 71; marries Fatima, 90; character, 91 sq.; renounces caliphate, 93; reign, 97 sqq.; defeat and death, 100; tomb of, at Cufa,ib. note; one of the twelve Imams, 105; posterity of, 4.
+Ali, son of Abu Taleb, sixty-nine sentences of, ix., 19-20, 54, 55; aids Mahomet to escape, 58; valour of, 71; marries Fatima, 90; character, 91 sq.; renounces caliphate, 93; reign, 97 sqq.; defeat and death, 100; tomb of, at Cufa, ib. note; one of the twelve Imams, 105; posterity of, 4.
 
 Ali Pasha, vizir of Bajazet, xi., 170 note.
 
@@ -1626,7 +1628,7 @@ Aurasius, Mount, citadel of, vii., 119 and note, 236.
 
 Aurelian, consul, sentences Eutropius, v., 304.
 
-Aurelian, Emperor, succeeds, ii., 69; origin and reign, 70 sqq.; cedes Dacia to the Goths, defeats the Alemanni, 77, 78; superstition of, 79; fortifies Rome,ib.; defeats Tetricus, 82; captures Palmyra and Zenobia, 91; defeats Firmus, 93; triumph of, 93, 94; magnificence and superstition, 96; cruelty, 99; death, 101; wore the diadem, 185 note; conduct to the <rs type="religious">Christians</rs>, iii., 58.
+Aurelian, Emperor, succeeds, ii., 69; origin and reign, 70 sqq.; cedes Dacia to the Goths, defeats the Alemanni, 77, 78; superstition of, 79; fortifies Rome, ib.; defeats Tetricus, 82; captures Palmyra and Zenobia, 91; defeats Firmus, 93; triumph of, 93, 94; magnificence and superstition, 96; cruelty, 99; death, 101; wore the diadem, 185 note; conduct to the <rs type="religious">Christians</rs>, iii., 58.
 
 Aurelius Litua, ii., 161 note.
 
@@ -2077,7 +2079,7 @@ Bederiana, district of, vii., 1 note.
 
 <rs type="ethnic">Bedoweens</rs>, description of, ix., 5 sqq.; incorrect form of name, ib. note.
 
-Beehives, construction of,ix., 270and so¢e.
+Beehives, construction of, ix., 270 and note.
 
 Beg, Turkish word meaning lord or prince, xi., 181 note.
 
@@ -2306,7 +2308,7 @@ Bochara (Bukhara), vii., 188; reduced by Malek Shah, 244; subjugated by the Sara
 
 <pl>Bodonitza</pl>, near Thermopylae, xi., 7 note.
 
-Boethius, minister of Theodoric, vi., 323, 332; account of, 335 and notes; works of, 336 sq.; accused of treason, 338; imprisonment, 339; his <title>De Consolatione</title>, ib. sq.; death, 340; tomb of,ib. and note; children of, restored to their inheritance, vii., 124.
+Boethius, minister of Theodoric, vi., 323, 332; account of, 335 and notes; works of, 336 sq.; accused of treason, 338; imprisonment, 339; his <title>De Consolatione</title>, ib. sq.; death, 340; tomb of, ib. and note; children of, restored to their inheritance, vii., 124.
 
 Boethius, pretorian prefect, death of, vi., 79.
 
@@ -2353,9 +2355,9 @@ Bondocdar, or Bibars, Sultan of Egypt, takes Antioch, x., 324 and note; builds m
 
 Bonfinius, history of Hungary by, xi., 171 note; on Ladislaus, 307 note, 311 note.
 
-Boniface, Count, repulses Adolphus from Marseilles, v., 257; character, 340 note, 341; revolt of, 342 sqq.; invites the Vandals, ib. ; repentance of, 348; besieged in Hippo Regius, 350; defeat, 352; death, 353; medals struck in honour of,ib. note.
+Boniface, Count, repulses Adolphus from Marseilles, v., 257; character, 340 note, 341; revolt of, 342 sqq.; invites the Vandals, ib. ; repentance of, 348; besieged in Hippo Regius, 350; defeat, 352; death, 353; medals struck in honour of, ib. note.
 
-Boniface, Marquis of Montferrat, leads fourth crusade, x., 351; adopts cause of Alexius, ib. note, 356 and note; clemency, 377; sells Candia, xi., 6 and note; acquires Macedonia, ib. and 7; defends Thessalonica, 18; death,ib.
+Boniface, Marquis of Montferrat, leads fourth crusade, x., 351; adopts cause of Alexius, ib. note, 356 and note; clemency, 377; sells Candia, xi., 6 and note; acquires Macedonia, ib. and 7; defends Thessalonica, 18; death, ib.
 
 Boniface IV., Pope, consecrates the Pantheon, v., 84 note; xii., 193 note.
 
@@ -2503,7 +2505,7 @@ Britain, conquest of, i., 4; province of, described, 25 sq.; colonies of, 45 and
 
 <rs type="ethnic">Britons</rs> of <placeName>France</placeName>, subdued by Charlemagne, viii., 364.
 
-<rs type="ethnic">Britons</rs>, state of, vi., 272 sqq.; flight of, into Wales, 275; in Gaul,ib. note; servitude of, 280; manners of, 282; in Cinnamus, x., 277 note.
+<rs type="ethnic">Britons</rs>, state of, vi., 272 sqq.; flight of, into Wales, 275; in Gaul, ib. note; servitude of, 280; manners of, 282; in Cinnamus, x., 277 note.
 
 Brittia, Island of, mentioned by Procopius, vi., 285 and note.
 
@@ -2612,7 +2614,7 @@ Burning glasses, vii., 49, 50 and note.
 
 Busbequius, ambassador at court of Soliman, xi., 207; on slavery and rights of war among Turks, xii., 49 note.
 
-Busiris in Egypt, ii., 161; camp of Caliph Merwan at, ix., 261; four places of same name in Egypt,ib. note.
+Busiris in Egypt, ii., 161; camp of Caliph Merwan at, ix., 261; four places of same name in Egypt, ib. note.
 
 Bussorah, Nazarenes at, ii., 271 note; see Bassora.
 
@@ -2694,7 +2696,7 @@ Caesarea, capital of Cappadocia, siege of, ii., 45; residence of Hannibalianus, 
 
 <placeName>Caesarea</placeName> in <placeName>Mauretania</placeName>, iv., 233; vi., 108; duke of, 110.
 
-<pl>Caesarea</pl>, in <pl>Syria</pl>, surrenders to the Saracens, ix., 167; date of,ib. note; crusaders at, x., 254 and note; fief of Sidon, 266 note; recovered by crusaders, 308.
+<pl>Caesarea</pl>, in <pl>Syria</pl>, surrenders to the Saracens, ix., 167; date of, ib. note; crusaders at, x., 254 and note; fief of Sidon, 266 note; recovered by crusaders, 308.
 
 <pb n="249"/>
 <milestone unit="hathitrustpage" n="https://hdl.handle.net/2027/umn.319510020108540?urlappend=%3Bseq=279"/>
@@ -2728,7 +2730,7 @@ Cahina, Queen of the Moors, ix., 205 sq.
 
 Caietan, Cardinal  Jacopo, of St. George, xii., 111 note, 120 note, 201 note.
 
-Cairo, ix., 176; New and Old,ib. note; inhabitants of, repulse the Turks, x., 189; attacked by Amalrig, 292; fortified by Saladin, 297.
+Cairo, ix., 176; New and Old, ib. note; inhabitants of, repulse the Turks, x., 189; attacked by Amalrig, 292; fortified by Saladin, 297.
 
 Cairoan, foundation of, by the Saracens, ix., 201 and note; attempt to revive Christian religion at, 231.
 
@@ -3575,7 +3577,7 @@ Claudiopolis, baths at, i., 56 note.
 
 Claudius I., elected emperor, i., 91, 96 note, 134 note.
 
-Claudius II., at Thermopylae, ii., 13 note ; origin, 61 and note; reign, ib. sqq.; letter of, 66; victories over the Goths, ib. and 68; death,ib.
+Claudius II., at Thermopylae, ii., 13 note ; origin, 61 and note; reign, ib. sqq.; letter of, 66; victories over the Goths, ib. and 68; death, ib.
 
 Claudius, a freedman, iii., 108 note.
 
@@ -3761,7 +3763,7 @@ Commentiolus, general of the Emperor Maurice, viii., 74 and note.
 Commerce, despised by the plebeians of Rome, v., 216.
 
 
-Commodus, emperor, shared the imperial power, i., 107; reign, ib. sqq.; <addName>Porphyrogenitus</addName>, 108 note; death,ib.; accuses Severus, 143 note; protected the <rs type="religious">Christians</rs>, iii., 50.
+Commodus, emperor, shared the imperial power, i., 107; reign, ib. sqq.; <addName>Porphyrogenitus</addName>, 108 note; death, ib.; accuses Severus, 143 note; protected the <rs type="religious">Christians</rs>, iii., 50.
 
 Comneni, family of, viii., 279; genealogy of, 280 sqq.; extinction of, xii., 59.
 
@@ -3962,7 +3964,7 @@ Constantine Sylvanus, x., 4 and note; labours of, 8; death, 9.
 
 <placeName type="building">Forum of <pe>Constantine</pe></placeName>, iii., 104 and note.
 
-<placeName type="building">Gates of <pe>Caligaria</pe></placeName>, xii., 20 note. Gates of Contoscali,ib. Gates of Xylokerkos (Kerkoporta), 20 note, 43 note, 44 note. Gates of Selymbriz (or Pegana), 25 note. Gates of Rusii (or Rhegii), ib. Gates of Charisii (or Charsez) or Hadrianople, 25 note, 43 note. Gates of Romanus, 25 note; tower of Romanus, 28, 44 note, 51. Gates of Phenar, 44.
+<placeName type="building">Gates of <pe>Caligaria</pe></placeName>, xii., 20 note. Gates of Contoscali, ib. Gates of Xylokerkos (Kerkoporta), 20 note, 43 note, 44 note. Gates of Selymbriz (or Pegana), 25 note. Gates of Rusii (or Rhegii), ib. Gates of Charisii (or Charsez) or Hadrianople, 25 note, 43 note. Gates of Romanus, 25 note; tower of Romanus, 28, 44 note, 51. Gates of Phenar, 44.
 
 <placeName type="building">Hebdomon</placeName>, or field of Mars, iv., 184 note; see below under Palaces.
 
@@ -3996,7 +3998,7 @@ Constantine Sylvanus, x., 4 and note; labours of, 8; death, 9.
 
 Constantius I., Chlorus, general of Probus, ii., 117; adopted by Carus, 135; made Caesar, 149 and note; in Britain, 156, 157; in Gaul, 159; character and reign, 201 sqq.; death, 206; epitaph on, ib. note; averse to persecution, iii., 74.
 
-Constantius II., son of Constantine, iii., 173; Caesar and ruler of Gaul, 175; in the East, 183; receives the testament of Constantine, 194; seizes Constantinople, 193; Augustus, 196; Persian wars of, 199 sqq.; refuses to treat with Magnentius, 210; deposes Vetranio, 211; makes war against Magnentius, 213, 214; defeats him at Mursa, 216; elevates Julian, 239; visits Rome, 242 sqq.; war with the Quadi, 246 sqq.; Persian negotiations of, 249 sqq.; Eastern expedition of, 258; besieges Bezabde, 259; apotheosis of, 282; adopts Arian heresy, 367, 368; reconciled with Athanasius, 381, 382; edicts against the Catholics, 403; tolerates paganism, 412; visits temples of Rome,ib.; his fear of Julian and war against him, iv., 1 sgqg.; receives Julian’s embassy, 14; death, 26.
+Constantius II., son of Constantine, iii., 173; Caesar and ruler of Gaul, 175; in the East, 183; receives the testament of Constantine, 194; seizes Constantinople, 193; Augustus, 196; Persian wars of, 199 sqq.; refuses to treat with Magnentius, 210; deposes Vetranio, 211; makes war against Magnentius, 213, 214; defeats him at Mursa, 216; elevates Julian, 239; visits Rome, 242 sqq.; war with the Quadi, 246 sqq.; Persian negotiations of, 249 sqq.; Eastern expedition of, 258; besieges Bezabde, 259; apotheosis of, 282; adopts Arian heresy, 367, 368; reconciled with Athanasius, 381, 382; edicts against the Catholics, 403; tolerates paganism, 412; visits temples of Rome, ib.; his fear of Julian and war against him, iv., 1 sgqg.; receives Julian’s embassy, 14; death, 26.
 
 Constantius III., general of Honorius, receives the fortune of Heraclian, v., 264; character 267 sq.; raised to the Empire of the West, 336; marries Placidia, 335; death, 336.
 
@@ -4731,7 +4733,7 @@ Divorce, vii., 348 sqq.; limitations of the liberty of, 349 sq.
 
 Dlugossius, Johannes, his history of Poland, xi., 134 note.
 
-Dniester, river,Gothic fleet on, ii., 65; Visigothic camp on, iv., 288.
+Dniester, river, Gothic fleet on, ii., 65; Visigothic camp on, iv., 288.
 
 Docetes, gnostic sect, iii., 343 and note; their opinion on the nature of Christ, viii., 126 sq.
 
@@ -5762,7 +5764,7 @@ Gaillard, M., <title>History of Charlemagne</title>, viii., 359 note.
 
 Gainas, the Goth, commands the troops against Rufinus, v., 122; against Trebigild, 301; allies himself with Trebigild, ib. note; enters Constantinople, 305 and note; defeated by Fravitta, 306; by Uldin, 307; death, 308 note.
 
-Gaiseric, King of the Vandals, defeats Hermanric, v., 344; his name,ib. note; befriends the Donatists, 347 and note; treaty with Valentinian III., 354 and note; surprises Carthage, 355; cruel treatment of Theodoric’s daughter by, vi., 47; title of, Kings of Vandals and Alani, 84; builds a fleet, 85; conquers Sicily, ib; casts anchor in the Tiber, ib. ; destroys the navy of Majorian at Carthagena, 112; ravages the coast of the Mediterranean, 117; destroys the fleet of Basiliscus, 129; allies himself with the Visigoths in Gaul, 131; persecutes the Catholics, 189; peace of, with the Catholic Church, ib. note.
+Gaiseric, King of the Vandals, defeats Hermanric, v., 344; his name, ib. note; befriends the Donatists, 347 and note; treaty with Valentinian III., 354 and note; surprises Carthage, 355; cruel treatment of Theodoric’s daughter by, vi., 47; title of, Kings of Vandals and Alani, 84; builds a fleet, 85; conquers Sicily, ib; casts anchor in the Tiber, ib. ; destroys the navy of Majorian at Carthagena, 112; ravages the coast of the Mediterranean, 117; destroys the fleet of Basiliscus, 129; allies himself with the Visigoths in Gaul, 131; persecutes the Catholics, 189; peace of, with the Catholic Church, ib. note.
 
 <pb n="282"/>
 <milestone unit="hathitrustpage" n="https://hdl.handle.net/2027/umn.319510020108540?urlappend=%3Bseq=312"/>
@@ -6777,7 +6779,7 @@ Hilderic, Vandal prince, religious toleration of, vii., 85; deposed by Gelimer, 
 
 Hildesheim, bishopric of, viii., 366.
 
-Hildibald, commander of the Goths of Italy, vii., 243; death,ib.
+Hildibald, commander of the Goths of Italy, vii., 243; death, ib.
 
 Hilleh, village of, iii., 200.
 
@@ -6909,7 +6911,7 @@ Houssaie, Amelot de la, his <title>History of Venice</title>, vi., 71 note.
 <milestone unit="hathitrustpage" n="https://hdl.handle.net/2027/umn.319510020108540?urlappend=%3Bseq=325"/>
 
 
-Houssein, Emir, xi., 185; death of,ib.
+Houssein, Emir, xi., 185; death of, ib.
 
 Hoveden, Roger, xii., 90 note.
 
@@ -7196,7 +7198,7 @@ Irene, daughter of Theodore Lascaris, xi., 56.
 
 <pe>Irene</pe>, or <pe>Pansophia</pe>, viii., 158 and note.
 
-Irene, wife of John Cantacuzene, xi., 108; defends Constantinople, 124; besieged in Demotica, 163;  invites Amir to Constantinople,ib.
+Irene, wife of John Cantacuzene, xi., 108; defends Constantinople, 124; besieged in Demotica, 163;  invites Amir to Constantinople, ib.
 
 Irene, wife of Leo IV., Emperor of Constantinople, crowned with her son, viii., 238; her connection with Charlemagne, 373; letter of Nicephorus concerning, ix., 280; reign, viii., 240 sqq.; restored images, ib. ; canonised, ib.; banished by her son, 70.; restored, 242-3; dethroned and banished to Lesbos by Nicephorus, 243; Life of, 252 note; restoration of images by, 350 sq. 
 
@@ -7978,7 +7980,7 @@ Larissa, captured by the Bulgarians, x., 35 note; besieged by Bohemond, 120.
 
 Lascaris, Constantine, Greek grammar of, xi., 290 n0be.
 
-Lascaris, James, Greek grammarian, xi., 285 sq. and note; founds Greek colleges of Rome and Paris,ib. note; brings MSS. from the East for Lorenzo de Medicio, 289.
+Lascaris, James, Greek grammarian, xi., 285 sq. and note; founds Greek colleges of Rome and Paris, ib. note; brings MSS. from the East for Lorenzo de Medicio, 289.
 
 Lascaris, John, grandson of Vataces, see John.
 
@@ -8027,7 +8029,7 @@ Lazarus, the painter, persecuted, viii., 353 note. Lazi, tribe of, vii., 220 and
 
 Leander and Hero, see Hero.
 
-Leander, Archbishop of Seville, converts Hermenegild, vi., 202; goes to Byzantium,ib. 
+Leander, Archbishop of Seville, converts Hermenegild, vi., 202; goes to Byzantium, ib. 
 
 <pl>Lebanon</pl>, cedars of, built the church at Jerusalem, vii., 57. 
 
@@ -8906,7 +8908,7 @@ Marina, daughter of Arcadius, v., 322.
 
 Marino, nobles gather at, against Rienzi, xii., 146.
 
-Marinus, elected emperor by the Mcosian legions, ii., 2; murder of,ib.
+Marinus, elected emperor by the Mcosian legions, ii., 2; murder of, ib.
 
 Marinus, Praetorian prefect, vii., 50 note.
 
@@ -9783,7 +9785,7 @@ Nacolia, battle of, iv., 192 and note.
 <milestone unit="hathitrustpage" n="https://hdl.handle.net/2027/umn.319510020108540?urlappend=%3Bseq=356"/>
 
 
-Nacoragan, Persian general in the Lazic war, vii., 236; death of,ib.
+Nacoragan, Persian general in the Lazic war, vii., 236; death of, ib.
 
 Nadhis, Jewish tribe of, ix., 69 note (Banu Nadir].
 
@@ -9991,7 +9993,7 @@ Nicholas II., Pope, makes Robert Guiscard duke of Apulia, «x., 100.
 
 Nicholas III., Marquis of Este, xi., 261 and note.
 
-Nicholas III., Pope, xi., 80; enmity of, to Charles of Anjou, xii., 94; his Bull,ib. note.
+Nicholas III., Pope, xi., 80; enmity of, to Charles of Anjou, xii., 94; his Bull, ib. note.
 
 Nicholas IV., Pope, xii., 118; [Ursini], 120; his policy, 121 and note. 
 
@@ -10763,7 +10765,7 @@ Pelagianism in Britain, v., 285 and note; decay of, vi., 207.
 
 Pelagius, papal legate in Egypt, x., 314; his measures at Constantinople, xi., 20.
 
-Pelagius, archdeacon, embassy to Gothic camp, vii., 253 and note; appeals to Totila, 254; Pope,ib. note; viii., 176.
+Pelagius, archdeacon, embassy to Gothic camp, vii., 253 and note; appeals to Totila, 254; Pope, ib. note; viii., 176.
 
 Pelagius, Praetorian prefect, oppresses the people of Pavia, vi., 152 note.
 
@@ -10777,7 +10779,7 @@ Pellegrini, on <rs type="dialect">Greek</rs> dialect of Calabria, xi., 276 note.
 
 Camillo Pellegrino , history of the Lombards, x., 75 note.
 
-Peloponnesus, state of, in eighth century, ix., 323 sqq.; cities and revenue of, 325; manufacture oi silk in, 326-7; families of, transported to Constantinople, xii., 55; condition in fifteenth century, 58 and note; Albanians in,ib.; conquered by Turks, 7.
+Peloponnesus, state of, in eighth century, ix., 323 sqq.; cities and revenue of, 325; manufacture oi silk in, 326-7; families of, transported to Constantinople, xii., 55; condition in fifteenth century, 58 and note; Albanians in, ib.; conquered by Turks, 7.
 
 Pelso, lake, ii., 222 and note; vi., 299 note.
 
@@ -11892,7 +11894,7 @@ Roger II., great Count of Sicily, conquers Sicily, x., 105 sqq.; reign of, 128 s
 <milestone unit="hathitrustpage" n="https://hdl.handle.net/2027/umn.319510020108540?urlappend=%3Bseq=378"/>
 
 
-Roger de Flor, Catalan chief, account of, xi., 85 note; Admiral of Romania, 86 note; made Caesar, 88; death of,ib.
+Roger de Flor, Catalan chief, account of, xi., 85 note; Admiral of Romania, 86 note; made Caesar, 88; death of, ib.
 
 Roger de Loria, Catalan admiral, xi., 84.
 
@@ -11990,7 +11992,7 @@ Campus Martius, xii., 196.
 
 Capitol, see below, under Hills.
 
-Castles: Torre di Bove, xii., 200 note. Of the Brati, 199 note. Cartularia, ib. Of the Cenci, 200 note. Of the Colonna, 185 note, 200 note. Of the Cosecti, 199 note. Of the Frangipani,ib. Of the Pierleoni, 75 note, 200 note. Of the Savelli, 200 note. St. Angelo, 116, 185, 200 and note.
+Castles: Torre di Bove, xii., 200 note. Of the Brati, 199 note. Cartularia, ib. Of the Cenci, 200 note. Of the Colonna, 185 note, 200 note. Of the Cosecti, 199 note. Of the Frangipani, ib. Of the Pierleoni, 75 note, 200 note. Of the Savelli, 200 note. St. Angelo, 116, 185, 200 and note.
 
 Catulus, vaults of, xii., 184.
 
@@ -12184,7 +12186,7 @@ Ruga, Spurius Carvilius, vii., 349 note.
 
 <rs type="ethnic">Rugians</rs>, at the battle of Châlons, vi., 61; invade Britain, 271; usurp Gothic throne, vii., 243.
 
-Rugilas, or Roas, uncle of Attila, vi., 3; death,ib.
+Rugilas, or Roas, uncle of Attila, vi., 3; death, ib.
 
 Rukn ad-dawla, principality of, ix., 305 note.
 
@@ -13824,7 +13826,7 @@ Tervingi, oppose Claudius, ii., 65 note. See Thervingi.
 
 Tesserae (dice), v., 214 and note.
 
-Testament, Greek New, text of, vi., 198; published by Erasmus, ib. note; text concerning the three witnesses included in,ib.
+Testament, Greek New, text of, vi., 198; published by Erasmus, ib. note; text concerning the three witnesses included in, ib.
 
 <rs type="law">law of Testaments</rs>, vii., 362 sqq.
 
@@ -13962,7 +13964,7 @@ Theodoric, son of Clovis, vi., 66 note; conquers Auvergne, vi., 255.
 
 Theodoric, son of Triarius, vi., 304 note; attacks Theodoric, 306.
 
-Theodoric the Ostrogoth, account of, by Sidonius, vi., 94 sqq.; expedition to Spain, 97 sqq.; defeats the Suevi, 98; sacks Pollentia and Astorga,ib.; defeated by Majorian, 109; allies himself with Rome, 114; marries sister of Clovis, 218; protects the Alamanni, ib. note; consul, 235; birth and education, 299 sqq.; subdues the Sarmatians, 301; serves Zeno, 304; attacked by Theodoric, son of Triarius, 306; at Constantinople, 307; his march into Italy, 308 sq.; territory of, 311; reign, 313 sqq.; foreign policy of, 316 sq.; his defensive wars, 318 sqq.;_ civil government of, 321; Latin edict of, ib. note; coins of, 322; visit to Rome, 325; resides at Ravenna, 327; and Verona, ib.; religious toleration of, 329 sqq.; vices of his government, 331 sq.; persecutes the Catholics, 333; sends Pope John to Constantinople, 334; imprisons Boethius, 339; puts him and Symmachus to death, 340 sqq.; death, 342; monument of, 343 and note; date of his marriage, vii., 124 note; acts of, ratified by Justinian, 281; buildings of Rome under, xii., 192.
+Theodoric the Ostrogoth, account of, by Sidonius, vi., 94 sqq.; expedition to Spain, 97 sqq.; defeats the Suevi, 98; sacks Pollentia and Astorga, ib.; defeated by Majorian, 109; allies himself with Rome, 114; marries sister of Clovis, 218; protects the Alamanni, ib. note; consul, 235; birth and education, 299 sqq.; subdues the Sarmatians, 301; serves Zeno, 304; attacked by Theodoric, son of Triarius, 306; at Constantinople, 307; his march into Italy, 308 sq.; territory of, 311; reign, 313 sqq.; foreign policy of, 316 sq.; his defensive wars, 318 sqq.;_ civil government of, 321; Latin edict of, ib. note; coins of, 322; visit to Rome, 325; resides at Ravenna, 327; and Verona, ib.; religious toleration of, 329 sqq.; vices of his government, 331 sq.; persecutes the Catholics, 333; sends Pope John to Constantinople, 334; imprisons Boethius, 339; puts him and Symmachus to death, 340 sqq.; death, 342; monument of, 343 and note; date of his marriage, vii., 124 note; acts of, ratified by Justinian, 281; buildings of Rome under, xii., 192.
 
 <pb n="370"/>
 <milestone unit="hathitrustpage" n="https://hdl.handle.net/2027/umn.319510020108540?urlappend=%3Bseq=400"/>
@@ -14260,7 +14262,7 @@ Tolbiac, battle of, vi., 217 and note.
 
 Toledo, Council of, vi., 204; eighth Council of, ib. note, 206; Tarik at, ix., 215 and note.
 
-Toleration, in the Roman Empire, popular, i., 35 sq.; philosophical, 37; official, 39; in the provinces, 40; at Rome,ib.; of paganism, iii., 409 sqq.
+Toleration, in the Roman Empire, popular, i., 35 sq.; philosophical, 37; official, 39; in the provinces, 40; at Rome, ib.; of paganism, iii., 409 sqq.
 
 Tollenburg, name for Pragg, x., 211 note.
 
@@ -14801,7 +14803,7 @@ Vedastus, St., Life of, vi., 218 note.
 
 Vegetius, his description of Roman legions, i., 19 note; v., 70 and note.
 
-Veii, siege of, i., 203; position of,ib. note, ii., 179 note.
+Veii, siege of, i., 203; position of, ib. note, ii., 179 note.
 
 Velleda, German prophetess, i., 292.
 
