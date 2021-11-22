@@ -218,7 +218,7 @@ Your work during the course will be created as a porfolio that you will create o
 
 * November 17.
 
-* November 22:
+* November 22: [Notes for Class](https://docs.google.com/document/d/1DuGuKIdvMRIxXXkruDGqtepk04rv2lpcW2YoE5nP8Cw/edit)
 
 * November 24: NO CLASS
 
