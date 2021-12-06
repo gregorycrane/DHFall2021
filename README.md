@@ -230,7 +230,8 @@ Your work during the course will be created as a porfolio that you will create o
 ### Class Projects
 * December 1: 
 
-* December 6: 
+* December 6: [Notes for Class](https://docs.google.com/document/d/1pE1j5Rw01crZyQmt2FSXfTDd184SbrxQJ8Y7fNIzpVU/edit)
+
 
 * December 8: 
 
