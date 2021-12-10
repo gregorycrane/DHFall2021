@@ -338,6 +338,7 @@ ch09pa02se001	GER	Extent of Germany	chap9	Ancient Germany, excluding from its in
 ch09pa03se001	CLI	Climate	chap9	have suspected that Europe was much colder
 ch09pa04se001	EFF	Its effects on the natives	chap9	It is difficult to ascertain, and easy
 ch09pa05se001	ORI	Origin of the Germans	chap9	There is not anywhere upon the globe
+ch09pa06se001	FAB	Fables and conjectures	chap9	Such rational doubt is but ill suited
 ch09pa07se001	IGN	The Germans ignorant of letters;	chap9	But all this well-laboured system of German
 ch09pa08se001	ART	of arts and agriculture;	chap9	Of these arts, the ancient Germans were
 ch09pa09se001	USE	and of the use of metals.	chap9	Gold, silver, and iron were extremely scarce
@@ -882,6 +883,7 @@ ch23pa04se001	thea	The allegories	chap23	But the devout philosopher, who sincere
 ch23pa05se001	theo	Theological system of Julian	chap23	The theological system of Julian appears to
 ch23pa06se001	fana	Fanaticism of the philosophers	chap23	In every age the absence of genuine
 ch23pa07se001	init	Initiation and fanaticism of Julian	chap23	The devout and fearless curiosity of Julian
+ch23pa08se001	hisr	His religious dissimulation.	chap23	The important secret of the apostacy of
 ch23pa09se001	hewr	He writes against Christianity.	chap23	The inclination of Julian might prefer the
 ch23pa10se001	univ	Universal toleration	chap23	The Christians, who beheld with horror and
 ch23pa11se001	devo	Zeal and devotion of Julian in the restoration of paganism.	chap23	As soon as he ascended the throne,
@@ -1216,6 +1218,7 @@ ch33pa12se001	progress	Progress of the Vandals in Africa, A.D. 431-439.	chap33	I
 ch33pa13se001	surprise	They Surprise Carthage, A.D. 439, October 9	chap33	A new city had arisen from its
 ch33pa14se001	african	African exiles and captives.	chap33	It was natural enough that Genseric should
 ch33pa15se001	fable	Fable of the seven sleepers.	chap33	Among the insipid legends of ecclesiastical history,
+ch34pa01se001	thehuns	The Huns, A.D. 376-433	chap34	THE Western world was oppressed by the
 ch34pa02se001	hungary	Their establishment in modern Hungary	chap34	In the tide of emigration which impetuously
 ch34pa03se001	reign	Reign of Attila, A.D. 433-453	chap34	The death of Rugilas suspended the progress
 ch34pa04se001	figure	His figure and character;	chap34	Attila, the son of Mundzuk, deduced his
@@ -1243,7 +1246,7 @@ ch35pa03se001	huns	His connection with the Huns and Alani.	chap35	From a princip
 ch35pa04se001	visigoths	The Visigoths in Gaul under the reign of Theoderic, A.D. 419-451.	chap35	The kingdom established by the Visigoths in
 ch35pa05se001	franks	The Franks in Gaul, under the Merovingian kings, A.D. 420-451.	chap35	The Franks, whose monarchy was still confined
 ch35pa06se001	honoria	The adventures of the princess Honoria.	chap35	When Attila declared his resolution of supporting
-ch35pa07se001	gaul	Attila invades Gaul, and besieges Orleans, A.D. 4501.	chap35	A native of Gaul and a contemporary,
+ch35pa07se001	gaul	Attila invades Gaul, and besieges Orleans, A.D. 450-1.	chap35	A native of Gaul and a contemporary,
 ch35pa08se001	alliance	Alliance of the Romans and Visigoths.	chap35	The facility with which Attila had penetrated
 ch35pa09se001	retires	Attila retires to the plains of Champagne.	chap35	On their approach the king of the
 ch35pa10se001	chalons	Battle of Chalons.	chap35	The discipline and tactics of the Greeks
@@ -1381,6 +1384,34 @@ ch38pa40se001	servitude	Servitude.	chap38	This strange alteration has persuaded 
 ch38pa41se001	manners	Manners of the Britons.	chap38	The independent Britons appear to have relapsed
 ch38pa42se001	obscure	Obscure or fabulous state of Britain.	chap38	By the revolution of Britain the limits
 ch38pa43se001	fall	Fall of the Roman empire in the West.	chap38	I have now accomplished the laborious narrative
+ch39pa02se001	theodoric	Birth and education of Theodoric, A.D. 455-475	chap39	THEODORIC the Ostrogoth, the fourteenth in lineal
+ch39pa03se001	zeno	The reign of Zeno, A.D. 474-491, Feb. Apr. 9	chap39	An hero, descended from a race of
+ch39pa03se013	anastasius	Of Anastasius, A.D. 491-518. Apr 11. July 8.	chap39	On the decease of
+ch39pa04se001	service	Service and revolt of Theodoric, A.D. 475-488.	chap39	Whatever fear or affection could bestow, was
+ch39pa05se001	conquest	He undertakes the conquest of Italy. A.D. 489.	chap39	In every state of his fortune, the
+ch39pa06se001	march	His march.	chap39	The reputation both of the leader and
+ch39pa07se001	odoacer	The three defeats of Odoacer, A.D. 489, August 28, Sept.27; A.D. 490, August.	chap39	Odoacer, a rival not unworthy of his
+ch39pa08se001	capitulation	his capitulation and death, A.D. 493, March 5.	chap39	From the Alps to the extremity of
+ch39pa08se010	reign	Reign of Theodoric, king of Italy, A.D. 493, March 5- A.D. 526, August 30.	chap39	The living author of
+ch39pa09se001	partition	Partion of lands.	chap39	The partition of the lands of Italy,
+ch39pa09se007	separation	Separations of the Goths and Italians. 	chap39	who perpetuated the separation
+ch39pa10se001	policy	Foreign policy of Theodoric.	chap39	Among the Barbarians of the West, the
+ch39pa11se001	wars	His defensive wars.	chap39	The life of Theodoric represents the rare
+ch39pa11se009	armanent	His naval armanent, A.D. 509.	chap39	Italy was covered by
+ch39pa12se001	civil	Civil government of Italy according to the Roman laws..	chap39	The union of the Goths and Romans
+ch39pa13se001	prosperity	Prosperity of Rome.	chap39	As the patron of the republic, it
+ch39pa13se006	visit	Visit of Theodoric, A.D. 500.	chap39	Theodoric visited the old
+ch39pa14se001	flourishing	Flourishing state of Italy.	chap39	After the example of the last emperors,
+ch39pa15se001	arian	Theodoric an Arian.	chap39	A difference of religion is always pernicious,
+ch39pa15se004	toleration	His toleration of the Catholics.	chap39	his dominions acknowledged, perhaps
+ch39pa16se001	vices	Vices of his government.	chap39	I have descanted with pleasure on the
+ch39pa17se001	provoked	He is provoked to persecute the Catholics.	chap39	Even the religious toleration which Theodoric had
+ch39pa18se001	boethius	Character, studies, and honours of Boethius.	chap39	is the last of the Romans whom
+ch39pa19se001	patriotism	His patriotism.	chap39	A philosopher, liberal of his wealth and
+ch39pa19se010	accused	He is accused of treason.	chap39	The senator Albinus was
+ch39pa20se001	death	His imprisonment and death, A.D. 524.	chap39	While Boethius, oppressed with fetters, expected each
+ch39pa20se013	symmachus	Death of Symmachus, A.D. 525.	chap39	He was dragged in
+ch39pa21se001	remorse	Remorse and death of Theodoric, A.D. 526, August 30.	chap39	Humanity will be disposed to encourage any
 ch40pa01se001	birth	Birth of the emperor Justinian, A.D. 482, May 5 - or A.D. 483 , may 11.	chap40	the inhabitants of a wild and desolate
 ch40pa01se008	elevation	 Elevation and reign of his uncle Justin I., A.D. 518, July 10; A.D. 527, April 1 - or August 1. 	chap40	But these weighty arguments
 ch40pa02se001	adoption	Adoption and succession of Justinian, A.D. 520-527.	chap40	Since the eunuch Amantius had been defrauded
