@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader xml:lang="eng">
+<fileDesc>
+<titleStmt>
+<title xml:lang="eng">Index to the Decline and Fall of the Roman Empire of Edward Gibbon</title>
+<editor>Jane Bury</editor>
+<funder>Volunteer</funder>
+<principal>Gregory Crane</principal>
+<respStmt>
+<persName xml:id="DDD">Digital Divide Data</persName>
+<resp>Corrected and encoded the text</resp>
+</respStmt>
+<respStmt>
+<persName>Gregory Crane</persName>
+<resp>Editor-in-Chief, Perseus Digital Library</resp>
+</respStmt>
+
+</titleStmt>
+<publicationStmt>
+<authority>Perseus Digital Library</authority>
+
+<idno type="filename">gibbon-bury.xml</idno>
+<availability>
+<licence target="https://creativecommons.org/licenses/by-sa/4.0/">Available under a Creative Commons Attribution-ShareAlike 4.0 International License</licence>
+</availability>
+<date>2021</date>
+<publisher>Perseus Library</publisher>
+<pubPlace>United States</pubPlace>
+</publicationStmt>
+<sourceDesc>
+<listBibl>
+<biblStruct>
+<monogr>
+
+<title xml:lang="lat">Index to Decline and Fall</title>
+<editor>
+<persName>
+<name xml:lang="lat">Mrs.J. B. Bury</name>
+</persName>
+</editor>
+<author ref="urn:TBA">Edward Gibbon</author>
+
+<imprint>
+<publisher>Fred de Fau and Company</publisher>
+<pubPlace>New York</pubPlace>
+<date>1906</date>
+</imprint>
+
+<biblScope unit="volumes">12</biblScope>
+
+</monogr>
+<ref target="https://oll.libertyfund.org/person/edward-gibbon">The Internet Archive</ref>
+</biblStruct>
+</listBibl>
+</sourceDesc>
+</fileDesc>
+
+
+<encodingDesc>
+
+<p>Text encoded in accordance with the latest EpiDoc standards (January 2014)</p>
+<p>The following text is encoded in accordance with EpiDoc standards and with the CTS/CITE
+Architecture.</p>
+
+
+<refsDecl n="CTS">
+
+<cRefPattern n="cited quotation" matchPattern="(.+).(.+).(.+)"
+replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1']/tei:div[@n='$2']/tei:cit[@n='$3'])">
+<p>This pointer pattern extracts single fragments</p>
+
+
+</cRefPattern>
+
+<cRefPattern n="paragraph" matchPattern="(.+).(.+)"
+replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1']/tei:div[@n='$2'])">
+<p>This pointer pattern extracts all the fragments classified under the same paragraph number</p>
+</cRefPattern>
+
+<cRefPattern n="book" matchPattern="(.+)"
+replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])">
+<p>This pointer pattern extracts books or sections</p>
+
+</cRefPattern>
+
+
+
+
+</refsDecl>
+
+</encodingDesc>
+<profileDesc>
+<langUsage>
+<language ident="grc">English</language>
+<language ident="grc">French</language>
+<language ident="lat">Latin</language>
+<language ident="deu">German</language>  
+</langUsage>
+</profileDesc>
+<revisionDesc>
+<change who="Gregory Crane">created the file</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>

@@ -1,4 +1,11 @@
+
 # Digital Versions of the Decline and Fall
+
+## NB: The CCEL edition looks like it was based on the Gutenberg transcription. Shared error:
+
+Whatever fear of affection could bestow, was profusely lavished by Zeno
+
+Instead of "fear or affection" 
 
 These are the 1797 printing but seem to match up with the page breaks in the ECCO TCP xml
 

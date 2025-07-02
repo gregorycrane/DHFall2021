@@ -5046,7 +5046,6 @@
 0	0	3	patizeithes	1:00000172:patizeithes-bio-1
 0	0	1	dieuches	1:00001148:dieuches-bio-1
 0.21	0.21	1	clytus	0.79:00001546:clytus-bio-2@0.20:00000388:clytus-bio-1
-0.5	23	46	mount	0.5:00002537:artemisium-geo
 0	0	1	arduenna	1:00002593:arduenna-geo
 0	0	3	aquinum	1:00005001:aquinum-geo
 0.0600000000000001	0.780000000000001	13	m. terentius varro	0.94:66589:varro-m-terentius-bio-1@0.03:0002193:varro-terentius-bio-7

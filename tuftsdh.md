@@ -1,0 +1,4 @@
+# What are the Digital Humanities?
+Digital Humanities is an umbrella term that describes the use of emerging new digital technologies to transform the way in which members of society can engage with human record, particularly as it is recorded through text, sound, image, and video.  The Digital Humanities goes beyond enhancing the abilities of traditional researchers to produce new articles and monographs. The Digital Humanities are making possible a new generation of interactive publications that can include expository prose but that cannot be fully represented as the PDFs or static HTML pages which mimic print. Most importantly, the Digital Humanities allow us to trasnform the relationship between the human record and the intellectual life of humanity.
+
+# What are the Digital Humanities at Tufts?

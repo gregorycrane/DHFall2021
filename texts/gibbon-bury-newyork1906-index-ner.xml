@@ -26710,7 +26710,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent3669">
 <head><persName type="author2" n="fore3"><forename>Constantine</forename> <surname>Lascaris</surname></persName></head>
-<p>Greek grammar of, <ref type="volpage" target="ch66:v11p290">xi.290</ref> n0be.</p>
+<p>Greek grammar of, <ref type="volpage" target="ch66:v11p290">xi.290 note</ref>.</p>
 </div>
 
 

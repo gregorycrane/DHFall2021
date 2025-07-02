@@ -624,7 +624,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent0073">
 <head><rs>Greek Accents</rs></head>
-<p><ref type="volpage" target="ch67:v11p286">xi.286</ref>.</p>
+<p><ref type="volpage" target="ch66:v11p286">xi.286</ref>.</p>
 </div>
 
 
@@ -807,7 +807,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent0101">
 <head><persName n="mr-etc"><roleName>Mr.</roleName> <surname>Addison</surname></persName></head>
-<p>bigotry of, <ref type="volpage" target="ch49:v08p313">viii.313 note</ref>, <ref type="volpage" target="ch67:v11p271">xi.271 note</ref>, <ref type="volpage" target="ch71:v12p191">xii.191 note</ref>. </p>
+<p>bigotry of, <ref type="volpage" target="ch49:v08p313">viii.313 note</ref>, <ref type="volpage" target="ch66:v11p271">xi.271 note</ref>, <ref type="volpage" target="ch71:v12p191">xii.191 note</ref>. </p>
 </div>
 
 
@@ -1074,7 +1074,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent0141">
 <head><persName n="manual">Aeneas Sylvius</persName></head>
-<p>(<persName n="genname"><surname>Pius</surname> <genName n="2">II.</genName></persName>), founds University of Basil, <ref type="volpage" target="ch67:v11p254">xi.254 note</ref>.</p>
+<p>(<persName n="genname"><surname>Pius</surname> <genName n="2">II.</genName></persName>), founds University of Basil, <ref type="volpage" target="ch66:v11p254">xi.254 note</ref>.</p>
 <p>efforts against the Turks, <ref type="volpage" target="ch68:v12p062">xii.62</ref>.</p>
 <p>at coronation of <persName n="genname"><surname>Frederic</surname> <genName n="3">III.</genName></persName>, <ref type="volpage" target="ch70:v12p168">168 note</ref>, <ref type="volpage" target="ch70:v12p169">169 note</ref>.</p>
 <p>epigram of, <ref type="volpage" target="ch71:v12p197">197 and note</ref>. </p>
@@ -1795,7 +1795,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent0238">
 <head><persName type="author1"><forename n="fore6">Aldus</forename> <surname>Manutius</surname></persName></head>
-<p>prints Greek authors at Venice, <ref type="volpage" target="ch67:v11p290">xi.290 note</ref>.</p>
+<p>prints Greek authors at Venice, <ref type="volpage" target="ch66:v11p290">xi.290 note</ref>.</p>
 </div>
 
 
@@ -2790,7 +2790,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 <p>reign of, <ref type="volpage" target="ch65:v11p221">221</ref>.</p>
 <p>takes Hadrianople, <ref type="volpage" target="ch65:v11p222">222</ref>.</p>
 <p>besieges Constantinople, <ref type="volpage" target="ch65:v11p224-ch65:v11p225">224-5</ref>.</p>
-<p>embassy of, to John Palwologus, <ref type="volpage" target="ch67:v11p258">258 and note</ref>.</p>
+<p>embassy of, to John Palwologus, <ref type="volpage" target="ch66:v11p258">258 and note</ref>.</p>
 <p>character and reign, <ref type="volpage" target="ch67:v11p300-ch67:v11p302">300 sqq.</ref>.</p>
 <p>pardons Scanderbeg, <ref type="volpage" target="ch67:v11p302">302</ref>.</p>
 <p>abdication, <ref type="volpage" target="ch67:v11p302-ch67:v11p303">302 sq.</ref>.</p>
@@ -3143,7 +3143,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 <p>reign, <ref type="volpage" target="ch63:v11p102-ch63:v11p104">102 sqq.</ref>.</p>
 <p>death, <ref type="volpage" target="ch63:v11p106">106</ref>.</p>
 <p>defeated by Orchan, <ref type="volpage" target="ch64:v11p159">xi.159</ref>.</p>
-<p>embassy to <persName n="genname"><surname>Benedict</surname> <genName n="12">XII.</genName></persName>, <ref type="volpage" target="ch67:v11p233">233 and note</ref>.</p>
+<p>embassy to <persName n="genname"><surname>Benedict</surname> <genName n="12">XII.</genName></persName>, <ref type="volpage" target="ch66:v11p233">233 and note</ref>.</p>
 </div>
 
 
@@ -4252,7 +4252,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 <div type="textpart" subtype="entry" xml:id="ent0568">
 <head><persName n="fore4"><forename>Leonardus</forename> <forename>Brunus</forename> <surname>Aretinus</surname></persName></head>
 <p>steals the Gothic history of Procopius, <ref type="volpage" target="ch40:v07p007">vii.7 note</ref>.</p>
-<p>life of, <ref type="volpage" target="ch67:v11p282">xi.282 and note</ref>s ; <ref type="volpage" target="ch70:v12p165">xii.165 note</ref>.</p>
+<p>life of, <ref type="volpage" target="ch66:v11p282">xi.282 and note</ref>s ; <ref type="volpage" target="ch70:v12p165">xii.165 note</ref>.</p>
 </div>
 
 
@@ -4283,7 +4283,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent0573">
 <head><persName n="fore3"><forename>John</forename> <surname>Argyropulus</surname></persName></head>
-<p><ref type="volpage" target="ch67:v11p284">xi.284</ref>.</p>
+<p><ref type="volpage" target="ch66:v11p284">xi.284</ref>.</p>
 </div>
 
 
@@ -4398,7 +4398,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 <p>philosophy of, <ref type="volpage" target="ch52:v09p272">ix.272</ref>, <ref type="volpage" target="ch52:v09p273">273</ref>.</p>
 <p>study of, revived by the Caliphs, <ref type="volpage" target="ch52:v09p273">273</ref>.</p>
 <p>in western universities, <ref type="volpage" target="ch61:v11p041">xi.41</ref>.</p>
-<p>study of, by Theodore Gaza, <ref type="volpage" target="ch67:v11p286">286</ref>.</p>
+<p>study of, by Theodore Gaza, <ref type="volpage" target="ch66:v11p286">286</ref>.</p>
 </div>
 
 
@@ -5065,7 +5065,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent0680">
 <head><persName n="fore4"><forename>Joseph</forename> <forename>Simon</forename> <surname>Assemannus</surname></persName></head>
-<p>account of, <ref type="volpage" target="ch47:v08p184">viii.184 note</ref>; <ref type="volpage" target="ch67:v11p271">xi.271 note</ref>.</p>
+<p>account of, <ref type="volpage" target="ch47:v08p184">viii.184 note</ref>; <ref type="volpage" target="ch66:v11p271">xi.271 note</ref>.</p>
 
 </div>
 
@@ -5289,7 +5289,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 
 <div type="textpart" subtype="entry" xml:id="ent0710">
-<head><name>Athelstan</name></head>
+<head><persName n="manual">Athelstan</persName></head>
 <p>conquers Cornwall, <ref type="volpage" target="ch38:v06p275">vi.275 note</ref>.</p>
 </div>
 
@@ -6214,7 +6214,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent0826">
 <head><persName n="genname"><surname>Bajazet</surname> <genName n="2">II.</genName></persName></head>
-<p><roleName n="rulex">Sultan</roleName>, <ref type="volpage" target="ch67:v11p289">xi.289 note</ref>.</p>
+<p><roleName n="rulex">Sultan</roleName>, <ref type="volpage" target="ch66:v11p289">xi.289 note</ref>.</p>
 </div>
 
 
@@ -6572,8 +6572,8 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 <div type="textpart" subtype="entry" xml:id="ent0879">
 <head><persName>Barlaam</persName></head>
 <p><roleName>Calabrian monk</roleName>, <ref type="volpage" target="ch63:v11p119">xi.119 and note</ref> <ref type="volpage" target="ch63:v11p120">sq.</ref>.</p>
-<p>embassy, <ref type="volpage" target="ch67:v11p233">233</ref>.</p>
-<p>learning, <ref type="volpage" target="ch67:v11p277-ch67:v11p278">277 sq.</ref>; <roleName>Bishop of <placeName>Calabria</placeName></roleName>, <ref type="volpage" target="ch67:v11p278">278 and note</ref>.</p>
+<p>embassy, <ref type="volpage" target="ch66:v11p233">233</ref>.</p>
+<p>learning, <ref type="volpage" target="ch66:v11p277-ch66:v11p278">277 sq.</ref>; <roleName>Bishop of <placeName>Calabria</placeName></roleName>, <ref type="volpage" target="ch66:v11p278">278 and note</ref>.</p>
 </div>
 
 
@@ -6734,7 +6734,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent0900">
 <head><persName n="mr-etc"><roleName>St.</roleName> <surname>Basil</surname></persName></head>
-<p>Calabrian monks of, <ref type="volpage" target="ch67:v11p276">xi.276 and note</ref>.</p>
+<p>Calabrian monks of, <ref type="volpage" target="ch66:v11p276">xi.276 and note</ref>.</p>
 </div>
 
 
@@ -6746,7 +6746,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent0902">
 <head><placeName n="qual1-city" type="city">Basil</placeName></head>
-<p>city of, <ref type="volpage" target="ch67:v11p254">xi.254 note</ref>.</p>
+<p>city of, <ref type="volpage" target="ch66:v11p254">xi.254 note</ref>.</p>
 </div>
 
 
@@ -7290,8 +7290,8 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent0980">
 <head><persName n="genname"><surname>Benedict</surname> <genName n="12">XII.</genName></persName></head>
-<p><roleName n="rulex">Pope</roleName>, receives ambassadors of Andronicus, <ref type="volpage" target="ch67:v11p233">xi.233</ref>.</p>
-<p>character, <ref type="volpage" target="ch67:v11p235">235 and note</ref>.</p>
+<p><roleName n="rulex">Pope</roleName>, receives ambassadors of Andronicus, <ref type="volpage" target="ch66:v11p233">xi.233</ref>.</p>
+<p>character, <ref type="volpage" target="ch66:v11p235">235 and note</ref>.</p>
 <p>addressed by Petrarch, <ref type="volpage" target="ch70:v12p155">xii.155 and note</ref>, <ref type="volpage" target="ch70:v12p156">156</ref>.</p>
 <p>said to have introduced triple crown, <ref type="volpage" target="ch70:v12p158">158 note</ref>.</p>
 </div>
@@ -7379,7 +7379,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent0991">
 <head><persName type="author2" n="mr-etc"><roleName>Dr.</roleName> <surname>Bentley</surname></persName></head>
-<p>on Roman money, <ref type="volpage" target="ch44:v07p305">vii.305 note</ref>; <ref type="volpage" target="ch67:v11p290">xi.290</ref></p>
+<p>on Roman money, <ref type="volpage" target="ch44:v07p305">vii.305 note</ref>; <ref type="volpage" target="ch66:v11p290">xi.290</ref></p>
 </div>
 
 
@@ -7435,7 +7435,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent1000">
 <head><persName type="author1">Berger de Xivrey</persName></head>
-<p>on Emperor Manuel, <ref type="volpage" target="ch67:v11p249">xi.249 note</ref>.</p>
+<p>on Emperor Manuel, <ref type="volpage" target="ch66:v11p249">xi.249 note</ref>.</p>
 </div>
 
 
@@ -7584,10 +7584,10 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent1022">
 <head><persName n="rol4">Bessarion</persName></head>
-<p><roleName>Bishop of <placeName>Nice</placeName></roleName>, <ref type="volpage" target="ch67:v11p259">xi.259</ref>.</p>
-<p>at the council of Florence, <ref type="volpage" target="ch67:v11p265">265</ref>.</p>
-<p>made cardinal, <ref type="volpage" target="ch67:v11p266-ch67:v11p267">266-7 and note</ref>.</p>
-<p>literary merit of, <ref type="volpage" target="ch67:v11p283-ch67:v11p284">283-4</ref>.</p>
+<p><roleName>Bishop of <placeName>Nice</placeName></roleName>, <ref type="volpage" target="ch66:v11p259">xi.259</ref>.</p>
+<p>at the council of Florence, <ref type="volpage" target="ch66:v11p265">265</ref>.</p>
+<p>made cardinal, <ref type="volpage" target="ch66:v11p266-ch66:v11p267">266-7 and note</ref>.</p>
+<p>literary merit of, <ref type="volpage" target="ch66:v11p283-ch66:v11p284">283-4</ref>.</p>
 </div>
 
 
@@ -7844,9 +7844,9 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent1061">
 <head><persName n="manual">Boccaccio</persName></head>
-<p><ref type="volpage" target="ch67:v11p279">xi.279</ref>.</p>
-<p>entertains Leo Pilatus, <ref type="volpage" target="ch67:v11p279">ib.</ref> <ref type="volpage" target="ch67:v11p280">sq.</ref>.</p>
-<p>his "Homer," <ref type="volpage" target="ch67:v11p280">280 and note</ref>.</p>
+<p><ref type="volpage" target="ch66:v11p279">xi.279</ref>.</p>
+<p>entertains Leo Pilatus, <ref type="volpage" target="ch66:v11p279">ib.</ref> <ref type="volpage" target="ch66:v11p280">sq.</ref>.</p>
+<p>his "Homer," <ref type="volpage" target="ch66:v11p280">280 and note</ref>.</p>
 </div>
 
 
@@ -7950,7 +7950,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent1074">
 <head><persName type="author2">Bolingbroke</persName></head>
-<p><roleName>Lord</roleName>, on the Popes, <ref type="volpage" target="ch67:v11p288">xi.288 note</ref>.</p>
+<p><roleName>Lord</roleName>, on the Popes, <ref type="volpage" target="ch66:v11p288">xi.288 note</ref>.</p>
 </div>
 
 
@@ -7964,7 +7964,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 <head><placeName n="qual1-city" type="city">Bologna</placeName></head>
 <p>city of, resists Attalus, <ref type="volpage" target="ch31:v05p238">v.238</ref>.</p>
 <p>Stilicho at, <ref type="volpage" target="ch30:v05p187">187</ref>.</p>
-<p>number of students in university of, <ref type="volpage" target="ch67:v11p274">xi.274 note</ref>.</p>
+<p>number of students in university of, <ref type="volpage" target="ch66:v11p274">xi.274 note</ref>.</p>
 <p>under Papal interdict, <ref type="volpage" target="ch69:v12p093">xii.93</ref>.</p>
 <p>Porcaro at, <ref type="volpage" target="ch70:v12p172-ch70:v12p173">172-3</ref>.</p>
 </div>
@@ -8309,7 +8309,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent1125">
 <head><placeName n="qual1-territory" type="territory">Bova</placeName></head>
-<p>territory of, <rs type="dialect" n="manual">Greek</rs> dialect spoken in the, <ref type="volpage" target="ch67:v11p276">xi.276 note</ref>.</p>
+<p>territory of, <rs type="dialect" n="manual">Greek</rs> dialect spoken in the, <ref type="volpage" target="ch66:v11p276">xi.276 note</ref>.</p>
 </div>
 
 
@@ -8329,7 +8329,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 <div type="textpart" subtype="entry" xml:id="ent1128">
 <head><persName>Boyardo</persName></head>
 <p><roleName>Count</roleName>, forgery of, <ref type="volpage" target="ch58:v10p220">x.220 note</ref>.</p>
-<p>Orlando Inamorato of, <ref type="volpage" target="ch67:v11p292">xi.292 note</ref>. </p>
+<p>Orlando Inamorato of, <ref type="volpage" target="ch66:v11p292">xi.292 note</ref>. </p>
 </div>
 
 
@@ -8521,7 +8521,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 <p>mentioned by Anna Comnena [Thule], <ref type="volpage" target="ch59:v10p273">x.273 note</ref>.</p>
 <p>revenue of, in thirteenth century, <ref type="volpage" target="ch60:v10p379">379 and note</ref>.</p>
 <p>herring fishery of, <ref type="volpage" target="ch64:v11p148">xi.148 note</ref>.</p>
-<p>description of, by Chalcondyles, <ref type="volpage" target="ch67:v11p247-ch67:v11p248">247 sq.</ref>.</p>
+<p>description of, by Chalcondyles, <ref type="volpage" target="ch66:v11p247-ch66:v11p248">247 sq.</ref>.</p>
 <p>feelings of English clergy towards the Popes, <ref type="volpage" target="ch69:v12p092">xii.92 note</ref>.</p>
 <p>eight kingdoms in British Islands, <ref type="volpage" target="ch70:v12p166">166 note</ref>.</p>
 </div>
@@ -8686,7 +8686,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent1178">
 <head><name>Bucentaur</name></head>
-<p>ship of <persName n="genname"><surname>John Palaeologus</surname> <genName n="2">II.</genName></persName>, <ref type="volpage" target="ch67:v11p260">xi.260</ref>. </p>
+<p>ship of <persName n="genname"><surname>John Palaeologus</surname> <genName n="2">II.</genName></persName>, <ref type="volpage" target="ch66:v11p260">xi.260</ref>. </p>
 </div>
 
 
@@ -8706,7 +8706,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent1181">
 <head><persName n="forename">Budeus</persName></head>
-<p><ref type="volpage" target="ch67:v11p290">xi.290</ref>. Buffaloes introduced into Italy by the Lombards, <ref type="volpage" target="ch45:v08p033">viii.33 and note</ref>. </p>
+<p><ref type="volpage" target="ch66:v11p290">xi.290</ref>. Buffaloes introduced into Italy by the Lombards, <ref type="volpage" target="ch45:v08p033">viii.33 and note</ref>. </p>
 </div>
 
 
@@ -8802,7 +8802,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent1193">
 <head><persName type="author1">Burckhardt</persName></head>
-<p>on the Renaissance, <ref type="volpage" target="ch67:v11p291">xi.291 note</ref>.</p>
+<p>on the Renaissance, <ref type="volpage" target="ch66:v11p291">xi.291 note</ref>.</p>
 </div>
 
 
@@ -8858,8 +8858,8 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent1198">
 <head><placeName n="qual1-duke" type="duchy">Burgundy</placeName></head>
-<p><roleName n="ruler2">Duke</roleName> of, uncle of <persName n="genname"><surname>Charles</surname> <genName n="6">VI.</genName></persName>, <ref type="volpage" target="ch67:v11p243">xi.243</ref>.</p>
-<p>at Council of Ferrara, <ref type="volpage" target="ch67:v11p262">262</ref>.</p>
+<p><roleName n="ruler2">Duke</roleName> of, uncle of <persName n="genname"><surname>Charles</surname> <genName n="6">VI.</genName></persName>, <ref type="volpage" target="ch66:v11p243">xi.243</ref>.</p>
+<p>at Council of Ferrara, <ref type="volpage" target="ch66:v11p262">262</ref>.</p>
 </div>
 
 
@@ -9819,7 +9819,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 <p>his treaty with the Venetians, <ref type="volpage" target="ch63:v11p125">125</ref>.</p>
 <p>solicits help from the Turks, <ref type="volpage" target="ch64:v11p162">162</ref>.</p>
 <p>his friendship with Amir, <ref type="volpage" target="ch64:v11p162">ib. note</ref>.</p>
-<p>negotiations of, with <persName n="genname"><surname>Clement</surname> <genName n="6">VI.</genName></persName>,. <ref type="volpage" target="ch67:v11p235-ch67:v11p236">235-6</ref>.</p>
+<p>negotiations of, with <persName n="genname"><surname>Clement</surname> <genName n="6">VI.</genName></persName>,. <ref type="volpage" target="ch66:v11p235-ch66:v11p236">235-6</ref>.</p>
 </div>
 
 
@@ -9861,7 +9861,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent1342">
 <head><placeName n="space-at-comma">Canterbury</placeName></head>
-<p>Emperor Manuel at, <ref type="volpage" target="ch67:v11p244">xi.244</ref>.</p>
+<p>Emperor Manuel at, <ref type="volpage" target="ch66:v11p244">xi.244</ref>.</p>
 </div>
 
 
@@ -11029,15 +11029,15 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent1514">
 <head><persName n="fore3"><forename>Demetrius</forename> <surname>Chalcondyles</surname></persName></head>
-<p><ref type="volpage" target="ch67:v11p290">xi.290 note</ref>.</p>
+<p><ref type="volpage" target="ch66:v11p290">xi.290 note</ref>.</p>
 </div>
 
 
 <div type="textpart" subtype="entry" xml:id="ent1515">
 <head><persName type="author2" n="fore3"><forename>Laonicus</forename> <surname>Chalcondyles</surname></persName></head>
 <p><ref type="volpage" target="ch53:v09p366">ix.366 note</ref>; <ref type="volpage" target="ch65:v11p207">xi.207</ref>.</p>
-<p>Greek and Turkish history of, <ref type="volpage" target="ch67:v11p245">245 note</ref>.</p>
-<p>description of European countries, <ref type="volpage" target="ch62:v11p075">75</ref>., <ref type="volpage" target="ch67:v11p284">284</ref>.</p>
+<p>Greek and Turkish history of, <ref type="volpage" target="ch66:v11p245">245 note</ref>.</p>
+<p>description of European countries, <ref type="volpage" target="ch62:v11p075">75</ref>., <ref type="volpage" target="ch66:v11p284">284</ref>.</p>
 <p>on schism of Constantinople, <ref type="volpage" target="ch67:v11p296">296 note</ref>.</p>
 <p>on Varna campaign, <ref type="volpage" target="ch67:v11p311">311 note</ref>.</p>
 <p>on sack of Constantinople, <ref type="volpage" target="ch68:v12p045">xii.45 note</ref>.</p>
@@ -11254,7 +11254,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 <p>Histoire de <persName n="genname"><surname>Charles</surname> <genName n="6">VI.</genName></persName>, <ref type="volpage" target="ch64:v11p172">xi.172 note</ref>.</p>
 <p>his gifts to Sultan Bajazet, <ref type="volpage" target="ch64:v11p174">174</ref>.</p>
 <p>assists Emperor Manuel, <ref type="volpage" target="ch64:v11p178">178</ref>.</p>
-<p>receives Emperor Manuel, <ref type="volpage" target="ch67:v11p243">243</ref>; <ref type="volpage" target="ch70:v12p164">xii.164</ref>.</p>
+<p>receives Emperor Manuel, <ref type="volpage" target="ch66:v11p243">243</ref>; <ref type="volpage" target="ch70:v12p164">xii.164</ref>.</p>
 </div>
 
 
@@ -11774,12 +11774,12 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent1611">
 <head><persName type="author2" n="fore3"><forename>Manuel</forename> <surname>Chrysoloras</surname></persName></head>
-<p>professor of Greek at Florence, <ref type="volpage" target="ch67:v11p281">xi.281</ref>.</p>
-<p>death, <ref type="volpage" target="ch67:v11p283">283</ref>.</p>
-<p>his pupils, <ref type="volpage" target="ch67:v11p283">ib. note</ref>.</p>
-<p>compares Rome and Constantinople, <ref type="volpage" target="ch67:v11p293-ch67:v11p294">293 sq.</ref>.</p>
-<p>epistle of, to John Palaeologus, <ref type="volpage" target="ch67:v11p293">293 note</ref>.</p>
-<p>death, <ref type="volpage" target="ch67:v11p293">ib.</ref></p>
+<p>professor of Greek at Florence, <ref type="volpage" target="ch66:v11p281">xi.281</ref>.</p>
+<p>death, <ref type="volpage" target="ch66:v11p283">283</ref>.</p>
+<p>his pupils, <ref type="volpage" target="ch66:v11p283">ib. note</ref>.</p>
+<p>compares Rome and Constantinople, <ref type="volpage" target="ch66:v11p293-ch67:v11p294">293 sq.</ref>.</p>
+<p>epistle of, to John Palaeologus, <ref type="volpage" target="ch66:v11p293">293 note</ref>.</p>
+<p>death, <ref type="volpage" target="ch66:v11p293">ib.</ref></p>
 </div>
 
 
@@ -11829,9 +11829,9 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 <p>disendowed by Julian, <ref type="volpage" target="ch23:v04p084">iv.84</ref>.</p>
 <p>Eastern Church torn with discord, <ref type="volpage" target="ch47:v08p161">viii.161 sqq.</ref>.</p>
 <p>union of the Latin and Greek, <ref type="volpage" target="ch47:v08p182">182</ref>.</p>
-<p>corruption of the Latin, <ref type="volpage" target="ch67:v11p252">xi.252</ref> <ref type="volpage" target="ch67:v11p253">sq.</ref>.</p>
-<p>union of the Latin and Greek, concluded at Ferrara and Florence, <ref type="volpage" target="ch67:v11p264-ch67:v11p266">264 sqq.</ref>.</p>
-<p>treaty between the Greek and Latin, <ref type="volpage" target="ch67:v11p268-ch67:v11p269">268 sq.</ref></p>
+<p>corruption of the Latin, <ref type="volpage" target="ch66:v11p252">xi.252</ref> <ref type="volpage" target="ch66:v11p253">sq.</ref>.</p>
+<p>union of the Latin and Greek, concluded at Ferrara and Florence, <ref type="volpage" target="ch66:v11p264-ch66:v11p266">264 sqq.</ref>.</p>
+<p>treaty between the Greek and Latin, <ref type="volpage" target="ch66:v11p268-ch66:v11p269">268 sq.</ref></p>
 </div>
 
 
@@ -12177,8 +12177,8 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent1664">
 <head><persName n="genname"><surname>Clement</surname> <genName n="6">VI.</genName></persName></head>
-<p><roleName n="rulex">Pope</roleName>, his negotiations with Cantacuzene, <ref type="volpage" target="ch67:v11p235-ch67:v11p236">xi.235-6</ref>.</p>
-<p>Lives of, <ref type="volpage" target="ch67:v11p236">236 note</ref>.</p>
+<p><roleName n="rulex">Pope</roleName>, his negotiations with Cantacuzene, <ref type="volpage" target="ch66:v11p235-ch66:v11p236">xi.235-6</ref>.</p>
+<p>Lives of, <ref type="volpage" target="ch66:v11p236">236 note</ref>.</p>
 <p>celebrates second jubilee, <ref type="volpage" target="ch69:v12p114">xii.114 and note</ref>.</p>
 <p>addressed by Rienzi, <ref type="volpage" target="ch70:v12p129">129</ref>.</p>
 <p>confirms his title, <ref type="volpage" target="ch70:v12p135">135</ref>.</p>
@@ -12757,7 +12757,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent1745">
 <head><persName type="author1">Comparetti</persName></head>
-<p>on South Italian dialects, <ref type="volpage" target="ch67:v11p276">xi.276 note</ref>.</p>
+<p>on South Italian dialects, <ref type="volpage" target="ch66:v11p276">xi.276 note</ref>.</p>
 </div>
 
 
@@ -12951,7 +12951,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 <head><placeName n="manual">Constance</placeName></head>
 <p>treaty of, <ref type="volpage" target="ch49:v08p385">viii.385</ref>.</p>
 <p>Council of, <ref type="volpage" target="ch49:v08p392">392 note</ref>.</p>
-<p>synod of, <date when="1095">1095A.D.</date>, <ref type="volpage" target="ch58:v10p194">x.194 note</ref>; <ref type="volpage" target="ch67:v11p253">xi.253</ref>; <ref type="volpage" target="ch70:v12p166">xii.166</ref>.</p>
+<p>synod of, <date when="1095">1095A.D.</date>, <ref type="volpage" target="ch58:v10p194">x.194 note</ref>; <ref type="volpage" target="ch66:v11p253">xi.253</ref>; <ref type="volpage" target="ch70:v12p166">xii.166</ref>.</p>
 </div>
 
 
@@ -13211,8 +13211,8 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 
 <div type="textpart" subtype="entry" xml:id="ent1797">
-<head><persName n="genname"><surname>Constantine</surname> <genName n="13">XIII.</genName></persName> or Constantine Palaeologus [XI.]</head>
-<p>last Greek emperor, <ref type="volpage" target="ch67:v11p321">xi.321</ref>.</p>
+<head><persName n="genname"><surname>Constantine</surname> <genName n="13">XIII.</genName></persName> or Constantine Palaeologus</head>
+<p>[XI.] last Greek emperor, <ref type="volpage" target="ch67:v11p321">xi.321</ref>.</p>
 <p>crowned at Sparta, <ref type="volpage" target="ch67:v11p322">322</ref>.</p>
 <p>message to <persName n="genname"><surname>Mahomet</surname> <genName n="2">II.</genName></persName>, <ref type="volpage" target="ch68:v12p011">xii.11</ref>.</p>
 <p>signs act of union of Greek and Latin Churches, <ref type="volpage" target="ch68:v12p021">21</ref>.</p>
@@ -13280,7 +13280,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent1806">
 <head><persName n="qual2-son" type="son">Constantine</persName></head>
-<p>son of <persName n="genname"><surname>Basil</surname> <genName n="1">I.</genName></persName>, death of, <ref type="volpage" target="ch48:v08p261">viii.261</ref>. °</p>
+<p>son of <persName n="genname"><surname>Basil</surname> <genName n="1">I.</genName></persName>, death of, <ref type="volpage" target="ch48:v08p261">viii.261</ref>.</p>
 </div>
 
 
@@ -13459,9 +13459,9 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 <p>libraries of, destroyed, <ref type="volpage" target="ch60:v10p384">384</ref>.</p>
 <p>bronze horses of, taken to Venice, <ref type="volpage" target="ch60:v10p384">ib. note</ref>.</p>
 <p>walls of, restored by Michael, <ref type="volpage" target="ch62:v11p078">xi.78</ref>.</p>
-<p>state of the language at, <ref type="volpage" target="ch67:v11p271-ch67:v11p273">271 sqq.</ref>.</p>
-<p>seclusion of the women of, <ref type="volpage" target="ch67:v11p273-ch67:v11p274">273 sq.</ref>.</p>
-<p>compared with Rome, <ref type="volpage" target="ch67:v11p293-ch67:v11p295">293 sqq.</ref>.</p>
+<p>state of the language at, <ref type="volpage" target="ch66:v11p271-ch66:v11p273">271 sqq.</ref>.</p>
+<p>seclusion of the women of, <ref type="volpage" target="ch66:v11p273-ch66:v11p274">273 sq.</ref>.</p>
+<p>compared with Rome, <ref type="volpage" target="ch66:v11p293-ch67:v11p295">293 sqq.</ref>.</p>
 <p>circuit of, <ref type="volpage" target="ch68:v12p024">xii.24 note</ref>.</p>
 <p>repeopled and adorned by Mahomet, <ref type="volpage" target="ch68:v12p054-ch68:v12p056">54 sqq.</ref></p>
 </div>
@@ -13544,7 +13544,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 <p>threatened by Holagou, <ref type="volpage" target="ch64:v11p154">154</ref>.</p>
 <p>by Bajazet, <ref type="volpage" target="ch64:v11p177">177</ref>.</p>
 <p>relieved by Boucicault, <ref type="volpage" target="ch64:v11p178">178</ref>.</p>
-<p>besieged by <persName n="genname"><surname>Amurath</surname> <genName n="2">II.</genName></persName>, <ref type="volpage" target="ch67:v11p235-ch67:v11p237">235 sqq.</ref>.</p>
+<p>besieged by <persName n="genname"><surname>Amurath</surname> <genName n="2">II.</genName></persName>, <ref type="volpage" target="ch66:v11p235-ch66:v11p237">235 sqq.</ref>.</p>
 <p>by <persName n="genname"><surname>Mahomet</surname> <genName n="2">II.</genName></persName>, <ref type="volpage" target="ch68:v12p024">xii.24 sqq.</ref>.</p>
 <p>capture of, <ref type="volpage" target="ch68:v12p041-ch68:v12p043">41 sqq.</ref></p>
 <pb n="264"/>
@@ -13959,7 +13959,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent1888">
 <head><rs>General Council</rs></head>
-<p>authority of, <ref type="volpage" target="ch67:v11p254">xi.254</ref>.</p>
+<p>authority of, <ref type="volpage" target="ch66:v11p254">xi.254</ref>.</p>
 </div>
 
 
@@ -13989,7 +13989,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent1893">
 <head><rs type="council">Council of <placeName>Basil</placeName></rs></head>
-<p><date when="1431">A.D.1431</date>-43, <ref type="volpage" target="ch67:v11p253">xi.253 and note</ref>s, and sq.</p>
+<p><date when="1431">A.D.1431</date>-43, <ref type="volpage" target="ch66:v11p253">xi.253 and note</ref>s, and sq.</p>
 </div>
 
 
@@ -14011,7 +14011,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent1896">
 <head><rs type="council">Council of <placeName>Constance</placeName></rs></head>
-<p><ref type="volpage" target="ch49:v08p392">viii.392 note</ref>; <ref type="volpage" target="ch67:v11p253">xi.253</ref>; <ref type="volpage" target="ch70:v12p165">xii.165</ref> <ref type="volpage" target="ch70:v12p166">sq.</ref></p>
+<p><ref type="volpage" target="ch49:v08p392">viii.392 note</ref>; <ref type="volpage" target="ch66:v11p253">xi.253</ref>; <ref type="volpage" target="ch70:v12p165">xii.165</ref> <ref type="volpage" target="ch70:v12p166">sq.</ref></p>
 </div>
 
 
@@ -14064,14 +14064,14 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent1904">
 <head><rs type="council">Council of <placeName>Ferrara</placeName></rs></head>
-<p><date when="1438">A.D.1438</date>, <ref type="volpage" target="ch67:v11p262">xi.262 sqq.</ref> </p>
+<p><date when="1438">A.D.1438</date>, <ref type="volpage" target="ch66:v11p262">xi.262 sqq.</ref> </p>
 </div>
 
 
 <div type="textpart" subtype="entry" xml:id="ent1905">
 <head><rs type="council">Council of <placeName>Florence</placeName></rs></head>
-<p><date when="1438">A.D.1438</date>-39, <ref type="volpage" target="ch67:v11p262">xi.262 sqq.</ref>.</p>
-<p>acts of union of the Council of, <ref type="volpage" target="ch67:v11p269">269 note</ref>.</p>
+<p><date when="1438">A.D.1438</date>-39, <ref type="volpage" target="ch66:v11p262">xi.262 sqq.</ref>.</p>
+<p>acts of union of the Council of, <ref type="volpage" target="ch66:v11p269">269 note</ref>.</p>
 </div>
 
 
@@ -14127,7 +14127,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent1914">
 <head><rs type="council">Council of <placeName>Pisa</placeName></rs></head>
-<p><date when="1409">A.D.1409</date>, <ref type="volpage" target="ch67:v11p253">xi.253 and note</ref>, <ref type="volpage" target="ch64:v11p165">165</ref>.</p>
+<p><date when="1409">A.D.1409</date>, <ref type="volpage" target="ch66:v11p253">xi.253 and note</ref>, <ref type="volpage" target="ch64:v11p165">165</ref>.</p>
 </div>
 
 
@@ -14311,7 +14311,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent1941">
 <head><persName type="author2" n="fore3"><forename>Robert</forename> <surname>Creyghton</surname></persName></head>
-<p>his history of the union of the Greek and Latin Churches, <ref type="volpage" target="ch67:v11p259">xi.259 note</ref>.</p>
+<p>his history of the union of the Greek and Latin Churches, <ref type="volpage" target="ch66:v11p259">xi.259 note</ref>.</p>
 </div>
 
 
@@ -14411,7 +14411,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 <p>recovered by Heraclius, <ref type="volpage" target="ch46:v08p120">120</ref>.</p>
 <p>exaltation of the, <ref type="volpage" target="ch46:v08p120">ib.</ref>.</p>
 <p>sign adopted by the Crusaders, <ref type="volpage" target="ch58:v10p209">x.209</ref>.</p>
-<p>cross-bearers of St. Sophia, <ref type="volpage" target="ch67:v11p268">xi.268</ref>.</p>
+<p>cross-bearers of St. Sophia, <ref type="volpage" target="ch66:v11p268">xi.268</ref>.</p>
 </div>
 
 
@@ -15462,7 +15462,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 <div type="textpart" subtype="entry" xml:id="ent2101">
 <head><persName n="qual2-brother" type="brother">Demetrius</persName></head>
 <p>brother of <persName n="genname"><surname>John</surname> <genName n="2">II.</genName></persName>, <ref type="volpage" target="ch55:v10p033">x.33 and note</ref>.</p>
-<p>voyage of, to Venice, <ref type="volpage" target="ch67:v11p260">xi.260</ref>, <ref type="volpage" target="ch67:v11p268">268</ref>.</p>
+<p>voyage of, to Venice, <ref type="volpage" target="ch66:v11p260">xi.260</ref>, <ref type="volpage" target="ch66:v11p268">268</ref>.</p>
 </div>
 
 
@@ -15677,7 +15677,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent2134">
 <head><persName type="author2" n="fore3"><forename>A. F.</forename> <surname>Didot</surname></persName></head>
-<p>on Aldus Manutius, <ref type="volpage" target="ch67:v11p290">xi.290 note</ref>.</p>
+<p>on Aldus Manutius, <ref type="volpage" target="ch66:v11p290">xi.290 note</ref>.</p>
 </div>
 
 
@@ -16390,7 +16390,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent2238">
 <head><rs type="coin" n="manual">Ducat</rs></head>
-<p>derivation of the name, <ref type="volpage" target="ch67:v11p256">xi.256 note</ref>.</p>
+<p>derivation of the name, <ref type="volpage" target="ch66:v11p256">xi.256 note</ref>.</p>
 </div>
 
 
@@ -17282,8 +17282,8 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 <p>life of St. Jerome, <ref type="volpage" target="ch37:v06p166">vi.166 note</ref>.</p>
 <p>publishes the Greek Testament, <ref type="volpage" target="ch36:v06p122">122 note</ref>.</p>
 <p>religious opinions of, <ref type="volpage" target="ch54:v10p024">x.24 note</ref>.</p>
-<p>system of Greek pronunciation, <ref type="volpage" target="ch67:v11p285">xi.285 note</ref>, <ref type="volpage" target="ch67:v11p290">290</ref>.</p>
-<p>Life of, <ref type="volpage" target="ch67:v11p290">ib. note</ref>.</p>
+<p>system of Greek pronunciation, <ref type="volpage" target="ch66:v11p285">xi.285 note</ref>, <ref type="volpage" target="ch66:v11p290">290</ref>.</p>
+<p>Life of, <ref type="volpage" target="ch66:v11p290">ib. note</ref>.</p>
 </div>
 
 
@@ -17617,10 +17617,10 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent2412">
 <head><persName type="author2" n="genname"><surname>Eugenius</surname> <genName n="4">IV.</genName></persName></head>
-<p><roleName n="rulex">Pope</roleName>, <ref type="volpage" target="ch67:v11p254">xi.254</ref>.</p>
-<p>opposed by the Council of Constance, <ref type="volpage" target="ch67:v11p254-ch67:v11p255">254-5</ref>.</p>
-<p>deposed at Council of Basil, <ref type="volpage" target="ch67:v11p269">269</ref>.</p>
-<p>receives Oriental embassies, <ref type="volpage" target="ch67:v11p270-ch67:v11p271">270-1</ref>.</p>
+<p><roleName n="rulex">Pope</roleName>, <ref type="volpage" target="ch66:v11p254">xi.254</ref>.</p>
+<p>opposed by the Council of Constance, <ref type="volpage" target="ch66:v11p254-ch66:v11p255">254-5</ref>.</p>
+<p>deposed at Council of Basil, <ref type="volpage" target="ch66:v11p269">269</ref>.</p>
+<p>receives Oriental embassies, <ref type="volpage" target="ch66:v11p270-ch66:v11p271">270-1</ref>.</p>
 <p>forms league against the Turks, <ref type="volpage" target="ch67:v11p303-ch67:v11p305">303 sqq.</ref>.</p>
 <p>spurious epistle of, to <roleName>King of <placeName>Ethiopia</placeName></roleName>, <ref type="volpage" target="ch67:v11p321">321 note</ref>.</p>
 <p>expelled, <ref type="volpage" target="ch70:v12p167-ch70:v12p168">xii.167-8</ref>.</p>
@@ -18393,8 +18393,8 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent2521">
 <head><persName n="genname"><surname>Felix</surname> <genName n="5">V.</genName></persName></head>
-<p><ref type="volpage" target="ch67:v11p264">xi.264</ref>.</p>
-<p>retires to Ripaille, <ref type="volpage" target="ch67:v11p271">271 and note</ref>.</p>
+<p><ref type="volpage" target="ch66:v11p264">xi.264</ref>.</p>
+<p>retires to Ripaille, <ref type="volpage" target="ch66:v11p271">271 and note</ref>.</p>
 <pb n="279"/>
 <milestone unit="hathitrustpage" n="https://hdl.handle.net/2027/umn.319510020108540?urlappend=%3Bseq=309"/>
 
@@ -18440,8 +18440,8 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent2528">
 <head><placeName n="space-at-comma">Ferrara</placeName></head>
-<p>John Palaeologus at, <ref type="volpage" target="ch67:v11p262-ch67:v11p263">xi.262-3</ref>.</p>
-<p>council at, <ref type="volpage" target="ch67:v11p262-ch67:v11p263">ib.</ref>.</p>
+<p>John Palaeologus at, <ref type="volpage" target="ch66:v11p262-ch66:v11p263">xi.262-3</ref>.</p>
+<p>council at, <ref type="volpage" target="ch66:v11p262-ch66:v11p263">ib.</ref>.</p>
 <p>duchy of, united to Urbino, <ref type="volpage" target="ch70:v12p175">xii.175</ref>.</p>
 </div>
 
@@ -18529,7 +18529,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent2541">
 <head><persName type="author2" n="fore3"><forename>G.</forename> <surname>Fioretto</surname></persName></head>
-<p>on revival of learning in fifteenth century, <ref type="volpage" target="ch67:v11p275">xi.275 note</ref>.</p>
+<p>on revival of learning in fifteenth century, <ref type="volpage" target="ch66:v11p275">xi.275 note</ref>.</p>
 </div>
 
 
@@ -18714,8 +18714,8 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 <div type="textpart" subtype="entry" xml:id="ent2571">
 <head><persName type="author2" n="mr-etc"><roleName>Abbé</roleName> <name type="nameLink">de</name> <surname>Fleury</surname></persName></head>
 <p>Inst. of Canon Law, <ref type="volpage" target="ch20:v03p323">iii.323 note</ref>.</p>
-<p>Ecclesiastical History of, <ref type="volpage" target="ch67:v11p233">xi.233 note</ref>.</p>
-<p>continuator of, on schism of Constantinople, <ref type="volpage" target="ch67:v11p271">271 note</ref>, <ref type="volpage" target="ch67:v11p296">296 note</ref>.</p>
+<p>Ecclesiastical History of, <ref type="volpage" target="ch66:v11p233">xi.233 note</ref>.</p>
+<p>continuator of, on schism of Constantinople, <ref type="volpage" target="ch66:v11p271">271 note</ref>, <ref type="volpage" target="ch67:v11p296">296 note</ref>.</p>
 <p>on appeals to Rome, <ref type="volpage" target="ch69:v12p071">xii.71 note</ref>.</p>
 </div>
 
@@ -18731,8 +18731,8 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 <p>siege of, by Radagaisus, <ref type="volpage" target="ch30:v05p168">v.168</ref>.</p>
 <p>origin of, <ref type="volpage" target="ch30:v05p168">ib. note</ref>.</p>
 <p>Pandects at, <ref type="volpage" target="ch44:v07p335">vii.335</ref>.</p>
-<p>council of, <ref type="volpage" target="ch67:v11p264">xi.264</ref>.</p>
-<p>revival of Greek learning at, <ref type="volpage" target="ch67:v11p283">283</ref>.</p>
+<p>council of, <ref type="volpage" target="ch66:v11p264">xi.264</ref>.</p>
+<p>revival of Greek learning at, <ref type="volpage" target="ch66:v11p283">283</ref>.</p>
 </div>
 
 
@@ -18754,7 +18754,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent2576">
 <head><rs type="coin" n="manual">Florin</rs></head>
-<p><ref type="volpage" target="ch67:v11p256">xi.256 note</ref>.</p>
+<p><ref type="volpage" target="ch66:v11p256">xi.256 note</ref>.</p>
 </div>
 
 
@@ -18891,7 +18891,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 <p>invaded by the Arabs, <ref type="volpage" target="ch52:v09p250">ix.250 sqq.</ref>.</p>
 <p>Hungarians in, <ref type="volpage" target="ch55:v10p044">x.44</ref>.</p>
 <p>position of kings of, in eleventh century, <ref type="volpage" target="ch58:v10p197-ch58:v10p198">197 sq.</ref>.</p>
-<p>description of, by Chalcondyles, <ref type="volpage" target="ch67:v11p246">xi.246</ref> <ref type="volpage" target="ch67:v11p247">sq.</ref>.</p>
+<p>description of, by Chalcondyles, <ref type="volpage" target="ch66:v11p246">xi.246</ref> <ref type="volpage" target="ch66:v11p247">sq.</ref>.</p>
 <p>title of kings of, to empire of Constantinople, <ref type="volpage" target="ch68:v12p060">xii.60 and note</ref>.</p>
 </div>
 
@@ -19012,7 +19012,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent2610">
 <head><persName n="forename">Freculphus</persName></head>
-<p><ref type="volpage" target="ch28:v05p101">v.101</ref> safe.</p>
+<p><ref type="volpage" target="ch28:v05p101">v.101 note</ref>.</p>
 </div>
 
 
@@ -19424,7 +19424,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent2665">
 <head><persName n="fore3"><forename>John</forename> <surname>Galeazzo</surname></persName></head>
-<p>first <roleName>duke of <placeName>Milan</placeName></roleName>, <ref type="volpage" target="ch67:v11p242">xi.242 note</ref>.</p>
+<p>first <roleName>duke of <placeName>Milan</placeName></roleName>, <ref type="volpage" target="ch66:v11p242">xi.242 note</ref>.</p>
 </div>
 
 
@@ -19638,7 +19638,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent2695">
 <head><persName type="author2" n="fore3"><forename>W.</forename> <surname>Gass</surname></persName></head>
-<p>on Gennadius and Pletho, <ref type="volpage" target="ch67:v11p286">xi.286 note</ref>. Gaubil, Pére, his translation of Annals of the Mongols, <ref type="volpage" target="ch64:v11p141">xi.141 note</ref>. Gaudentius, Count, closes the pagan temple, <ref type="volpage" target="ch27:v05p008">v.8</ref>.</p>
+<p>on Gennadius and Pletho, <ref type="volpage" target="ch66:v11p286">xi.286 note</ref>. Gaubil, Pére, his translation of Annals of the Mongols, <ref type="volpage" target="ch64:v11p141">xi.141 note</ref>. Gaudentius, Count, closes the pagan temple, <ref type="volpage" target="ch27:v05p008">v.8</ref>.</p>
 </div>
 
 
@@ -20018,7 +20018,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent2747">
 <head><persName><surname>George</surname> of <placeName>Trebizond</placeName></persName></head>
-<p>writings of, <ref type="volpage" target="ch67:v11p256">xi.256 note</ref>, <ref type="volpage" target="ch67:v11p284">284</ref>.</p>
+<p>writings of, <ref type="volpage" target="ch66:v11p256">xi.256 note</ref>, <ref type="volpage" target="ch66:v11p284">284</ref>.</p>
 </div>
 
 
@@ -20185,7 +20185,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 <p>princes of, independent, <ref type="volpage" target="ch49:v08p386-ch49:v08p388">386 sqq.</ref>.</p>
 <p>Germanic confederation, <ref type="volpage" target="ch49:v08p388-ch49:v08p390">388 sqq.</ref>.</p>
 <p>counts of, <ref type="volpage" target="ch49:v08p389">389</ref>.</p>
-<p>description of, by Chalcondyles, <ref type="volpage" target="ch67:v11p245">xi.245</ref> <ref type="volpage" target="ch67:v11p246">sq.</ref>.</p>
+<p>description of, by Chalcondyles, <ref type="volpage" target="ch66:v11p245">xi.245</ref> <ref type="volpage" target="ch66:v11p246">sq.</ref>.</p>
 <p>armies of, in fifteenth century, <ref type="volpage" target="ch67:v11p304">304 note</ref>.</p>
 </div>
 
@@ -20685,7 +20685,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent2842">
 <head><persName type="author1">Gorski</persName></head>
-<p>his History of the Council of Florence, <ref type="volpage" target="ch67:v11p271">xi.271 note</ref>.</p>
+<p>his History of the Council of Florence, <ref type="volpage" target="ch66:v11p271">xi.271 note</ref>.</p>
 </div>
 
 
@@ -20958,8 +20958,8 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 <p>discord with the Latin, <ref type="volpage" target="ch59:v10p327">x.327 sqq.</ref>.</p>
 <p>reunion, <ref type="volpage" target="ch62:v11p073">xi.73</ref>.</p>
 <p>dissolution of, <ref type="volpage" target="ch62:v11p078">78</ref>.</p>
-<p>Council of Florence, <ref type="volpage" target="ch67:v11p262-ch67:v11p263">262 sq.</ref>.</p>
-<p>acts of union, <ref type="volpage" target="ch67:v11p268-ch67:v11p269">268 sq. and note</ref>.</p>
+<p>Council of Florence, <ref type="volpage" target="ch66:v11p262-ch66:v11p263">262 sq.</ref>.</p>
+<p>acts of union, <ref type="volpage" target="ch66:v11p268-ch66:v11p269">268 sq. and note</ref>.</p>
 <p>new schism, <ref type="volpage" target="ch67:v11p296-ch67:v11p297">296 sq.</ref>.</p>
 <p>under Turkish rule, <ref type="volpage" target="ch68:v12p056">xii.56 and note</ref>s.</p>
 </div>
@@ -20981,16 +20981,16 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 <head><rs type="language" n="manual">Greek</rs> language</head>
 <p><ref type="volpage" target="ch02:v01p048">i.48</ref>.</p>
 <p>scientific idiom, <ref type="volpage" target="ch02:v01p049">49</ref>.</p>
-<p>modern pronunciation, <ref type="volpage" target="ch58:v10p234">x.234 note</ref>; <ref type="volpage" target="ch67:v11p286">xi.286 and note</ref>.</p>
-<p>state of the, in fourteenth century, <ref type="volpage" target="ch67:v11p272-ch67:v11p273">272 sq.</ref>.</p>
-<p>loanwords in, <ref type="volpage" target="ch67:v11p272">ib. note</ref>.</p>
+<p>modern pronunciation, <ref type="volpage" target="ch58:v10p234">x.234 note</ref>; <ref type="volpage" target="ch66:v11p286">xi.286 and note</ref>.</p>
+<p>state of the, in fourteenth century, <ref type="volpage" target="ch66:v11p272-ch66:v11p273">272 sq.</ref>.</p>
+<p>loanwords in, <ref type="volpage" target="ch66:v11p272">ib. note</ref>.</p>
 </div>
 
 
 <div type="textpart" subtype="entry" xml:id="ent2876">
 <head><name>Greek learning</name></head>
 <p>revival of, <ref type="volpage" target="ch53:v09p368">ix.368 sqq.</ref>.</p>
-<p>in Italy, <ref type="volpage" target="ch67:v11p275">xi.275 sqq.</ref> </p>
+<p>in Italy, <ref type="volpage" target="ch66:v11p275">xi.275 sqq.</ref> </p>
 </div>
 
 
@@ -21003,7 +21003,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 <p>massacre the Latins, <ref type="volpage" target="ch60:v10p335-ch60:v10p336">335-6</ref>; <ref type="volpage" target="ch61:v11p014">xi.14</ref>.</p>
 <p>quarrel of, with Latins in Constantinople, <ref type="volpage" target="ch60:v10p369">x.369</ref>.</p>
 <p>revolt of, <date when="1204">1204A.D.</date>, <ref type="volpage" target="ch61:v11p008">xi.8 sqq.</ref>.</p>
-<p>knowledge of the, <ref type="volpage" target="ch67:v11p245">245</ref>. See Greece.</p>
+<p>knowledge of the, <ref type="volpage" target="ch66:v11p245">245</ref>. See Greece.</p>
 </div>
 
 
@@ -21275,7 +21275,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent2912">
 <head><persName n="manual">Grocyn</persName></head>
-<p><ref type="volpage" target="ch67:v11p290">xi.290 note</ref>.</p>
+<p><ref type="volpage" target="ch66:v11p290">xi.290 note</ref>.</p>
 </div>
 
 
@@ -21784,7 +21784,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent2981">
 <head><persName type="author2" n="heur1-historian">Hardt</persName></head>
-<p>historian, on the Council of Constance, <ref type="volpage" target="ch67:v11p253">xi.253 note</ref>.</p>
+<p>historian, on the Council of Constance, <ref type="volpage" target="ch66:v11p253">xi.253 note</ref>.</p>
 </div>
 
 
@@ -21953,8 +21953,8 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent3007">
 <head><persName n="fore3"><forename>John</forename> <surname>Hawkwood</surname></persName></head>
-<p>English mercenary, <ref type="volpage" target="ch67:v11p240">xi.240 sqq.</ref>.</p>
-<p>his name, <ref type="volpage" target="ch67:v11p240">ib. note</ref>.</p>
+<p>English mercenary, <ref type="volpage" target="ch66:v11p240">xi.240 sqq.</ref>.</p>
+<p>his name, <ref type="volpage" target="ch66:v11p240">ib. note</ref>.</p>
 </div>
 
 
@@ -22199,7 +22199,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent3045">
 <head><persName n="genname"><surname>Henry</surname> <genName n="3">III.</genName></persName></head>
-<p><roleName>King of <placeName>Castile</placeName></roleName>, sends embassy to Timour, <ref type="volpage" target="ch65:v11p212">xi.212 note</ref>. <persName n="genname"><surname>Henry</surname> <genName n="4">IV.</genName></persName>, of <placeName>England</placeName>, receives the Emperor Manuel, <ref type="volpage" target="ch67:v11p243-ch67:v11p244">xi.243-4</ref>. <persName n="genname"><surname>Henry</surname> <genName n="4">IV.</genName></persName>, of <placeName>France</placeName>, compared with Clovis, <ref type="volpage" target="ch38:v06p224">vi.224</ref>.</p>
+<p><roleName>King of <placeName>Castile</placeName></roleName>, sends embassy to Timour, <ref type="volpage" target="ch65:v11p212">xi.212 note</ref>. <persName n="genname"><surname>Henry</surname> <genName n="4">IV.</genName></persName>, of <placeName>England</placeName>, receives the Emperor Manuel, <ref type="volpage" target="ch66:v11p243-ch66:v11p244">xi.243-4</ref>. <persName n="genname"><surname>Henry</surname> <genName n="4">IV.</genName></persName>, of <placeName>France</placeName>, compared with Clovis, <ref type="volpage" target="ch38:v06p224">vi.224</ref>.</p>
 <p>with Belisarius, <ref type="volpage" target="ch47:v08p140">viii.140</ref>.</p>
 </div>
 
@@ -22630,7 +22630,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent3105">
 <head><placeName type="wall">Hexamilion</placeName></head>
-<p>wall of Manuel, <ref type="volpage" target="ch67:v11p251">xi.251 and note</ref>; <ref type="volpage" target="ch68:v12p057">xii.57</ref>.</p>
+<p>wall of Manuel, <ref type="volpage" target="ch66:v11p251">xi.251 and note</ref>; <ref type="volpage" target="ch68:v12p057">xii.57</ref>.</p>
 </div>
 
 
@@ -22889,7 +22889,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent3142">
 <head><persName type="author2" n="mr-fore"><roleName>Dr.</roleName> <forename>Humphry</forename> <surname>Hody</surname></persName></head>
-<p>on revival of Greek learning, <ref type="volpage" target="ch67:v11p275">xi.275 note</ref>, <ref type="volpage" target="ch67:v11p281">281 note</ref>.</p>
+<p>on revival of Greek learning, <ref type="volpage" target="ch66:v11p275">xi.275 note</ref>, <ref type="volpage" target="ch66:v11p281">281 note</ref>.</p>
 </div>
 
 
@@ -22953,7 +22953,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 <p>poet, mythology of, <ref type="volpage" target="ch02:v01p037">i.37 and note</ref>.</p>
 <p>Lestrygons in Italy, <ref type="volpage" target="ch38:v06p298">vi.298 and note</ref>; <ref type="volpage" target="ch40:v07p019">vii.19 note</ref>, <ref type="volpage" target="ch40:v07p029">29 note</ref>, <ref type="volpage" target="ch41:v07p092">92 note</ref>.</p>
 <p>Syriac version of, <ref type="volpage" target="ch52:v09p277">ix.277 note</ref>.</p>
-<p>Florence edition of, <ref type="volpage" target="ch51:v09p1488">1488</ref>, <ref type="volpage" target="ch67:v11p290">xi.290 note</ref>. ,</p>
+<p>Florence edition of, <ref type="volpage" target="ch51:v09p1488">1488</ref>, <ref type="volpage" target="ch66:v11p290">xi.290 note</ref>. ,</p>
 </div>
 
 
@@ -23981,7 +23981,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent3298">
 <head><persName n="genname"><surname>Innocent</surname> <genName n="6">VI.</genName></persName></head>
-<p><roleName n="rulex">Pope</roleName>, his treaty with John Palaeologus, <ref type="volpage" target="ch67:v11p238">xi.238</ref>.</p>
+<p><roleName n="rulex">Pope</roleName>, his treaty with John Palaeologus, <ref type="volpage" target="ch66:v11p238">xi.238</ref>.</p>
 <p>his pontificate, <ref type="volpage" target="ch70:v12p152">xii.152</ref>.</p>
 </div>
 
@@ -24456,7 +24456,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 <p>Hungarian invasion, <ref type="volpage" target="ch55:v10p044">x.44</ref> sqgg.; Saracens, Latins, and Greeks in, <ref type="volpage" target="ch55:v10p075-ch56:v10p077">75 sqq.</ref>.</p>
 <p>Theme of, <ref type="volpage" target="ch56:v10p079">79 note</ref>.</p>
 <p>Normans in, <ref type="volpage" target="ch56:v10p083">83</ref>.</p>
-<p>revival of Greek learning in, <ref type="volpage" target="ch67:v11p275">xi.275 sqq.</ref>.</p>
+<p>revival of Greek learning in, <ref type="volpage" target="ch66:v11p275">xi.275 sqq.</ref>.</p>
 <p>Rienzi’s idea of a confederation of, <ref type="volpage" target="ch70:v12p137">xii.137</ref> <ref type="volpage" target="ch70:v12p138">sq.</ref>.</p>
 <p>compared with France by Petrarch, <ref type="volpage" target="ch70:v12p155">155 and note</ref>.</p>
 <pb n="299"/>
@@ -24642,7 +24642,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 <div type="textpart" subtype="entry" xml:id="ent3388">
 <head><rs type="military" n="manual">Janizaries</rs></head>
 <p>instituted by Als-ad-Din, <ref type="volpage" target="ch62:v11p058">xi.58 note</ref>, <ref type="volpage" target="ch64:v11p167-ch64:v11p168">167-8 and note</ref>.</p>
-<p>at the Byzantine Court, <ref type="volpage" target="ch67:v11p263">263 and note</ref>.</p>
+<p>at the Byzantine Court, <ref type="volpage" target="ch66:v11p263">263 and note</ref>.</p>
 <p>adoption among, <ref type="volpage" target="ch68:v12p037">xii.37</ref>.</p>
 </div>
 
@@ -24849,7 +24849,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent3413">
 <head><persName n="manual">Jodelle</persName></head>
-<p><ref type="volpage" target="ch67:v11p291">xi.291 note</ref>. </p>
+<p><ref type="volpage" target="ch66:v11p291">xi.291 note</ref>. </p>
 
 </div>
 
@@ -24932,7 +24932,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 <head><persName n="qual2-count" type="count">John</persName></head>
 <p><roleName>Count of <placeName>Nevers</placeName></roleName>, his crusade against the Turks, <ref type="volpage" target="ch64:v11p172">xi.172</ref> <ref type="volpage" target="ch64:v11p173">sq.</ref>.</p>
 <p>taken prisoner, <ref type="volpage" target="ch64:v11p173">173</ref>.</p>
-<p>ransomed, <ref type="volpage" target="ch64:v11p174">174</ref>, <ref type="volpage" target="ch67:v11p243">243</ref>.</p>
+<p>ransomed, <ref type="volpage" target="ch64:v11p174">174</ref>, <ref type="volpage" target="ch66:v11p243">243</ref>.</p>
 </div>
 
 
@@ -25019,7 +25019,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent3439">
 <head><persName n="genname"><surname>John</surname> <genName n="22">XXII.</genName></persName></head>
-<p><roleName n="rulex">Pope</roleName>, wealth of, <ref type="volpage" target="ch67:v11p253">xi.253 note</ref>.</p>
+<p><roleName n="rulex">Pope</roleName>, wealth of, <ref type="volpage" target="ch66:v11p253">xi.253 note</ref>.</p>
 <p>deposition of, <ref type="volpage" target="ch69:v12p106">xii.106</ref>.</p>
 <p>exhorted by Petrarch, <ref type="volpage" target="ch70:v12p156">156</ref>.</p>
 <p>said to have introduced triple crown, <ref type="volpage" target="ch70:v12p158">158 note</ref>.</p>
@@ -25097,7 +25097,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent3450">
 <head><persName n="qual2-pupil" type="pupil"><surname n="sur1">John</surname> of <placeName>Ravenna</placeName></persName></head>
-<p>pupil of Petrarch, <ref type="volpage" target="ch67:v11p282">xi.282</ref>.</p>
+<p>pupil of Petrarch, <ref type="volpage" target="ch66:v11p282">xi.282</ref>.</p>
 </div>
 
 
@@ -25118,22 +25118,22 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 <p>imprisonment and escape, <ref type="volpage" target="ch64:v11p176">176</ref>.</p>
 <p>death of, <ref type="volpage" target="ch64:v11p177">177</ref>.</p>
 <p>pays tribute to <persName n="genname"><surname>Amurath</surname> <genName n="2">II.</genName></persName>, <ref type="volpage" target="ch65:v11p225">225</ref>.</p>
-<p>treaty with <persName n="genname"><surname>Innocent</surname> <genName n="6">VI.</genName></persName>, <ref type="volpage" target="ch67:v11p238">238</ref>.</p>
-<p>his visit to <persName n="genname"><surname>Urban</surname> <genName n="5">V.</genName></persName>, <ref type="volpage" target="ch67:v11p239">239</ref>.</p>
-<p>in Venice, <ref type="volpage" target="ch67:v11p241">241</ref>.</p>
+<p>treaty with <persName n="genname"><surname>Innocent</surname> <genName n="6">VI.</genName></persName>, <ref type="volpage" target="ch66:v11p238">238</ref>.</p>
+<p>his visit to <persName n="genname"><surname>Urban</surname> <genName n="5">V.</genName></persName>, <ref type="volpage" target="ch66:v11p239">239</ref>.</p>
+<p>in Venice, <ref type="volpage" target="ch66:v11p241">241</ref>.</p>
 </div>
 
 
 <div type="textpart" subtype="entry" xml:id="ent3453">
 <head><persName n="genname"><surname>John Palaeologus</surname> <genName n="2">II.</genName></persName></head>
-<p>associated in the empire, <ref type="volpage" target="ch67:v11p250">xi.250</ref>.</p>
-<p>reign, <ref type="volpage" target="ch67:v11p252-ch67:v11p254">252 sqq.</ref>.</p>
-<p>embarks in the Pope’s galleys, <ref type="volpage" target="ch67:v11p256">256</ref>.</p>
-<p>enters Venice, <ref type="volpage" target="ch67:v11p260">260</ref>.</p>
-<p>enters Ferrara, <ref type="volpage" target="ch67:v11p261">261</ref>.</p>
-<p>resides at Ferrara, <ref type="volpage" target="ch67:v11p263">263</ref>.</p>
-<p>marries Princess of Trebizond, <ref type="volpage" target="ch67:v11p252">252</ref>.</p>
-<p>date of his association, <ref type="volpage" target="ch67:v11p293">293 note</ref>.</p>
+<p>associated in the empire, <ref type="volpage" target="ch66:v11p250">xi.250</ref>.</p>
+<p>reign, <ref type="volpage" target="ch66:v11p252-ch66:v11p254">252 sqq.</ref>.</p>
+<p>embarks in the Pope’s galleys, <ref type="volpage" target="ch66:v11p256">256</ref>.</p>
+<p>enters Venice, <ref type="volpage" target="ch66:v11p260">260</ref>.</p>
+<p>enters Ferrara, <ref type="volpage" target="ch66:v11p261">261</ref>.</p>
+<p>resides at Ferrara, <ref type="volpage" target="ch66:v11p263">263</ref>.</p>
+<p>marries Princess of Trebizond, <ref type="volpage" target="ch66:v11p252">252</ref>.</p>
+<p>date of his association, <ref type="volpage" target="ch66:v11p293">293 note</ref>.</p>
 <p>wall of, <ref type="volpage" target="ch68:v12p020">xii.20 note</ref>.</p>
 </div>
 
@@ -25352,8 +25352,8 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent3485">
 <head><persName>Joseph</persName></head>
-<p><roleName>the patriarch</roleName>, accompanies John Palaeologus to Italy, <ref type="volpage" target="ch67:v11p258">xi.258</ref>.</p>
-<p>death, <ref type="volpage" target="ch67:v11p266">266</ref>.</p>
+<p><roleName>the patriarch</roleName>, accompanies John Palaeologus to Italy, <ref type="volpage" target="ch66:v11p258">xi.258</ref>.</p>
+<p>death, <ref type="volpage" target="ch66:v11p266">266</ref>.</p>
 </div>
 
 
@@ -25525,7 +25525,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent3510">
 <head><persName type="author2">Julian</persName></head>
-<p><roleName>Cardinal</roleName>, at Council of Florence, <ref type="volpage" target="ch67:v11p265">xi.265</ref>.</p>
+<p><roleName>Cardinal</roleName>, at Council of Florence, <ref type="volpage" target="ch66:v11p265">xi.265</ref>.</p>
 <p>legate, <ref type="volpage" target="ch67:v11p305">305</ref>.</p>
 <p>account of, <ref type="volpage" target="ch67:v11p312">312</ref>.</p>
 <p>death of, at Varna, <ref type="volpage" target="ch67:v11p313">313</ref>.</p>
@@ -25974,7 +25974,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent3557">
 <head><persName type="author1">Kalligas</persName></head>
-<p>on Council of Florence, <ref type="volpage" target="ch67:v11p271">xi.271 note</ref>.</p>
+<p>on Council of Florence, <ref type="volpage" target="ch66:v11p271">xi.271 note</ref>.</p>
 </div>
 
 
@@ -26315,7 +26315,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent3610">
 <head><persName type="author2" n="fore3"><forename>T.</forename> <surname>Klette</surname></persName></head>
-<p>on Philelphus, <ref type="volpage" target="ch67:v11p272">xi.272 note</ref>. ’</p>
+<p>on Philelphus, <ref type="volpage" target="ch66:v11p272">xi.272 note</ref>. ’</p>
 </div>
 
 
@@ -26333,7 +26333,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent3613">
 <head><persName type="author2" n="mr-etc"><roleName>Dr.</roleName> <surname>Knight</surname></persName></head>
-<p>his Life of Erasmus, <ref type="volpage" target="ch67:v11p290">xi.290 note</ref>.</p>
+<p>his Life of Erasmus, <ref type="volpage" target="ch66:v11p290">xi.290 note</ref>.</p>
 </div>
 
 
@@ -26710,15 +26710,15 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent3669">
 <head><persName type="author2" n="fore3"><forename>Constantine</forename> <surname>Lascaris</surname></persName></head>
-<p>Greek grammar of, <ref type="volpage" target="ch67:v11p290">xi.290</ref> n0be.</p>
+<p>Greek grammar of, <ref type="volpage" target="ch66:v11p290">xi.290 note</ref>.</p>
 </div>
 
 
 <div type="textpart" subtype="entry" xml:id="ent3670">
 <head><persName n="fore3"><forename>James</forename> <surname>Lascaris</surname></persName></head>
-<p>Greek grammarian, <ref type="volpage" target="ch67:v11p285">xi.285</ref> <ref type="volpage" target="ch67:v11p286">sq. and note</ref>.</p>
-<p>founds Greek colleges of Rome and Paris, <ref type="volpage" target="ch67:v11p285">ib. note</ref>.</p>
-<p>brings MSS. from the East for Lorenzo de Medicio, <ref type="volpage" target="ch67:v11p289">289</ref>.</p>
+<p>Greek grammarian, <ref type="volpage" target="ch66:v11p285">xi.285</ref> <ref type="volpage" target="ch66:v11p286">sq. and note</ref>.</p>
+<p>founds Greek colleges of Rome and Paris, <ref type="volpage" target="ch66:v11p285">ib. note</ref>.</p>
+<p>brings MSS. from the East for Lorenzo de Medicio, <ref type="volpage" target="ch66:v11p289">289</ref>.</p>
 </div>
 
 
@@ -26748,7 +26748,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent3675">
 <head><persName n="manual">Latimer</persName></head>
-<p><ref type="volpage" target="ch67:v11p290">xi.290 note</ref>.</p>
+<p><ref type="volpage" target="ch66:v11p290">xi.290 note</ref>.</p>
 </div>
 
 
@@ -26756,7 +26756,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 <head><rs type="religious" n="manual">Latin Christians</rs></head>
 <p>indifference of, <ref type="volpage" target="ch21:v03p361">iii.361</ref>, <ref type="volpage" target="ch21:v03p362">362</ref>.</p>
 <p>influenced by Valens and Ursacius, <ref type="volpage" target="ch21:v03p362">362 and note</ref>.</p>
-<p>Church of, distracted by schism, <ref type="volpage" target="ch67:v11p244">xi.244</ref>.</p>
+<p>Church of, distracted by schism, <ref type="volpage" target="ch66:v11p244">xi.244</ref>.</p>
 </div>
 
 
@@ -26987,7 +26987,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent3708">
 <head><persName type="author1">Legrand</persName></head>
-<p>his Biographie Hellénique, <ref type="volpage" target="ch67:v11p275">xi.275 note</ref>.</p>
+<p>his Biographie Hellénique, <ref type="volpage" target="ch66:v11p275">xi.275 note</ref>.</p>
 </div>
 
 
@@ -27018,7 +27018,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent3713">
 <head><persName type="author2" n="mr-etc"><roleName>M.</roleName> <surname>Lenfant</surname></persName></head>
-<p>historian of the councils, <ref type="volpage" target="ch67:v11p253">xi.253 note</ref>, <ref type="volpage" target="ch64:v11p167">167 note</ref>.</p>
+<p>historian of the councils, <ref type="volpage" target="ch66:v11p253">xi.253 note</ref>, <ref type="volpage" target="ch64:v11p167">167 note</ref>.</p>
 </div>
 
 
@@ -27199,8 +27199,8 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent3735">
 <head><persName type="author2" n="heur1-professor"><forename n="fore6">Leo</forename> <surname>Pilatus</surname></persName></head>
-<p>first professor of Greek at Florence, <ref type="volpage" target="ch67:v11p279">xi.279</ref> <ref type="volpage" target="ch67:v11p280">sq.</ref>.</p>
-<p>his translation of Homer, <ref type="volpage" target="ch67:v11p281">281 note</ref>.</p>
+<p>first professor of Greek at Florence, <ref type="volpage" target="ch66:v11p279">xi.279</ref> <ref type="volpage" target="ch66:v11p280">sq.</ref>.</p>
+<p>his translation of Homer, <ref type="volpage" target="ch66:v11p281">281 note</ref>.</p>
 </div>
 
 
@@ -27360,7 +27360,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 <div type="textpart" subtype="entry" xml:id="ent3759">
 <head><persName type="author1">Leunclavius on the Turks</persName></head>
 <p><ref type="volpage" target="ch64:v11p157">xi.157 note</ref>, <ref type="volpage" target="ch65:v11p208">208</ref>.</p>
-<p>his edition of Chalcondyles, <ref type="volpage" target="ch67:v11p245">245 note</ref>.</p>
+<p>his edition of Chalcondyles, <ref type="volpage" target="ch66:v11p245">245 note</ref>.</p>
 </div>
 
 
@@ -27644,7 +27644,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent3800">
 <head><persName n="manual">Linacer</persName></head>
-<p><ref type="volpage" target="ch67:v11p290">xi.290 note</ref>.</p>
+<p><ref type="volpage" target="ch66:v11p290">xi.290 note</ref>.</p>
 </div>
 
 
@@ -27777,7 +27777,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent3820">
 <head><rs type="ethnic">Locri</rs></head>
-<p>or Santa Cyriaca, Barlaam, Bishop of, <ref type="volpage" target="ch67:v11p278">xi.278 note</ref>.</p>
+<p>or Santa Cyriaca, Barlaam, Bishop of, <ref type="volpage" target="ch66:v11p278">xi.278 note</ref>.</p>
 </div>
 
 
@@ -29210,7 +29210,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent4017">
 <head><persName type="author2" n="fore3"><forename>G.</forename> <surname>Mandolori</surname></persName></head>
-<p>on Barlaam, <ref type="volpage" target="ch67:v11p277">xi.277 note</ref>.</p>
+<p>on Barlaam, <ref type="volpage" target="ch66:v11p277">xi.277 note</ref>.</p>
 </div>
 
 
@@ -29380,9 +29380,9 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 <p>visits French court, <ref type="volpage" target="ch64:v11p179">179</ref>.</p>
 <p>returns to Constantinople, <ref type="volpage" target="ch65:v11p223">223</ref>.</p>
 <p>concludes treaty with Mahomet, <ref type="volpage" target="ch65:v11p223">ib.</ref>.</p>
-<p>death, <ref type="volpage" target="ch65:v11p225">225</ref>, <ref type="volpage" target="ch67:v11p251">251</ref>.</p>
-<p>negotiations of, <ref type="volpage" target="ch67:v11p250">250</ref>.</p>
-<p>dialogues of, <ref type="volpage" target="ch67:v11p250">ib. note</ref>.</p>
+<p>death, <ref type="volpage" target="ch65:v11p225">225</ref>, <ref type="volpage" target="ch66:v11p251">251</ref>.</p>
+<p>negotiations of, <ref type="volpage" target="ch66:v11p250">250</ref>.</p>
+<p>dialogues of, <ref type="volpage" target="ch66:v11p250">ib. note</ref>.</p>
 
 
 
@@ -29860,8 +29860,8 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent4112">
 <head><persName n="rol4">Mark</persName></head>
-<p><roleName>Bishop of <placeName>Ephesus</placeName></roleName>, at Council of Florence, <ref type="volpage" target="ch67:v11p265">xi.265</ref>.</p>
-<p>opposes union of the churches, <ref type="volpage" target="ch67:v11p268">268</ref>.</p>
+<p><roleName>Bishop of <placeName>Ephesus</placeName></roleName>, at Council of Florence, <ref type="volpage" target="ch66:v11p265">xi.265</ref>.</p>
+<p>opposes union of the churches, <ref type="volpage" target="ch66:v11p268">268</ref>.</p>
 <p>death, <ref type="volpage" target="ch65:v11p208">208</ref>.</p>
 <pb n="317"/>
 <milestone unit="hathitrustpage" n="https://hdl.handle.net/2027/umn.319510020108540?urlappend=%3Bseq=347"/>
@@ -29886,7 +29886,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent4115">
 <head><name>Markland</name></head>
-<p>Jeremiah, <ref type="volpage" target="ch67:v11p285">xi.285 note</ref>.</p>
+<p>Jeremiah, <ref type="volpage" target="ch66:v11p285">xi.285 note</ref>.</p>
 </div>
 
 
@@ -30044,7 +30044,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent4139">
 <head><persName n="genname"><surname>Martin</surname> <genName n="5">V.</genName></persName></head>
-<p><roleName n="rulex">Pope</roleName>, <ref type="volpage" target="ch67:v11p249">xi.249</ref>, <ref type="volpage" target="ch67:v11p252">252</ref>.</p>
+<p><roleName n="rulex">Pope</roleName>, <ref type="volpage" target="ch66:v11p249">xi.249</ref>, <ref type="volpage" target="ch66:v11p252">252</ref>.</p>
 <p>election of, <ref type="volpage" target="ch70:v12p167">xii.167</ref>.</p>
 <p>medals of, <ref type="volpage" target="ch70:v12p167">ib. and note</ref>.</p>
 <p>restoration of Rome under, <ref type="volpage" target="ch71:v12p210">210</ref>.</p>
@@ -30599,13 +30599,13 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent4211">
 <head><name>Medicis</name></head>
-<p>Cosmo of, <ref type="volpage" target="ch67:v11p289">xi.289</ref>.</p>
+<p>Cosmo of, <ref type="volpage" target="ch66:v11p289">xi.289</ref>.</p>
 </div>
 
 
 <div type="textpart" subtype="entry" xml:id="ent4212">
 <head><name>Medicis</name></head>
-<p>Lorenzo of, learning of, <ref type="volpage" target="ch67:v11p289">xi.289</ref>.</p>
+<p>Lorenzo of, learning of, <ref type="volpage" target="ch66:v11p289">xi.289</ref>.</p>
 </div>
 
 
@@ -31142,7 +31142,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent4292">
 <head><persName type="author2" n="fore3"><forename>G.</forename> <surname>Meyer</surname></persName></head>
-<p>on the <rs type="language" n="manual">Greek</rs> language, <ref type="volpage" target="ch67:v11p272">xi.272 note</ref>.</p>
+<p>on the <rs type="language" n="manual">Greek</rs> language, <ref type="volpage" target="ch66:v11p272">xi.272 note</ref>.</p>
 </div>
 
 
@@ -31297,8 +31297,8 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent4313">
 <head><placeName n="qual1-duke" type="duchy">Milan</placeName></head>
-<p><roleName n="ruler2">Duke</roleName> of, opposes <persName n="genname"><surname>Eugenius</surname> <genName n="4">IV.</genName></persName>, <ref type="volpage" target="ch67:v11p255">xi.255</ref>.</p>
-<p>troops of, before Ferrara, <ref type="volpage" target="ch67:v11p264">264</ref>.</p>
+<p><roleName n="ruler2">Duke</roleName> of, opposes <persName n="genname"><surname>Eugenius</surname> <genName n="4">IV.</genName></persName>, <ref type="volpage" target="ch66:v11p255">xi.255</ref>.</p>
+<p>troops of, before Ferrara, <ref type="volpage" target="ch66:v11p264">264</ref>.</p>
 </div>
 
 
@@ -31653,7 +31653,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent4366">
 <head><persName n="rol4">Moderator</persName></head>
-<p>name used by the <roleName>Pope of <rs type="ethnic">the Greek emperor</rs></roleName>, <ref type="volpage" target="ch67:v11p235">xi.235 and note</ref>.</p>
+<p>name used by the <roleName>Pope of <rs type="ethnic">the Greek emperor</rs></roleName>, <ref type="volpage" target="ch66:v11p235">xi.235 and note</ref>.</p>
 </div>
 
 
@@ -32053,7 +32053,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent4421">
 <head><placeName n="qual1-marquis" type="marquis">Montferrat</placeName></head>
-<p><roleName n="ruler2">Marquis</roleName> of, sends his daughter to Constantinople, <ref type="volpage" target="ch67:v11p249">xi.249</ref>.</p>
+<p><roleName n="ruler2">Marquis</roleName> of, sends his daughter to Constantinople, <ref type="volpage" target="ch66:v11p249">xi.249</ref>.</p>
 </div>
 
 
@@ -32159,7 +32159,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent4436">
 <head><persName type="author1">Morosi</persName></head>
-<p>on Greek dialects in Italy, <ref type="volpage" target="ch67:v11p276">xi.276 note</ref>.</p>
+<p>on Greek dialects in Italy, <ref type="volpage" target="ch66:v11p276">xi.276 note</ref>.</p>
 </div>
 
 
@@ -32396,7 +32396,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent4471">
 <head><name>Mugnier on union of Greek and Latin churches</name></head>
-<p><ref type="volpage" target="ch67:v11p254">xi.254 note</ref>.</p>
+<p><ref type="volpage" target="ch66:v11p254">xi.254 note</ref>.</p>
 </div>
 
 
@@ -33391,7 +33391,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent4611">
 <head><persName n="genname"><surname>Nicholas</surname> <genName n="3">III.</genName></persName></head>
-<p><roleName>Marquis of <placeName>Este</placeName></roleName>, <ref type="volpage" target="ch67:v11p261">xi.261 and note</ref>.</p>
+<p><roleName>Marquis of <placeName>Este</placeName></roleName>, <ref type="volpage" target="ch66:v11p261">xi.261 and note</ref>.</p>
 </div>
 
 
@@ -33413,8 +33413,8 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent4614">
 <head><persName n="genname"><surname>Nicholas</surname> <genName n="5">V.</genName></persName></head>
-<p><roleName n="rulex">Pope</roleName>, <ref type="volpage" target="ch67:v11p288">xi.288</ref>; <ref type="volpage" target="ch68:v12p061">xii.61</ref>.</p>
-<p>founds Vatican library, <ref type="volpage" target="ch67:v11p289">xi.289</ref>.</p>
+<p><roleName n="rulex">Pope</roleName>, <ref type="volpage" target="ch66:v11p288">xi.288</ref>; <ref type="volpage" target="ch68:v12p061">xii.61</ref>.</p>
+<p>founds Vatican library, <ref type="volpage" target="ch66:v11p289">xi.289</ref>.</p>
 <p>fails to assist the Greek emperor, <ref type="volpage" target="ch68:v12p016">xii.16</ref>.</p>
 <p>recognised by Greek Church, <ref type="volpage" target="ch68:v12p021">21</ref>, <ref type="volpage" target="ch70:v12p168">168</ref>.</p>
 <p>Rome restored under, <ref type="volpage" target="ch70:v12p169">169</ref>.</p>
@@ -33678,7 +33678,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent4651">
 <head><persName n="mr-etc"><name type="nameLink">de</name> <surname>Nolhac</surname></persName></head>
-<p>P., <ref type="volpage" target="ch67:v11p277">xi.277 note</ref>.</p>
+<p>P., <ref type="volpage" target="ch66:v11p277">xi.277 note</ref>.</p>
 </div>
 
 
@@ -34468,7 +34468,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent4766">
 <head><placeName n="qual1-duke" type="duchy">Orleans</placeName></head>
-<p><roleName n="ruler2">Duke</roleName> of, brother of <persName n="genname"><surname>Charles</surname> <genName n="6">VI.</genName></persName>, of <placeName>France</placeName>, <ref type="volpage" target="ch67:v11p243">xi.243</ref>.</p>
+<p><roleName n="ruler2">Duke</roleName> of, brother of <persName n="genname"><surname>Charles</surname> <genName n="6">VI.</genName></persName>, of <placeName>France</placeName>, <ref type="volpage" target="ch66:v11p243">xi.243</ref>.</p>
 </div>
 
 
@@ -34710,7 +34710,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent4800">
 <head><placeName n="space-at-comma">Otranto</placeName></head>
-<p>(Hydrus, Hydruntum), <rs type="dialect" n="manual">Greek</rs> dialect spoken in, <ref type="volpage" target="ch67:v11p276">xi.276 note</ref>.</p>
+<p>(Hydrus, Hydruntum), <rs type="dialect" n="manual">Greek</rs> dialect spoken in, <ref type="volpage" target="ch66:v11p276">xi.276 note</ref>.</p>
 <p>capture by Turks, <ref type="volpage" target="ch68:v12p063">xii.63 and note</ref>.</p>
 </div>
 
@@ -34765,7 +34765,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent4806">
 <head><name>Oxford</name></head>
-<p>number of students at university of, <ref type="volpage" target="ch67:v11p274">xi.274 note</ref>.</p>
+<p>number of students at university of, <ref type="volpage" target="ch66:v11p274">xi.274 note</ref>.</p>
 </div>
 
 
@@ -34897,7 +34897,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 
 <div type="textpart" subtype="entry" xml:id="ent4824">
-<head><persName n="roman2"><surname>Pagus</surname> <addName>Arebrignus</addName></persName></head>
+<head><placeName n="manual">Pagus Arebrignus</placeName></head>
 <p><ref type="volpage" target="ch02:v01p067">i.67 note</ref>.</p>
 </div>
 
@@ -34929,8 +34929,8 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent4829">
 <head><persName n="fore3"><forename>Andronicus</forename> <surname>Palaeologus</surname></persName></head>
-<p>Regent of Constantinople, <ref type="volpage" target="ch67:v11p241">xi.241</ref>.</p>
-<p>receives Thessalonica, <ref type="volpage" target="ch67:v11p251">251</ref>.</p>
+<p>Regent of Constantinople, <ref type="volpage" target="ch66:v11p241">xi.241</ref>.</p>
+<p>receives Thessalonica, <ref type="volpage" target="ch66:v11p251">251</ref>.</p>
 </div>
 
 
@@ -35305,7 +35305,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 <div type="textpart" subtype="entry" xml:id="ent4884">
 <head><persName type="author2" n="tempr"><roleName>Fra</roleName> <surname>Paolo</surname></persName></head>
 <p><ref type="volpage" target="ch16:v03p088">iii.88 note</ref>.</p>
-<p>on the Papal System, <ref type="volpage" target="ch67:v11p253">xi.253 note</ref>; <ref type="volpage" target="ch70:v12p176">xii.176 note</ref>.</p>
+<p>on the Papal System, <ref type="volpage" target="ch66:v11p253">xi.253 note</ref>; <ref type="volpage" target="ch70:v12p176">xii.176 note</ref>.</p>
 </div>
 
 
@@ -35418,7 +35418,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 <p>description of, <ref type="volpage" target="ch19:v03p277">iii.277</ref> <ref type="volpage" target="ch19:v03p278">sq.</ref>.</p>
 <p>palace of the baths (Thermarum) at, <ref type="volpage" target="ch22:v04p008">iv.8 and note</ref>.</p>
 <p>siege of, by Clovis, <ref type="volpage" target="ch38:v06p216">vi.216 note</ref>.</p>
-<p>University of, <ref type="volpage" target="ch67:v11p274">xi.274 note</ref>, <ref type="volpage" target="ch70:v12p126">xii.126</ref>, <ref type="volpage" target="ch70:v12p163">163 and note</ref>.</p>
+<p>University of, <ref type="volpage" target="ch66:v11p274">xi.274 note</ref>, <ref type="volpage" target="ch70:v12p126">xii.126</ref>, <ref type="volpage" target="ch70:v12p163">163 and note</ref>.</p>
 </div>
 
 
@@ -35556,7 +35556,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent4922">
 <head><persName type="author1">Patricius</persName></head>
-<p>Augustin, historian, <ref type="volpage" target="ch67:v11p271">xi.271 note</ref>.</p>
+<p>Augustin, historian, <ref type="volpage" target="ch66:v11p271">xi.271 note</ref>.</p>
 </div>
 
 
@@ -35654,7 +35654,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent4937">
 <head><persName n="genname"><surname>Paul</surname> <genName n="2">II.</genName></persName></head>
-<p><roleName n="rulex">Pope</roleName>, persecutes Roman Academy, <ref type="volpage" target="ch67:v11p291">xi.291 note</ref>.</p>
+<p><roleName n="rulex">Pope</roleName>, persecutes Roman Academy, <ref type="volpage" target="ch66:v11p291">xi.291 note</ref>.</p>
 </div>
 
 
@@ -35706,7 +35706,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 
 <div type="textpart" subtype="entry" xml:id="ent4945">
-<head><rs type="ethnic" n="manual">Paulicians</rs></head>
+<head><rs type="heretics" n="manual">Paulicians</rs></head>
 <p>Christian sect, description of, <ref type="volpage" target="ch53:v10p001">x.1 sqq.</ref>.</p>
 <p>derivation of name, <ref type="volpage" target="ch54:v10p004">4 note</ref>.</p>
 <p>seven teachers of the, <ref type="volpage" target="ch54:v10p010">10</ref>. ; belief and worship of, <ref type="volpage" target="ch54:v10p006-ch54:v10p007">6 sq.</ref>.</p>
@@ -35921,7 +35921,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent4976">
 <head><persName type="author1">Pellegrini</persName></head>
-<p>on <rs type="dialect" n="manual">Greek</rs> dialect of Calabria, <ref type="volpage" target="ch67:v11p276">xi.276 note</ref>.</p>
+<p>on <rs type="dialect" n="manual">Greek</rs> dialect of Calabria, <ref type="volpage" target="ch66:v11p276">xi.276 note</ref>.</p>
 </div>
 
 
@@ -36413,8 +36413,8 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 <head><persName type="author1">Petrarch</persName></head>
 <p>on <persName n="genname"><surname>Charles</surname> <genName n="4">IV.</genName></persName>, <ref type="volpage" target="ch49:v08p391">viii.391</ref>.</p>
 <p>epistle of, to the Doge of Venice, <ref type="volpage" target="ch63:v11p127">xi.127</ref>.</p>
-<p>revived learning in Italy, <ref type="volpage" target="ch67:v11p277-ch67:v11p278">277 sq.</ref>.</p>
-<p>Greek studies of, <ref type="volpage" target="ch67:v11p278">278</ref>.</p>
+<p>revived learning in Italy, <ref type="volpage" target="ch66:v11p277-ch66:v11p278">277 sq.</ref>.</p>
+<p>Greek studies of, <ref type="volpage" target="ch66:v11p278">278</ref>.</p>
 <p>on St. Bernard, <ref type="volpage" target="ch69:v12p078">xii.78 note</ref>.</p>
 <p>on foreigners in Rome, <ref type="volpage" target="ch69:v12p115">115 note</ref>.</p>
 <p>character and coronation, <ref type="volpage" target="ch69:v12p123-ch70:v12p125">123 sqq.</ref>.</p>
@@ -36633,7 +36633,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent5074">
 <head><persName type="author2" n="fore3"><forename>Francis</forename> <surname>Philelphus</surname></persName></head>
-<p>sophist, <ref type="volpage" target="ch67:v11p272">xi.272 and note</ref>.</p>
+<p>sophist, <ref type="volpage" target="ch66:v11p272">xi.272 and note</ref>.</p>
 <p>Latin ode of, <ref type="volpage" target="ch68:v12p002">xii.2 note</ref>, <ref type="volpage" target="ch68:v12p048">48</ref>.</p>
 <p>on siege of Constantinople, <ref type="volpage" target="ch68:v12p017-ch68:v12p018">17-18</ref>.</p>
 </div>
@@ -36937,7 +36937,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 <div type="textpart" subtype="entry" xml:id="ent5117">
 <head><persName type="author2" n="fore3"><forename>George</forename> <surname>Phranza</surname></persName></head>
 <p>Greek historian, on captivity of Bajazet, <ref type="volpage" target="ch65:v11p207">xi.207</ref> <ref type="volpage" target="ch65:v11p208">sq.</ref>.</p>
-<p>account of, <ref type="volpage" target="ch67:v11p250">250 and note</ref>.</p>
+<p>account of, <ref type="volpage" target="ch66:v11p250">250 and note</ref>.</p>
 <p>embassy from Constantine Palaeologus into Georgia, <ref type="volpage" target="ch67:v11p323-ch67:v11p325">323 sqq.</ref>.</p>
 <p>great logothete, <ref type="volpage" target="ch67:v11p326">326</ref>.</p>
 <p>on events of the siege of Constantinople, <ref type="volpage" target="ch68:v12p011">xii.11 and note</ref>.</p>
@@ -37068,7 +37068,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 <head><placeName n="space-at-comma">Pisa</placeName></head>
 <p>Pandects at, <ref type="volpage" target="ch44:v07p335">vii.335 and note</ref>.</p>
 <p>merchants of, expelled by the Genoese from the Crimea, <ref type="volpage" target="ch63:v11p123">xi.123</ref>.</p>
-<p>Council of, <ref type="volpage" target="ch67:v11p253">253</ref>.</p>
+<p>Council of, <ref type="volpage" target="ch66:v11p253">253</ref>.</p>
 </div>
 
 
@@ -37190,7 +37190,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 <p>his Republic, <ref type="volpage" target="ch15:v02p319">319 and note</ref>.</p>
 <p>system of, before Christ, <ref type="volpage" target="ch21:v03p339">iii.339</ref> <ref type="volpage" target="ch21:v03p340">sq.</ref>.</p>
 <p>dialogues, translated into Persian, <ref type="volpage" target="ch42:v07p202">vii.202</ref> <ref type="volpage" target="ch42:v07p203">sq. note</ref>.</p>
-<p>study revived in Italy, <ref type="volpage" target="ch67:v11p286">xi.286</ref>.</p>
+<p>study revived in Italy, <ref type="volpage" target="ch66:v11p286">xi.286</ref>.</p>
 </div>
 
 
@@ -37226,7 +37226,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent5159">
 <head><persName type="author2" n="fore4"><forename>George</forename> <forename>Gemistus</forename> <surname>Pletho</surname></persName></head>
-<p><ref type="volpage" target="ch67:v11p286">xi.286 note</ref>, <ref type="volpage" target="ch67:v11p291">291 note</ref>.</p>
+<p><ref type="volpage" target="ch66:v11p286">xi.286 note</ref>, <ref type="volpage" target="ch66:v11p291">291 note</ref>.</p>
 <p>on state of the Morea, Xl<ref type="volpage" target="ch02:v01p058">i.58 note</ref>.</p>
 </div>
 
@@ -37355,7 +37355,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent5178">
 <head><rs n="qual1-family" type="family">Polenta</rs></head>
-<p>Roman family of, <ref type="volpage" target="ch71:v12p205">xii.205</ref>. Politian, Angelo, <ref type="volpage" target="ch67:v11p289">xi.289</ref>.</p>
+<p>Roman family of, <ref type="volpage" target="ch71:v12p205">xii.205</ref>. Politian, Angelo, <ref type="volpage" target="ch66:v11p289">xi.289</ref>.</p>
 <pb n="341"/>
 <milestone unit="hathitrustpage" n="https://hdl.handle.net/2027/umn.319510020108540?urlappend=%3Bseq=371"/>
 
@@ -37451,7 +37451,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 <div type="textpart" subtype="entry" xml:id="ent5192">
 <head><persName n="roman2"><surname>Pomponius</surname> <addName>Letus</addName></persName></head>
 <p><ref type="volpage" target="ch30:v05p191">v.191 note</ref>.</p>
-<p>founded Roman Academy, <ref type="volpage" target="ch67:v11p291">xi.291 note</ref>.</p>
+<p>founded Roman Academy, <ref type="volpage" target="ch66:v11p291">xi.291 note</ref>.</p>
 </div>
 
 
@@ -38071,7 +38071,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 <div type="textpart" subtype="entry" xml:id="ent5280">
 <head><rs type="simpname">Procession of the Holy Ghost</rs></head>
 <p><ref type="volpage" target="ch60:v10p328">x.328</ref> <ref type="volpage" target="ch60:v10p329">sq.</ref>.</p>
-<p>discussion concerning, at Ferrara and Florence, <ref type="volpage" target="ch67:v11p265">xi.265</ref>.</p>
+<p>discussion concerning, at Ferrara and Florence, <ref type="volpage" target="ch66:v11p265">xi.265</ref>.</p>
 </div>
 
 
@@ -38392,7 +38392,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 <div type="textpart" subtype="entry" xml:id="ent5325">
 <head><persName n="fore3"><forename>Michael</forename> <surname>Psellus</surname></persName></head>
 <p>instructor of <persName n="genname"><surname>Michael</surname> <genName n="8">VIII.</genName></persName>, <ref type="volpage" target="ch48:v08p284">viii.284</ref>; <ref type="volpage" target="ch53:v09p371">ix.371 note</ref>.</p>
-<p>revived study of Plato, <ref type="volpage" target="ch67:v11p286">xi.286 note</ref>.</p>
+<p>revived study of Plato, <ref type="volpage" target="ch66:v11p286">xi.286 note</ref>.</p>
 </div>
 
 
@@ -38482,7 +38482,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 <p>educates Theodosius, <ref type="volpage" target="ch32:v05p324">324</ref>; <roleName>Empress of <rs type="ethnic">the East</rs></roleName>, <ref type="volpage" target="ch34:v06p037">vi.37</ref>.</p>
 <p>puts Chrysaphius to death, <ref type="volpage" target="ch34:v06p037">ib.</ref>.</p>
 <p>marries the senator Marcian, <ref type="volpage" target="ch34:v06p037">ib.</ref>.</p>
-<p>death and canonisation, <ref type="volpage" target="ch36:v06p119">119 and note</ref>. Pulci, Morgante Maggiore of, <ref type="volpage" target="ch67:v11p292">xi.292 note</ref>.</p>
+<p>death and canonisation, <ref type="volpage" target="ch36:v06p119">119 and note</ref>. Pulci, Morgante Maggiore of, <ref type="volpage" target="ch66:v11p292">xi.292 note</ref>.</p>
 </div>
 
 
@@ -38869,7 +38869,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent5397">
 <head><persName type="author2" n="fore3"><forename>H.</forename> <surname>Rashdall</surname></persName></head>
-<p>on universities in the middle ages, <ref type="volpage" target="ch67:v11p274">xi.274 note</ref>.</p>
+<p>on universities in the middle ages, <ref type="volpage" target="ch66:v11p274">xi.274 note</ref>.</p>
 </div>
 
 
@@ -39077,7 +39077,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent5426">
 <head><name>Reiske</name></head>
-<p><ref type="volpage" target="ch67:v11p290">xi.290</ref>.</p>
+<p><ref type="volpage" target="ch66:v11p290">xi.290</ref>.</p>
 </div>
 
 
@@ -39456,7 +39456,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent5478">
 <head><persName n="heur1-hermit">Ripaille</persName></head>
-<p>hermitage of, near Thonon, <ref type="volpage" target="ch67:v11p271">xi.271 and note</ref>.</p>
+<p>hermitage of, near Thonon, <ref type="volpage" target="ch66:v11p271">xi.271 and note</ref>.</p>
 </div>
 
 
@@ -39790,7 +39790,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 <p>accepts image worship, <ref type="volpage" target="ch49:v08p324">viii.324</ref>.</p>
 <p>discipline different from that of the Greek Church, <ref type="volpage" target="ch60:v10p329">x.329</ref>.</p>
 <p>quarrel with Greek Church, <ref type="volpage" target="ch60:v10p330-ch60:v10p332">330 sqq.</ref>.</p>
-<p>corruption of, <ref type="volpage" target="ch67:v11p252">xi.252</ref>.</p>
+<p>corruption of, <ref type="volpage" target="ch66:v11p252">xi.252</ref>.</p>
 <p>great schism of, <ref type="volpage" target="ch64:v11p162-ch64:v11p164">162 sqq.</ref></p>
 </div>
 
@@ -39861,7 +39861,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 <p><persName n="genname"><surname>Constans</surname> <genName n="2">II.</genName></persName> attempts to restore seat of empire to, <ref type="volpage" target="ch53:v09p364">364</ref>.</p>
 <p>siege of, by <persName n="genname"><surname>Henry</surname> <genName n="3">III.</genName></persName>, of <placeName>Germany</placeName>, <ref type="volpage" target="ch56:v10p122">x.122</ref>.</p>
 <p>Saracens under Robert Guiscard at, <ref type="volpage" target="ch56:v10p124">124</ref>.</p>
-<p>compared with Constantinople, <ref type="volpage" target="ch67:v11p293">xi.293</ref>.</p>
+<p>compared with Constantinople, <ref type="volpage" target="ch66:v11p293">xi.293</ref>.</p>
 <p>revolutions at, from the eleventh century, <ref type="volpage" target="ch68:v12p065">xii.65 sqq.</ref>.</p>
 <p>French and German emperors of, <ref type="volpage" target="ch69:v12p066-ch69:v12p068">66 sqq.</ref>.</p>
 <p>authority of the popes, <ref type="volpage" target="ch69:v12p069-ch69:v12p071">69 sqq.</ref>.</p>
@@ -40507,7 +40507,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 <div type="textpart" subtype="entry" xml:id="ent5614">
 <head><placeName n="space-at-comma">Rossano</placeName></head>
 <p>held by the Goths, <ref type="volpage" target="ch43:v07p258">vii.258 and note</ref>.</p>
-<p>seven convents at, <ref type="volpage" target="ch67:v11p276">xi.276 note</ref>.</p>
+<p>seven convents at, <ref type="volpage" target="ch66:v11p276">xi.276 note</ref>.</p>
 </div>
 
 
@@ -41839,7 +41839,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent5806">
 <head><name>Scaliger</name></head>
-<p><ref type="volpage" target="ch67:v11p290">xi.290</ref>.</p>
+<p><ref type="volpage" target="ch66:v11p290">xi.290</ref>.</p>
 </div>
 
 
@@ -41967,7 +41967,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent5825">
 <head><persName type="author2" n="fore3"><forename>F.</forename> <surname>Schultze</surname></persName></head>
-<p>on the Renaissance, <ref type="volpage" target="ch67:v11p286">xi.286 note</ref>.</p>
+<p>on the Renaissance, <ref type="volpage" target="ch66:v11p286">xi.286 note</ref>.</p>
 </div>
 
 
@@ -43333,7 +43333,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent6021">
 <head><persName>Sigismund</persName></head>
-<p><roleName>emperor</roleName>, protects the synod of Constance, <ref type="volpage" target="ch67:v11p255">xi.255</ref>, <ref type="volpage" target="ch67:v11p257">257</ref>; <ref type="volpage" target="ch70:v12p165">xii.165</ref>.</p>
+<p><roleName>emperor</roleName>, protects the synod of Constance, <ref type="volpage" target="ch66:v11p255">xi.255</ref>, <ref type="volpage" target="ch66:v11p257">257</ref>; <ref type="volpage" target="ch70:v12p165">xii.165</ref>.</p>
 </div>
 
 
@@ -44304,7 +44304,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent6159">
 <head><persName type="author2" n="fore3"><forename>L.</forename> <surname>Stein</surname></persName></head>
-<p>on Theodore Gaza, <ref type="volpage" target="ch67:v11p286">xi.286 note</ref>.</p>
+<p>on Theodore Gaza, <ref type="volpage" target="ch66:v11p286">xi.286 note</ref>.</p>
 </div>
 
 
@@ -44396,7 +44396,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent6173">
 <head><persName n="fore3"><forename>Robert</forename> <surname>Stephens</surname></persName></head>
-<p>error in text of Greek Testament, <ref type="volpage" target="ch37:v06p198">vi.198 note</ref>; <ref type="volpage" target="ch67:v11p290">xi.290</ref>.</p>
+<p>error in text of Greek Testament, <ref type="volpage" target="ch37:v06p198">vi.198 note</ref>; <ref type="volpage" target="ch66:v11p290">xi.290</ref>.</p>
 </div>
 
 
@@ -44553,7 +44553,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent6195">
 <head><persName type="author2" n="fore3"><forename>F.</forename> <surname>Stuhr</surname></persName></head>
-<p>on Councils of Pisa and Constance, <ref type="volpage" target="ch67:v11p253">xi.253 note</ref>.</p>
+<p>on Councils of Pisa and Constance, <ref type="volpage" target="ch66:v11p253">xi.253 note</ref>.</p>
 </div>
 
 
@@ -45043,7 +45043,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 <div type="textpart" subtype="entry" xml:id="ent6269">
 <head><persName n="tempr"><roleName>Pope</roleName> <surname>Symmachus</surname></persName></head>
 <p>elected by Theodoric, <ref type="volpage" target="ch39:v06p331">vi.331</ref>.</p>
-<p>lives of, <ref type="volpage" target="ch39:v06p331">ib. note</ref>. Symonds, J. A., on the revival of learning in Italy, <ref type="volpage" target="ch67:v11p275">xi.275 note</ref>.</p>
+<p>lives of, <ref type="volpage" target="ch39:v06p331">ib. note</ref>. Symonds, J. A., on the revival of learning in Italy, <ref type="volpage" target="ch66:v11p275">xi.275 note</ref>.</p>
 </div>
 
 
@@ -45141,8 +45141,8 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent6280">
 <head><persName type="author1">Syropulus</persName></head>
-<p>Sylvester, his history of the union of the Latin and Greek Churches, <ref type="volpage" target="ch67:v11p259">xi.259</ref>.</p>
-<p>his name, <ref type="volpage" target="ch67:v11p259">ib. note</ref>.</p>
+<p>Sylvester, his history of the union of the Latin and Greek Churches, <ref type="volpage" target="ch66:v11p259">xi.259</ref>.</p>
+<p>his name, <ref type="volpage" target="ch66:v11p259">ib. note</ref>.</p>
 </div>
 
 
@@ -46289,8 +46289,8 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent6446">
 <head><persName type="author1"><forename n="fore6">Theodore</forename> <surname>Gaza</surname></persName></head>
-<p><ref type="volpage" target="ch67:v11p284">xi.284 and note</ref>.</p>
-<p>on Aristotle and Theophrastus, <ref type="volpage" target="ch67:v11p286">286</ref>.</p>
+<p><ref type="volpage" target="ch66:v11p284">xi.284 and note</ref>.</p>
+<p>on Aristotle and Theophrastus, <ref type="volpage" target="ch66:v11p286">286</ref>.</p>
 </div>
 
 
@@ -46743,7 +46743,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 <p>disciples of, <ref type="volpage" target="ch40:v07p074">vii.74</ref>.</p>
 <p>exile of, <ref type="volpage" target="ch40:v07p078">78 note</ref>.</p>
 <p>account of the Romans, <ref type="volpage" target="ch44:v07p306">306 note</ref>.</p>
-<p>study of, by Theodore Gaza, <ref type="volpage" target="ch67:v11p286">xi.286</ref>.</p>
+<p>study of, by Theodore Gaza, <ref type="volpage" target="ch66:v11p286">xi.286</ref>.</p>
 </div>
 
 
@@ -46803,7 +46803,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent6509">
 <head><persName type="author1">Therianos</persName></head>
-<p>on revival of learning in Italy, <ref type="volpage" target="ch67:v11p275">xi.275 note</ref>.</p>
+<p>on revival of learning in Italy, <ref type="volpage" target="ch66:v11p275">xi.275 note</ref>.</p>
 </div>
 
 
@@ -46857,7 +46857,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 <p>kingdom united to Nice, <ref type="volpage" target="ch61:v11p033">33 and note</ref>.</p>
 <p>Cantacuzene at, <ref type="volpage" target="ch63:v11p109">109</ref>.</p>
 <p>importance of, in the empire, <ref type="volpage" target="ch63:v11p113">113</ref> noie; John Palaeologus at, <ref type="volpage" target="ch63:v11p116">116</ref>.</p>
-<p>under Andronicus Palaeologus, <ref type="volpage" target="ch67:v11p251">251</ref>.</p>
+<p>under Andronicus Palaeologus, <ref type="volpage" target="ch66:v11p251">251</ref>.</p>
 <p>conquest of, by <persName n="genname"><surname>Amurath</surname> <genName n="2">II.</genName></persName>, <ref type="volpage" target="ch67:v11p302">302 and note</ref>.</p>
 </div>
 
@@ -47322,7 +47322,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent6580">
 <head><persName type="author1">Tiraboschi</persName></head>
-<p>on restoration of Greek learning in Italy, <ref type="volpage" target="ch67:v11p275">xi.275 note</ref>, <ref type="volpage" target="ch67:v11p289">289 note</ref>.</p>
+<p>on restoration of Greek learning in Italy, <ref type="volpage" target="ch66:v11p275">xi.275 note</ref>, <ref type="volpage" target="ch66:v11p289">289 note</ref>.</p>
 </div>
 
 
@@ -47526,7 +47526,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent6610">
 <head><persName n="fore3"><forename>L.</forename> <surname>Tosti</surname></persName></head>
-<p>History of the Council of Constance, <ref type="volpage" target="ch67:v11p253">xi.253 note</ref>.</p>
+<p>History of the Council of Constance, <ref type="volpage" target="ch66:v11p253">xi.253 note</ref>.</p>
 </div>
 
 
@@ -47663,8 +47663,8 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent6628">
 <head><persName type="author2" n="fore3"><forename>H. F.</forename> <surname>Tozer</surname></persName></head>
-<p>on Greek-speaking population of Italy, <ref type="volpage" target="ch67:v11p276">xi.276 note</ref>.</p>
-<p>on Plethon, <ref type="volpage" target="ch67:v11p286">286 note</ref>.</p>
+<p>on Greek-speaking population of Italy, <ref type="volpage" target="ch66:v11p276">xi.276 note</ref>.</p>
+<p>on Plethon, <ref type="volpage" target="ch66:v11p286">286 note</ref>.</p>
 </div>
 
 
@@ -48408,7 +48408,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent6730">
 <head><name>Universities</name></head>
-<p>European, <ref type="volpage" target="ch67:v11p275">xi.275</ref>.</p>
+<p>European, <ref type="volpage" target="ch66:v11p275">xi.275</ref>.</p>
 </div>
 
 
@@ -48453,7 +48453,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent6737">
 <head><persName n="genname"><surname>Urban</surname> <genName n="5">V.</genName></persName></head>
-<p><roleName n="rulex">Pope</roleName>, <ref type="volpage" target="ch67:v11p239">xi.239 and note</ref>.</p>
+<p><roleName n="rulex">Pope</roleName>, <ref type="volpage" target="ch66:v11p239">xi.239 and note</ref>.</p>
 <p>addressed by Petrarch, <ref type="volpage" target="ch70:v12p155">xii.155 and note</ref>, <ref type="volpage" target="ch70:v12p156">sq. note</ref>.</p>
 <p>returns to Rome, <ref type="volpage" target="ch70:v12p157">157</ref>.</p>
 <p>death foretold by St. Bridget, <ref type="volpage" target="ch70:v12p157">ib.</ref>.</p>
@@ -48602,7 +48602,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent6759">
 <head><persName type="author2" n="fore3"><forename>T.</forename> <surname>Uspenski</surname></persName></head>
-<p>on Barlaam, <ref type="volpage" target="ch67:v11p276">xi.276 note</ref>.</p>
+<p>on Barlaam, <ref type="volpage" target="ch66:v11p276">xi.276 note</ref>.</p>
 </div>
 
 
@@ -48929,7 +48929,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 <div type="textpart" subtype="entry" xml:id="ent6802">
 <head><persName n="fore3"><forename>Laurentius</forename> <surname>Valla</surname></persName></head>
 <p>grammarian, <ref type="volpage" target="ch44:v07p332">vii.332 note</ref>; <ref type="volpage" target="ch49:v08p349">viii.349 and note</ref>.</p>
-<p>Latin interpreter, <ref type="volpage" target="ch67:v11p280">xi.280</ref>.</p>
+<p>Latin interpreter, <ref type="volpage" target="ch66:v11p280">xi.280</ref>.</p>
 </div>
 
 
@@ -49137,7 +49137,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent6829">
 <head><placeName type="building">library of the Vatican</placeName></head>
-<p><ref type="volpage" target="ch67:v11p289">xi.289</ref>.</p>
+<p><ref type="volpage" target="ch66:v11p289">xi.289</ref>.</p>
 </div>
 
 
@@ -49254,7 +49254,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 <p>History of, <ref type="volpage" target="ch60:v10p344-ch60:v10p346">344 sqq.</ref>.</p>
 <p>bronze horses of Constantinople taken to, <ref type="volpage" target="ch60:v10p384">x.384 note</ref>.</p>
 <p>her monopoly of trade with the East, <ref type="volpage" target="ch64:v11p146">xi.146 note</ref>.</p>
-<p>John Palaeologus at, <ref type="volpage" target="ch67:v11p260">260</ref>.</p>
+<p>John Palaeologus at, <ref type="volpage" target="ch66:v11p260">260</ref>.</p>
 <p>knowledge of Turkish political affairs at, <ref type="volpage" target="ch68:v12p063">xii.63 note</ref>.</p>
 <p>holds aloof from factions of Italy, <ref type="volpage" target="ch71:v12p198">198</ref>.</p>
 </div>
@@ -49293,7 +49293,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent6851">
 <head><persName n="qual2-pupil" type="pupil">Vergerius</persName></head>
-<p>pupil of Chrysoloras, <ref type="volpage" target="ch67:v11p283">xi.283 note</ref>.</p>
+<p>pupil of Chrysoloras, <ref type="volpage" target="ch66:v11p283">xi.283 note</ref>.</p>
 </div>
 
 
@@ -49616,7 +49616,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent6899">
 <head><persName type="author2" n="mr-etc"><roleName>M. des</roleName> <surname>Vignoles</surname></persName></head>
-<p>on date of fire in Nero’s reign, <ref type="volpage" target="ch71:v12p188">xii.188</ref> safe.</p>
+<p>on date of fire in Nero’s reign, <ref type="volpage" target="ch71:v12p188">xii.188 note</ref>.</p>
 </div>
 
 
@@ -50441,7 +50441,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent7021">
 <head><persName n="fore3"><forename>W. H.</forename> <surname>Woodward</surname></persName></head>
-<p><ref type="volpage" target="ch67:v11p275">xi.275 note</ref>. </p>
+<p><ref type="volpage" target="ch66:v11p275">xi.275 note</ref>. </p>
 </div>
 
 
@@ -50509,7 +50509,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent7031">
 <head><persName type="author2" n="fore1"><forename>Berger</forename> <name type="nameLink">de</name> <surname>Xivrey</surname></persName></head>
-<p>on Emperor Manuel, <ref type="volpage" target="ch67:v11p249">xi.249 note</ref>.</p>
+<p>on Emperor Manuel, <ref type="volpage" target="ch66:v11p249">xi.249 note</ref>.</p>
 </div>
 
 <div type="textpart" subtype="letter" n="Y">
@@ -50818,7 +50818,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 
 <div type="textpart" subtype="entry" xml:id="ent7078">
 <head><persName n="heur1-attendant">Zampea</persName></head>
-<p>attendant of the Empress Anne, <ref type="volpage" target="ch67:v11p236">xi.236 and note</ref>.</p>
+<p>attendant of the Empress Anne, <ref type="volpage" target="ch66:v11p236">xi.236 and note</ref>.</p>
 </div>
 
 
